@@ -113,14 +113,14 @@ alerting bots.
 
 ## EDUCATION
 
-## 🎓 [University of Surrey](https://www.surrey.ac.uk/) ([Ranked #270 Worldwide for Engineering & Technology, QS 2025](https://www.topuniversities.com/universities/university-surrey)), Guildford, Surrey, UK — Master of Science (Artificial Intelligence)
+- ## 🎓 [University of Surrey](https://www.surrey.ac.uk/) ([Ranked #270 Worldwide for Engineering & Technology, QS 2025](https://www.topuniversities.com/universities/university-surrey)), Guildford, Surrey, UK — Master of Science (Artificial Intelligence)
 
 **Feb 2025 - Feb 2026**  
 **Dissertation:** Efficient Collaborative Synthesis in LLMs: A Mixture-of-Agents Approach  
 **Supervisor:** [Dr. Xiatian Zhu](https://www.linkedin.com/in/xiatian-zhu-67167045), Senior Lecturer in People-Centred AI, University of Surrey  
 **Description:** Currently developing a novel Mixture-of-Agents (MoA) framework to overcome core limitations of traditional MoE models—static routing, limited context-awareness, and expert underuse. Implemented dynamic agent collaboration and voting using LangGraph and OpenRouter, improving factual grounding by ~30% in multi-hop QA. Delivered a full-stack prototype (React + Node.js) enabling real-time, modular LLM orchestration.
 
-## 🎓 [Jaypee University of Information Technology](https://www.juit.ac.in/) ([NAAC A+ Accredited](https://www.juit.ac.in/rankings-and-recognitions)), Solan, H.P., India — Bachelor of Technology (Computer Science and Engineering)
+- ## 🎓 [Jaypee University of Information Technology](https://www.juit.ac.in/) ([NAAC A+ Accredited](https://www.juit.ac.in/rankings-and-recognitions)), Solan, H.P., India — Bachelor of Technology (Computer Science and Engineering)
 
 **July 2017 - June 2021**  
 **University Capstone Projects (Overall 81.5%):** Reflex Test (3rd year, 85%) [Source Code](https://github.com/burrows99/Reflex-test); Jarvis-AI (4th year, 80%) [Source Code](https://github.com/burrows99/Jarvis-AI), [Project Report](https://drive.google.com/file/d/1N4pLq_cZz4LuImrlfaOREMFqBmG1tUkV/view)  
