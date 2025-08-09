@@ -120,7 +120,7 @@ alerting bots.
 **Supervisor:** [Dr. Xiatian Zhu](https://www.linkedin.com/in/xiatian-zhu-67167045), Senior Lecturer in People-Centred AI, University of Surrey  
 **Description:** Currently developing a novel Mixture-of-Agents (MoA) framework to overcome core limitations of traditional MoE models—static routing, limited context-awareness, and expert underuse. Implemented dynamic agent collaboration and voting using LangGraph and OpenRouter, improving factual grounding by ~30% in multi-hop QA. Delivered a full-stack prototype (React + Node.js) enabling real-time, modular LLM orchestration.
 
-## 🎓 Jaypee University of Information Technology (NAAC A+ Accredited), Solan, H.P., India — Bachelor of Technology (Computer Science and Engineering)
+## 🎓 [Jaypee University of Information Technology](https://www.juit.ac.in/) ([NAAC A+ Accredited](https://www.juit.ac.in/rankings-and-recognitions)), Solan, H.P., India — Bachelor of Technology (Computer Science and Engineering)
 
 **July 2017 - June 2021**  
 **University Capstone Projects (Overall 81.5%):** Reflex Test (3rd year, 85%) [Source Code](https://github.com/burrows99/Reflex-test); Jarvis-AI (4th year, 80%) [Source Code](https://github.com/burrows99/Jarvis-AI), [Project Report](https://drive.google.com/file/d/1N4pLq_cZz4LuImrlfaOREMFqBmG1tUkV/view)  
@@ -129,16 +129,16 @@ alerting bots.
 
 ---
 
-## ACADEMIC HIGHLIGHTS
+## 🎓 ACADEMIC HIGHLIGHTS
 
-● **Strong STEM foundation** with 85.4% in 12th CBSE (View Marksheet) — **equivalent to UK A-Levels with grades AAAA** — including Mathematics (88%), Physics (89%), Chemistry (81%),
-Computer Science (81%), and English (88%).
-● **Secured 8.0 CGPA** in 10th CBSE (View Marksheet), **equivalent to UK GCSEs with grades A/A** ⁺ in core subjects.
+- 📊 **Strong STEM foundation** with 85.4% in 12th CBSE ([View Marksheet](https://drive.google.com/file/d/1P5O4wUi1EOmlxBjI9EyUuRhPeSHD_7ZY/view)) — **equivalent to UK A-Levels with grades AAAA** — including Mathematics (88%), Physics (89%), Chemistry (81%), Computer Science (81%), and English (88%).  
+- 🎯 **Secured 8.0 CGPA** in 10th CBSE ([View Marksheet](https://drive.google.com/file/d/1Er4Xx8Kq_pB38X3aZjh5Nc9xO2nprPGs/view)) — **equivalent to UK GCSEs with grades A/A⁺** in core subjects.
 
-## OPEN SOURCE CONTRIBUTIONS
+---
 
-● **Open-Source MCP Automation** | Built browser automation stack using LibreChat + Playwright-MCP with Node.js bridge (Docker-ready) (Linkedin Post, GitHub)
-● **3D Solar system** using Three.js (Live Link, Source code)
-● **Sentiment Analysis of Movie Reviews** : Frontend - Source code, Deployment; Backend - Source code, Deployment **Simulating Bacterial Infections in Python**
-● **Simulating Bacterial Infections in Python** : Contributed to open-source development by creating a Python-based simulation of bacterial infections, shared insights and code via a published
-article (LinkedIn Article).
+## 🔥 OPEN SOURCE CONTRIBUTIONS
+
+● 🤖 **Open-Source MCP Automation** | Built browser automation stack using LibreChat + Playwright-MCP with Node.js bridge (Docker-ready) ([Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7356798113082224642/), [GitHub](https://github.com/burrows99/LibreChat))
+● 🌌 **3D Solar System** using Three.js ([Live Link], [Source Code])  
+● 🎥 **Sentiment Analysis of Movie Reviews**: Frontend ([Source Code], Deployment); Backend ([Source Code], Deployment)  
+● 🦠 **Simulating Bacterial Infections in Python** | Contributed to open-source development by creating a Python-based simulation, shared insights and code via a published article ([LinkedIn Article]).
