@@ -45,6 +45,17 @@ until Feb 2026. Seeking full-time employment post-graduation with visa sponsorsh
 
 ---
 
+## 🎓 EDUCATION
+
+| Institution                                                                              | Degree & Duration                                              | Highlights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[University of Surrey](https://www.surrey.ac.uk/)**, Guildford, UK                     | MSc Artificial Intelligence<br>Feb 2025 – Feb 2026             | - Ranked **#270 globally** in QS World University Rankings by Subject: Engineering & Technology 2025 ([QS Source](https://www.topuniversities.com/university-subject-rankings/engineering-technology?search=University%20of%20Surrey))<br>- Dissertation: *Efficient Collaborative Synthesis in LLMs: A Mixture-of-Agents Approach*<br>- Supervisor: Dr. Xiatian Zhu, Senior Lecturer, People-Centred AI<br>- Developed MoA framework improving LLM factual grounding by \~30%, full-stack prototype built (React + Node.js) |
+| **[Jaypee University of Information Technology](https://www.juit.ac.in/)**, Solan, India | B.Tech Computer Science & Engineering<br>July 2017 – June 2021 | - NAAC A+ Accredited ([NAAC A+ Accredited)](https://www.juit.ac.in/rankings-and-recognitions))<br>- Ranked **#179 in QS Asia University Rankings 2025**: Southern Asia ([QS Source](https://www.juit.ac.in/rankings-and-recognitions))<br>- Ranked **801–1000 in World University Rankings 2025** by Times Higher Education ([THE Source](https://www.juit.ac.in/rankings-and-recognitions))<br>- Capstone Projects:<br>    - [Reflex Test (85%)](https://github.com/burrows99/reflex-test)<br>    - [Jarvis-AI (80%)](https://github.com/burrows99/jarvis-ai) (Project report available on request)                                                            |
+
+
+---
+
+
 ## 🎓 ACADEMIC HIGHLIGHTS
 
 - 📊 **Strong STEM foundation** with 85.4% in 12th CBSE ([View Marksheet](https://drive.google.com/file/d/1P5O4wUi1EOmlxBjI9EyUuRhPeSHD_7ZY/view)) — **equivalent to UK A-Levels with grades AAAA** — including Mathematics (88%), Physics (89%), Chemistry (81%), Computer Science (81%), and English (88%).  
