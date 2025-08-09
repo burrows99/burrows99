@@ -10,7 +10,7 @@
 
 ## 📍 LOCATION & CONTACT
 
-London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](tel:+447442124987) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; IN: [+91 8219 486037](tel:+918219486037) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📧 raunakburrows@gmail.com
+London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](tel:+447442124987) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 IN: [+91 8219 486037](tel:+918219486037) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📧 raunakburrows@gmail.com
 
 </div>
 
