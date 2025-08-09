@@ -56,7 +56,7 @@ physicians, showing a 40% increase in perceived answer relevance, measured via L
 
 ## [Turing](https://www.turing.com), United States of America (Remote) — Data Scientist Fixed Term
 
-**June 2024 - June 2025** | Contract
+**June 2024 - June 2025** | [Contract](https://drive.google.com/file/d/1EBKaDMB8TcWLxmiMYF_yCYTSOFIZ9ZHV/view?usp=sharing)
 - 🤖 **Conducted supervised fine-tuning and RLHF** for Grok LLM on X, enhancing response relevance by 25% (measured through human evaluation scores and automated relevance metrics via BLEU/ROUGE/LlamaIndex eval).  
   **Tech Stack** :  
   - ⚙️ Node.js  
@@ -73,7 +73,7 @@ physicians, showing a 40% increase in perceived answer relevance, measured via L
 
 ## [QuestionPro Pvt. Ltd.](https://www.questionpro.com), Pune (Remote) — Full stack developer FTE
 
-**August 2022 - July 2023 |** Relieving letter
+**August 2022 - July 2023 |** [Relieving letter](https://drive.google.com/file/d/1ChjryCJHe-3Ys25Nx1F5otmmPbVx6yQ9/view?usp=sharing)
 - 🐞 **Resolved 50+ UI/UX bugs in the React-based customer portal** , improving Google Lighthouse performance by 20% and reducing Zendesk ticket volume by 45%, tracked across 3 sprints in Jira.
 - 📊 **Built a real-time survey analytics dashboard** using React + Spring Boot + Metabase, enabling advanced filtering and drilldowns. Post-launch, client NPS rose from 3.8 → 4.6/5, measured via QuestionPro feedback reports.
 - 💡 **Invented the "NPS + Delight" hybrid question type** , improving engagement and boosting response rates by 15%, verified via backend submission logs (Node.js microservice) and Metabase funnel analytics.
@@ -81,22 +81,22 @@ physicians, showing a 40% increase in perceived answer relevance, measured via L
 logging middleware and Metabase dashboards.
 - 🚀 Maintained survey lifecycle and reminder scheduling modules built with Spring Boot, deployed via Docker + AWS App Runner, ensuring uptime >99.95% and fast deployments through GitHub Actions CI/CD.
 
-## Infosys Ltd., Bangalore (Remote) — Specialist Programmer FTE
+## [Infosys Ltd.](https://www.infosys.com), Bangalore (Remote) — Specialist Programmer FTE
 
 **September 2021 - August 2022** | Relieving letter
-● **Developed the “eBay Bagging Service”** using Kotlin + Spring Boot, cutting startup latency from 4ms → 2ms, validated through custom benchmarking scripts and local profiling tools (e.g., JFR,
+- 🚀 **Developed the “eBay Bagging Service”** using Kotlin + Spring Boot, cutting startup latency from 4ms → 2ms, validated through custom benchmarking scripts and local profiling tools (e.g., JFR,
 JConsole).
-● **Mentored a junior engineer** on JUnit 5 + Mockito, improving test coverage from 65% to 90%, tracked using local coverage reports (Jacoco CLI) and verified during peer reviews in GitHub PRs.
-● Managed Dockerized deployments across staging, pre-prod, and prod environments using GitHub CI workflows; maintained 99.9% uptime, monitored via internal health-check scripts and Slack
+- 🧑‍🏫 **Mentored a junior engineer** on JUnit 5 + Mockito, improving test coverage from 65% to 90%, tracked using local coverage reports (Jacoco CLI) and verified during peer reviews in GitHub PRs.
+- 🐳 Managed Dockerized deployments across staging, pre-prod, and prod environments using GitHub CI workflows; maintained 99.9% uptime, monitored via internal health-check scripts and Slack
 alerting bots.
 
-## Google, Summer of Code, Bangalore (Remote) — Contributor, Mentored by Google Engineer
+## [Google Summer of Code](https://summerofcode.withgoogle.com), Bangalore (Remote) — Contributor, Mentored by Google Engineer
 
-**June 2020 – Aug 2020** | Certificate
-● Contributed to **BRL-CAD** by developing and optimizing 3D geometry processing and visualization modules.
-● Improved rendering performance and mesh quality within the CAD software.
-● Collaborated with mentors and the open-source community through code reviews and regular updates.
-● Delivered clean, tested code merged into the official repository, gaining hands-on experience in C/C++ and open-source development.
+**June 2020 – Aug 2020** | [Certificate](https://drive.google.com/file/d/1NKWErBCvjpk7keSzCEX-VcMk7XYlh8g8/view?usp=sharing)
+- 🛠️ Contributed to **BRL-CAD** by developing and optimizing 3D geometry processing and visualization modules.
+- ⚡ Improved rendering performance and mesh quality within the CAD software.
+- 🤝 Collaborated with mentors and the open-source community through code reviews and regular updates.
+- ✅ Delivered clean, tested code merged into the official repository, gaining hands-on experience in C/C++ and open-source development.
 
 ## AWARDS / CERTIFICATIONS
 
