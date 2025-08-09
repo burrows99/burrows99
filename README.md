@@ -40,7 +40,7 @@ until Feb 2026. Seeking full-time employment post-graduation with visa sponsorsh
 
 ## [Sciometrix](https://sciometrix.com), Royal Oak, Michigan, United States of America (Remote) — Software Engineer FTE
 
-**July 2023 - June 2025** | [Relieving Letter]()
+**July 2023 - June 2025** | [Relieving Letter](https://drive.google.com/file/d/1WErbs1nSxd4TZe9UdrtndT9MPEUpNMDx/view?usp=sharing)
 - ⚙️ **Automated 8+ repetitive business tasks** using Node.js + NodeCron, reducing manual workload by ~60%. Initially deployed on EC2, later migrated to AWS Lambda for a fully serverless
 architecture—improving scalability and reducing maintenance overhead. Efficiency gains tracked via Jira Worklogs and Zendesk ticket volume over a 3-month period.
 - 🛡️ **Engineered HIPAA-compliant EDI infrastructure** for 837 claim submission, 835 receipt parsing, and 270/271 insurance eligibility checks—fully replacing AdvancedMD's third-party API.
@@ -71,18 +71,15 @@ physicians, showing a 40% increase in perceived answer relevance, measured via L
   - 🤖 Ollama, LangChain, LlamaIndex
 
 
-## QuestionPro Pvt. Ltd., Pune (Remote) — Full stack developer FTE
+## [QuestionPro Pvt. Ltd.](https://www.questionpro.com), Pune (Remote) — Full stack developer FTE
 
 **August 2022 - July 2023 |** Relieving letter
-● **Resolved 50+ UI/UX bugs in the React-based customer portal** , improving Google Lighthouse performance by 20% and reducing Zendesk ticket volume by 45%, tracked across 3 sprints in Jira.
-● **Built a real-time survey analytics dashboard** using React + Spring Boot + Metabase, enabling advanced filtering and drilldowns. Post-launch, client NPS rose from 3.8 → 4.6/5, measured via
-QuestionPro feedback reports.
-● **Invented the "NPS + Delight" hybrid question type** , improving engagement and boosting response rates by 15%, verified via backend submission logs (Node.js microservice) and Metabase
-funnel analytics.
-● Developed external data ingestion APIs using Node.js for SSO onboarding, CSV sync, and webhook handling—supporting 100+ enterprise clients with 99.7% success rate, tracked via internal API
+- 🐞 **Resolved 50+ UI/UX bugs in the React-based customer portal** , improving Google Lighthouse performance by 20% and reducing Zendesk ticket volume by 45%, tracked across 3 sprints in Jira.
+- 📊 **Built a real-time survey analytics dashboard** using React + Spring Boot + Metabase, enabling advanced filtering and drilldowns. Post-launch, client NPS rose from 3.8 → 4.6/5, measured via QuestionPro feedback reports.
+- 💡 **Invented the "NPS + Delight" hybrid question type** , improving engagement and boosting response rates by 15%, verified via backend submission logs (Node.js microservice) and Metabase funnel analytics.
+- 🔗 Developed external data ingestion APIs using Node.js for SSO onboarding, CSV sync, and webhook handling—supporting 100+ enterprise clients with 99.7% success rate, tracked via internal API
 logging middleware and Metabase dashboards.
-● Maintained survey lifecycle and reminder scheduling modules built with Spring Boot, deployed via Docker + AWS App Runner, ensuring uptime >99.95% and fast deployments through GitHub
-Actions CI/CD.
+- 🚀 Maintained survey lifecycle and reminder scheduling modules built with Spring Boot, deployed via Docker + AWS App Runner, ensuring uptime >99.95% and fast deployments through GitHub Actions CI/CD.
 
 ## Infosys Ltd., Bangalore (Remote) — Specialist Programmer FTE
 
