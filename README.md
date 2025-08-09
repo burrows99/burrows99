@@ -83,7 +83,7 @@ logging middleware and Metabase dashboards.
 
 ## [Infosys Ltd.](https://www.infosys.com), Bangalore (Remote) — Specialist Programmer FTE
 
-**September 2021 - August 2022** | Relieving letter
+**September 2021 - August 2022** | [Relieving letter](https://drive.google.com/file/d/1zaYFpfwA60RScM3I1pGkZFvuGVs8_klR/view?usp=sharing)
 - 🚀 **Developed the “eBay Bagging Service”** using Kotlin + Spring Boot, cutting startup latency from 4ms → 2ms, validated through custom benchmarking scripts and local profiling tools (e.g., JFR,
 JConsole).
 - 🧑‍🏫 **Mentored a junior engineer** on JUnit 5 + Mockito, improving test coverage from 65% to 90%, tracked using local coverage reports (Jacoco CLI) and verified during peer reviews in GitHub PRs.
@@ -98,15 +98,18 @@ alerting bots.
 - 🤝 Collaborated with mentors and the open-source community through code reviews and regular updates.
 - ✅ Delivered clean, tested code merged into the official repository, gaining hands-on experience in C/C++ and open-source development.
 
-## AWARDS / CERTIFICATIONS
+---
 
-● **Technical Reviewer** | 3D Web Development with Three.js & Next.js (BPB Publications, 2025) | Reviewed Chapters 17–18 (Performance Optimization & AWS Amplify) | Linkedin Post
-● Secured **2nd place** in an Office hackathon by developing a scalable knowledge chatbot using RAG and vector embeddings, reducing false positives by ~40%. Optimizely A/B tests and qualitative
-feedback from PMs and client teams. (Linkedin mention, Official document) QuestionPro Pvt Ltd
-● Developed The kind citizen’s events booking website. ~ Next.js, TailwindCSS
-● 430 world rank in infytq_prep hackerrank contest.
-● **Awarded 2 credit hours** for participating in the AIIMS Raipur - Online CME on Artificial Intelligence in HealthCare, recognized by the Chhattisgarh Medical Council (check here).
-● Hackerrank problem solving certificate
+## 🏆 AWARDS / CERTIFICATIONS
+
+● 📚 **Technical Reviewer** | [3D Web Development with Three.js & Next.js](https://bpbonline.com/products/3d-web-development-with-three-js-and-next-js?variant=44713720709320) ([BPB Publications, 2025](https://bpbonline.com/)) | Reviewed Chapters 17–18 (Performance Optimization & AWS Amplify) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7357424138774372352/)  
+● 🥈 Secured **2nd place** in an Office hackathon by developing a scalable knowledge chatbot using RAG and vector embeddings, reducing false positives by ~40%. Optimizely A/B tests and qualitative feedback from PMs and client teams. ([LinkedIn mention](https://www.linkedin.com/feed/update/urn:li:activity:7061599326224924672/), [Official document](https://www.questionpro.com/help/genie-overview.html) @ QuestionPro Pvt Ltd  
+● 🌐 Developed [The kind citizen’s](https://www.thekindcitizen.com/) events booking website. ~ Next.js, TailwindCSS  
+● 🏅 430 world rank in [infytq_prep hackerrank contest](https://www.hackerrank.com/infytq-practice-sixphrase).  
+● 🎓 **Awarded 2 credit hours** for participating in the [AIIMS Raipur](https://www.aiimsraipur.edu.in/) - Online CME on Artificial Intelligence in HealthCare, recognized by the Chhattisgarh Medical Council ([check here](https://drive.google.com/file/d/1sJHi7-LEjN0rx09IjOorgiQAzARqDw4P/view)).  
+● 🧩 Hackerrank problem solving [certificate](https://www.hackerrank.com/certificates/fe72e3bb0c69)
+
+---
 
 ## EDUCATION
 
