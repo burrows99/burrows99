@@ -1,50 +1,75 @@
-# Raunak Burrows | Linkedin | Github | Leetcode
+<div align="center">
 
-```
-London, UK | (+44) 7442124987 | (+91) 8219486037 | raunakburrows@gmail.com
-```
-## PROFESSIONAL SUMMARY
+# 👋 Hi, I’m Raunak Burrows
 
-Full-Stack / AI Software Engineer with **5.5+ years** of experience across US, India, and UK-based teams. Specialized in scalable backend systems, AI/LLM tooling, and HIPAA-compliant infrastructures.
-My stack spans React/Next.js frontends, Node.js/NestJS & Spring Boot backends, and scalable cloud deployments (Docker, AWS, Vercel). Recently built a RAG-based chatbot with Ollama, LangChain,
-and LlamaIndex, improving retrieval accuracy by 40%. Familiar with LLM fine-tuning, RLHF, vector search (FAISS), and agent-based reasoning. At Sciometrix (US), I engineered a healthcare EDI system
-that reduced claim-processing errors by 30%. I’ve led full-stack development at Turing and QuestionPro, and mentored juniors at Infosys. Currently on a UK Student Visa (IR5, 20h/week allowed)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/raunakburrows) &nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/burrows99) &nbsp;&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/burrows99)
+
+---
+
+## 📍 LOCATION & CONTACT
+
+London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](tel:+447442124987) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; IN: [+91 8219 486037](tel:+918219486037) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📧 raunakburrows@gmail.com
+
+</div>
+
+---
+
+## 👨‍💻 ABOUT ME
+
+- Full-Stack / AI Software Engineer with **5.5+ years** of experience across US, India, and UK-based teams. Specialized in scalable backend systems, AI/LLM tooling, and HIPAA-compliant infrastructures.
+- My stack spans React/Next.js frontends, Node.js/NestJS & Spring Boot backends, and scalable cloud deployments (Docker, AWS, Vercel).
+- Recently built a RAG-based chatbot with Ollama, LangChain, and LlamaIndex, improving retrieval accuracy by 40%.
+- Familiar with LLM fine-tuning, RLHF, vector search (FAISS), and agent-based reasoning.
+- At Sciometrix (US 🇺🇸), I engineered a healthcare EDI system that reduced claim-processing errors by 30%. I’ve led full-stack development at Turing and QuestionPro, and mentored juniors at Infosys.
+- Currently on a UK Student Visa (IR5, 20h/week allowed)
 until Feb 2026. Seeking full-time employment post-graduation with visa sponsorship. Eligible to work part-time during studies.
 
-## SKILLS
+---
 
-● **Programming Languages** : Javascript, Python, Java
-● **Frontend** : React, Redux, Next.js, HTML, CSS, TailwindCSS, MaterialUI
-● **Backend** : Node.js with Express.js and Nest.js, SpringBoot, FastAPI
-● **Databases** : MySQL, PostgreSQL, MongoDB
-● **Deployment tools** : Git, Github and Bitbucket, Docker, AWS EC2, ECS, EKS, App Runner, Azure Entra AD, Vercel deployment
-● **AI Tools** : Ollama, OpenAI API, LangFlow, LangGraph, LlamaIndex, Hugging Face Transformers, FAISS, MCP Servers, LLM Fine‑tuning
-● **CRM** : Salesforce development (Apex and JSForce SDK)
-● **Languages** : English (Native), Hindi (Native)
+## 🛠️ TECH STACK
 
-## EXPERIENCE
+| 💻 Programming Languages | ⚛️ Frontend                                               | 🛠️ Backend                                                                                     | 🤖 AI/ML Tools                                                                                                      | ☁️ Cloud / DevOps                                                                                          | 🗄️ Databases              | 🧩 Integrations & APIs                           |
+| ------------------------ | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------ |
+| JavaScript, Python, Java | React, Redux, Next.js, HTML, CSS, TailwindCSS, MaterialUI | Node.js (Express.js 3+ yrs, NestJS 2 yrs), Spring Boot, FastAPI, Salesforce (Apex, JSForce SDK) | Ollama, OpenAI API, LangFlow, LangGraph, LlamaIndex, Hugging Face Transformers, FAISS, MCP Servers, LLM Fine-tuning | AWS (EC2, Lambda, ECS, EKS, App Runner), Docker, Git, GitHub, Bitbucket, Azure Entra AD, Vercel deployment | PostgreSQL, MySQL, MongoDB | Salesforce, DocuSign API, Stripe, UPI, Bitbucket |
 
-## Sciometrix, Royal Oak, Michigan, United States of America (Remote) — Software Engineer FTE
+---
 
-**July 2023 - June 2025** | Relieving Letter
-● **Automated 8+ repetitive business tasks** using Node.js + NodeCron, reducing manual workload by ~60%. Initially deployed on EC2, later migrated to AWS Lambda for a fully serverless
+## 💼 EXPERIENCE HIGHLIGHTS
+
+## [Sciometrix](https://sciometrix.com), Royal Oak, Michigan, United States of America (Remote) — Software Engineer FTE
+
+**July 2023 - June 2025** | [Relieving Letter]()
+- ⚙️ **Automated 8+ repetitive business tasks** using Node.js + NodeCron, reducing manual workload by ~60%. Initially deployed on EC2, later migrated to AWS Lambda for a fully serverless
 architecture—improving scalability and reducing maintenance overhead. Efficiency gains tracked via Jira Worklogs and Zendesk ticket volume over a 3-month period.
-● **Engineered HIPAA-compliant EDI infrastructure** for 837 claim submission, 835 receipt parsing, and 270/271 insurance eligibility checks—fully replacing AdvancedMD's third-party API.
-(clinicus.ai)
+- 🛡️ **Engineered HIPAA-compliant EDI infrastructure** for 837 claim submission, 835 receipt parsing, and 270/271 insurance eligibility checks—fully replacing AdvancedMD's third-party API.
+([clinicus.ai](https://clinicus.ai)) 
 **Results** : $1,400/month cost savings (validated via QuickBooks variance reports); 30% reduction in claim errors (tracked in Jira QA dashboards); 25% improvement in eligibility check speed
 (benchmarked via New Relic APM on EC2-hosted APIs)
-● **Integrated DocuSign with Salesforce CRM using Apex + DocuSign REST API** , automating contract workflows and reducing signature turnaround time by ~50%, measured using Salesforce Flow
+- 📄 **Integrated DocuSign with Salesforce CRM using Apex + DocuSign REST API** , automating contract workflows and reducing signature turnaround time by ~50%, measured using Salesforce Flow
 run logs and Jira ticket SLAs.
-● **Built 6+ custom Apex modules in Salesforce** to enable: Outlook Calendar sync via Azure AD + Graph API; Interactive UI components for internal users; Process automation for lead routing and
+- 🧩 **Built 6+ custom Apex modules in Salesforce** to enable: Outlook Calendar sync via Azure AD + Graph API; Interactive UI components for internal users; Process automation for lead routing and
 case triage. These enhancements improved lead response time by 35%, verified through Salesforce Dashboards (Lead Conversion Funnel).
-● **Developed a RAG-based patient info chatbot** using Ollama and LlamaIndex, contextualizing unstructured health notes to answer patient history queries. Conducted A/B testing with 12
+- 🤖 **Developed a RAG-based patient info chatbot** using Ollama and LlamaIndex, contextualizing unstructured health notes to answer patient history queries. Conducted A/B testing with 12
 physicians, showing a 40% increase in perceived answer relevance, measured via Likert-scale surveys and Zendesk query success rates.
 
-## Turing, United States of America (Remote) — Data Scientist Fixed Term
+## [Turing](https://www.turing.com), United States of America (Remote) — Data Scientist Fixed Term
 
 **June 2024 - June 2025** | Contract
-● **Conducted supervised fine-tuning and RLHF** for Grok LLM on X, enhancing response relevance by 25% (measured through human evaluation scores and automated relevance metrics via
-BLEU/ROUGE/LlamaIndex eval). **Tech Stack** : Node.js, Salesforce (Apex, Flows), DocuSign API, AWS EC2, Azure AD, Bitbucket, Jira, Zendesk, New Relic, Ollama, LangChain, LlamaIndex
+- 🤖 **Conducted supervised fine-tuning and RLHF** for Grok LLM on X, enhancing response relevance by 25% (measured through human evaluation scores and automated relevance metrics via BLEU/ROUGE/LlamaIndex eval).  
+  **Tech Stack** :  
+  - ⚙️ Node.js  
+  - ⚡ Salesforce (Apex, Flows)  
+  - 🖋️ DocuSign API  
+  - ☁️ AWS EC2  
+  - 🔐 Azure AD  
+  - 🐙 Bitbucket  
+  - 🗂️ Jira  
+  - 🎧 Zendesk  
+  - 📊 New Relic  
+  - 🤖 Ollama, LangChain, LlamaIndex
+
 
 ## QuestionPro Pvt. Ltd., Pune (Remote) — Full stack developer FTE
 
