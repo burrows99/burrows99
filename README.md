@@ -38,6 +38,7 @@ until Feb 2026. Seeking full-time employment post-graduation with visa sponsorsh
 
 ## 💼 EXPERIENCE HIGHLIGHTS
 
+[![Sciometrix Logo]([https://your-cdn-or-logo-link.com/sciometrix-logo.png](https://framerusercontent.com/images/2Q52lICXGGrZHUqTqaAWOQXceY.png?scale-down-to=512)){:height="40px"}](https://sciometrix.com)  
 ## [Sciometrix](https://sciometrix.com), Royal Oak, Michigan, United States of America (Remote) — Software Engineer FTE
 
 **July 2023 - June 2025** | [Relieving Letter](https://drive.google.com/file/d/1WErbs1nSxd4TZe9UdrtndT9MPEUpNMDx/view?usp=sharing)
