@@ -2,9 +2,9 @@
 
 # 👋 Hi, I’m Raunak Burrows
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/raunakburrows) &nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/raunak-burrows) &nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/burrows99) &nbsp;&nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/burrows99)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/raunakburrows/)
 
 ---
 
