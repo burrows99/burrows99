@@ -19,10 +19,6 @@ London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](te
 ## 👨‍💻 ABOUT ME
 
 - Full-Stack / AI Software Engineer with **5.5+ years** of experience across US, India, and UK-based teams. Specialized in scalable backend systems, AI/LLM tooling, and HIPAA-compliant infrastructures.
-- My stack spans React/Next.js frontends, Node.js/NestJS & Spring Boot backends, and scalable cloud deployments (Docker, AWS, Vercel).
-- Recently built a RAG-based chatbot with Ollama, LangChain, and LlamaIndex, improving retrieval accuracy by 40%.
-- Familiar with LLM fine-tuning, RLHF, vector search (FAISS), and agent-based reasoning.
-- At Sciometrix (US 🇺🇸), I engineered a healthcare EDI system that reduced claim-processing errors by 30%. I’ve led full-stack development at Turing and QuestionPro, and mentored juniors at Infosys.
 - Currently on a UK Student Visa (IR5, 20h/week allowed)
 until Feb 2026. Seeking full-time employment post-graduation with visa sponsorship. Eligible to work part-time during studies.
 
@@ -41,62 +37,23 @@ until Feb 2026. Seeking full-time employment post-graduation with visa sponsorsh
 ## [Sciometrix](https://sciometrix.com), Royal Oak, Michigan, United States of America (Remote) — Software Engineer FTE
 
 **July 2023 - June 2025** | [Relieving Letter](https://drive.google.com/file/d/1WErbs1nSxd4TZe9UdrtndT9MPEUpNMDx/view?usp=sharing)
-- ⚙️ **Automated 8+ repetitive business tasks** using Node.js + NodeCron, reducing manual workload by ~60%. Initially deployed on EC2, later migrated to AWS Lambda for a fully serverless
-architecture—improving scalability and reducing maintenance overhead. Efficiency gains tracked via Jira Worklogs and Zendesk ticket volume over a 3-month period.
+- ⚙️ Automated workflows, built HIPAA-compliant EDI, integrated DocuSign+Salesforce, improved CRM, and developed a RAG chatbot — driving $1.4k/month savings, 60% efficiency gains, and 30–40% accuracy boosts.
 - 🛡️ **Engineered HIPAA-compliant EDI infrastructure** for 837 claim submission, 835 receipt parsing, and 270/271 insurance eligibility checks—fully replacing AdvancedMD's third-party API.
-([clinicus.ai](https://clinicus.ai)) 
-**Results** : $1,400/month cost savings (validated via QuickBooks variance reports); 30% reduction in claim errors (tracked in Jira QA dashboards); 25% improvement in eligibility check speed
-(benchmarked via New Relic APM on EC2-hosted APIs)
-- 📄 **Integrated DocuSign with Salesforce CRM using Apex + DocuSign REST API** , automating contract workflows and reducing signature turnaround time by ~50%, measured using Salesforce Flow
-run logs and Jira ticket SLAs.
-- 🧩 **Built 6+ custom Apex modules in Salesforce** to enable: Outlook Calendar sync via Azure AD + Graph API; Interactive UI components for internal users; Process automation for lead routing and
-case triage. These enhancements improved lead response time by 35%, verified through Salesforce Dashboards (Lead Conversion Funnel).
-- 🤖 **Developed a RAG-based patient info chatbot** using Ollama and LlamaIndex, contextualizing unstructured health notes to answer patient history queries. Conducted A/B testing with 12
-physicians, showing a 40% increase in perceived answer relevance, measured via Likert-scale surveys and Zendesk query success rates.
 
 ## [Turing](https://www.turing.com), United States of America (Remote) — Data Scientist Fixed Term
 
 **June 2024 - June 2025** | [Contract](https://drive.google.com/file/d/1EBKaDMB8TcWLxmiMYF_yCYTSOFIZ9ZHV/view?usp=sharing)
-- 🤖 **Conducted supervised fine-tuning and RLHF** for Grok LLM on X, enhancing response relevance by 25% (measured through human evaluation scores and automated relevance metrics via BLEU/ROUGE/LlamaIndex eval).  
-  **Tech Stack** :  
-  - ⚙️ Node.js  
-  - ⚡ Salesforce (Apex, Flows)  
-  - 🖋️ DocuSign API  
-  - ☁️ AWS EC2  
-  - 🔐 Azure AD  
-  - 🐙 Bitbucket  
-  - 🗂️ Jira  
-  - 🎧 Zendesk  
-  - 📊 New Relic  
-  - 🤖 Ollama, LangChain, LlamaIndex
-
+- 🤖 **Conducted supervised fine-tuning and RLHF** for Grok LLM on X, enhancing response relevance by 25% (measured through human evaluation scores and automated relevance metrics via BLEU/ROUGE/LlamaIndex eval).
 
 ## [QuestionPro Pvt. Ltd.](https://www.questionpro.com), Pune (Remote) — Full stack developer FTE
 
 **August 2022 - July 2023 |** [Relieving letter](https://drive.google.com/file/d/1ChjryCJHe-3Ys25Nx1F5otmmPbVx6yQ9/view?usp=sharing)
-- 🐞 **Resolved 50+ UI/UX bugs in the React-based customer portal** , improving Google Lighthouse performance by 20% and reducing Zendesk ticket volume by 45%, tracked across 3 sprints in Jira.
-- 📊 **Built a real-time survey analytics dashboard** using React + Spring Boot + Metabase, enabling advanced filtering and drilldowns. Post-launch, client NPS rose from 3.8 → 4.6/5, measured via QuestionPro feedback reports.
-- 💡 **Invented the "NPS + Delight" hybrid question type** , improving engagement and boosting response rates by 15%, verified via backend submission logs (Node.js microservice) and Metabase funnel analytics.
-- 🔗 Developed external data ingestion APIs using Node.js for SSO onboarding, CSV sync, and webhook handling—supporting 100+ enterprise clients with 99.7% success rate, tracked via internal API
-logging middleware and Metabase dashboards.
-- 🚀 Maintained survey lifecycle and reminder scheduling modules built with Spring Boot, deployed via Docker + AWS App Runner, ensuring uptime >99.95% and fast deployments through GitHub Actions CI/CD.
+- 🐞 Fixed 50+ UI/UX bugs, built a real-time analytics dashboard, created a new “NPS + Delight” survey type, developed high-reliability APIs, and maintained core survey systems — delivering 20% better Lighthouse scores, 45% fewer support tickets, +0.8 NPS gain, and 15% higher response rates.
 
 ## [Infosys Ltd.](https://www.infosys.com), Bangalore (Remote) — Specialist Programmer FTE
 
 **September 2021 - August 2022** | [Relieving letter](https://drive.google.com/file/d/1zaYFpfwA60RScM3I1pGkZFvuGVs8_klR/view?usp=sharing)
-- 🚀 **Developed the “eBay Bagging Service”** using Kotlin + Spring Boot, cutting startup latency from 4ms → 2ms, validated through custom benchmarking scripts and local profiling tools (e.g., JFR,
-JConsole).
-- 🧑‍🏫 **Mentored a junior engineer** on JUnit 5 + Mockito, improving test coverage from 65% to 90%, tracked using local coverage reports (Jacoco CLI) and verified during peer reviews in GitHub PRs.
-- 🐳 Managed Dockerized deployments across staging, pre-prod, and prod environments using GitHub CI workflows; maintained 99.9% uptime, monitored via internal health-check scripts and Slack
-alerting bots.
-
-## [Google Summer of Code](https://summerofcode.withgoogle.com), Bangalore (Remote) — Contributor, Mentored by Google Engineer
-
-**June 2020 – Aug 2020** | [Certificate](https://drive.google.com/file/d/1NKWErBCvjpk7keSzCEX-VcMk7XYlh8g8/view?usp=sharing)
-- 🛠️ Contributed to **BRL-CAD** by developing and optimizing 3D geometry processing and visualization modules.
-- ⚡ Improved rendering performance and mesh quality within the CAD software.
-- 🤝 Collaborated with mentors and the open-source community through code reviews and regular updates.
-- ✅ Delivered clean, tested code merged into the official repository, gaining hands-on experience in C/C++ and open-source development.
+- 🚀 Built eBay’s Bagging Service in Kotlin+Spring Boot halving startup latency, mentored a junior to raise test coverage from 65%→90%, and managed Dockerized CI/CD deployments with 99.9% uptime.
 
 ---
 
