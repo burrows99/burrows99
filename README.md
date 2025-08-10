@@ -7,9 +7,6 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/raunakburrows/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://x.com/burrows_raunak)
 
----
-
-## 📍 LOCATION & CONTACT
 
 London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](tel:+447442124987) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 IN: [+91 8219 486037](tel:+918219486037) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📧 raunakburrows@gmail.com
 
