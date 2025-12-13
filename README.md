@@ -57,14 +57,19 @@ London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](te
 
 ---
 
-## 👨‍💻 ABOUT ME
+<!-- About Me -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=About%20Me&fontSize=50&color=gradient&animation=fadeIn" />
+</p>
 
 - Full-Stack / AI Software Engineer with **5.5+ years** of experience across US, India, and UK-based teams. Specialized in scalable backend systems, AI/LLM tooling, and HIPAA-compliant infrastructures.
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Languages%20and%20Tools&fontSize=50&color=gradient&animation=fadeIn" />
+</p>
 
-## 🛠️ Languages and Tools
 
 | Systems & Architecture | Platform & Delivery |
 |------------------------|---------------------|
@@ -72,7 +77,10 @@ London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](te
 
 ---
 
-## ⚡️ Stats
+<!-- Stats -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Stats&fontSize=45&color=gradient&animation=fadeIn" />
+</p>
 
 <br>
 
@@ -84,7 +92,10 @@ London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](te
 
 <hr>
 
-## 💼 EXPERIENCE HIGHLIGHTS
+<!-- Experience Highlights -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Experience&fontSize=45&color=gradient&animation=fadeIn" />
+</p>
 
 | Company & Role                                                                                          | Duration                  | Key Contributions                                                                                                                                                                                                                       |
 |-------------------------------------------------------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -95,7 +106,10 @@ London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](te
 
 ---
 
-## 🐍 My Contributions
+<!-- Contributions -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Contributions&fontSize=45&color=gradient&animation=fadeIn" />
+</p>
 
 <div align="center">
   <picture>
@@ -109,7 +123,10 @@ London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](te
 
 ---
 
-## 🎓 EDUCATION
+<!-- Education -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Education&fontSize=45&color=gradient&animation=fadeIn" />
+</p>
 
 | Institution                                                                              | Degree & Duration                                              | Highlights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -120,14 +137,20 @@ London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](te
 ---
 
 
-## 🎓 ACADEMIC HIGHLIGHTS
+<!-- Academic Highlights -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Academic%20Highlights&fontSize=45&color=gradient&animation=fadeIn" />
+</p>
+
 
 - 📊 **Strong STEM foundation** with 85.4% in 12th CBSE ([View Marksheet](https://drive.google.com/file/d/1P5O4wUi1EOmlxBjI9EyUuRhPeSHD_7ZY/view)) — **equivalent to UK A-Levels with grades AAAA** — including Mathematics (88%), Physics (89%), Chemistry (81%), Computer Science (81%), and English (88%).  
 - 🎯 **Secured 8.0 CGPA** in 10th CBSE ([View Marksheet](https://drive.google.com/file/d/1Er4Xx8Kq_pB38X3aZjh5Nc9xO2nprPGs/view)) — **equivalent to UK GCSEs with grades A/A⁺** in core subjects.
 
 ---
-
-## 🔥 OPEN SOURCE CONTRIBUTIONS
+<!-- Open Source -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Open%20Source%20Contributions&fontSize=45&color=gradient&animation=fadeIn" />
+</p>
 
 - 🤖 **Open-Source MCP Automation** | Built browser automation stack using LibreChat + Playwright-MCP with Node.js bridge (Docker-ready) ([Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7356798113082224642/), [GitHub](https://github.com/burrows99/LibreChat))
 - 🌌 **3D Solar System** using Three.js ([Live Link](https://solar-system-engine.onrender.com/), [Source Code](https://github.com/burrows99/solar_system))  
