@@ -1,8 +1,12 @@
 <div align="center">
 
-<h1 align="center">
+<!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Raunak+Burrows!;" />
-</h1>
+</h1> -->
+
+![Header](./github-header-banner.png)
+
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/raunak-burrows) &nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/burrows99) &nbsp;&nbsp;&nbsp;
