@@ -8,10 +8,7 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/raunak-burrows) &nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/burrows99) &nbsp;&nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/raunakburrows/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://x.com/burrows_raunak)
+<p align="center"> <!-- LinkedIn --> <a href="https://linkedin.com/in/raunak-burrows"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=60&theme=dark" /> <img height="50" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=60&theme=light" alt="LinkedIn" /> </picture> </a>&nbsp;&nbsp; <!-- GitHub --> <a href="https://github.com/burrows99"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://readmecodegen.vercel.app/api/social-icon?name=github&size=60&theme=dark" /> <img height="50" src="https://readmecodegen.vercel.app/api/social-icon?name=github&size=60&theme=light" alt="GitHub" /> </picture> </a>&nbsp;&nbsp; <!-- LeetCode --> <a href="https://leetcode.com/u/raunakburrows/"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://readmecodegen.vercel.app/api/social-icon?name=leetcode&size=60&theme=dark" /> <img height="50" src="https://readmecodegen.vercel.app/api/social-icon?name=leetcode&size=60&theme=light" alt="LeetCode" /> </picture> </a>&nbsp;&nbsp; <!-- X (Twitter) --> <a href="https://x.com/burrows_raunak"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://readmecodegen.vercel.app/api/social-icon?name=twitter&size=60&theme=dark" /> <img height="50" src="https://readmecodegen.vercel.app/api/social-icon?name=twitter&size=60&theme=light" alt="X (Twitter)" /> </picture> </a> </p>
 
 
 London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](tel:+447442124987) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 IN: [+91 8219 486037](tel:+918219486037) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📧 raunakburrows@gmail.com
