@@ -190,6 +190,22 @@ Built Kotlin + Spring Boot microservices for eBay, halved service latency, led D
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Academic%20Highlights&fontSize=45&color=gradient&animation=fadeIn" />
 </p>
 
+<img align="left" src="Profile2.png" width="279px"/>
 
-- 📊 **Strong STEM foundation** with 85.4% in 12th CBSE ([View Marksheet](https://drive.google.com/file/d/1P5O4wUi1EOmlxBjI9EyUuRhPeSHD_7ZY/view)) — **equivalent to UK A-Levels with grades AAAA** — including Mathematics (88%), Physics (89%), Chemistry (81%), Computer Science (81%), and English (88%).  
-- 🎯 **Secured 8.0 CGPA** in 10th CBSE ([View Marksheet](https://drive.google.com/file/d/1Er4Xx8Kq_pB38X3aZjh5Nc9xO2nprPGs/view)) — **equivalent to UK GCSEs with grades A/A⁺** in core subjects.
+```csharp
+My Academics ver. 5.0.2:
+----------------------------------------------------------------------------------------
+MSc Artificial Intelligence — University of Surrey (2025)
+Dissertation: "Optimising NHS Waiting Time Systems using Mixture of Agents (MoA)"
+- Awarded Distinction
+- Commended for clarity of writing, people-centred design, strong system architecture, first-class simulation results
+- Recognised for applying LLM-driven AI in NHS triage routing under privacy constraints
+
+12th CBSE — 85.4% (Equivalent to UK A-Levels AAAA)
+Subjects: Mathematics 88%, Physics 89%, Chemistry 81%, Computer Science 81%, English 88%
+Marksheet: https://drive.google.com/file/d/1P5O4wUi1EOmlxBjI9EyUuRhPeSHD_7ZY/view
+
+10th CBSE — 8.0 CGPA (Equivalent to UK GCSEs, grades A/A⁺)
+Core Subjects: Mathematics, Science, English, Computer Science
+Marksheet: https://drive.google.com/file/d/1Er4Xx8Kq_pB38X3aZjh5Nc9xO2nprPGs/view
+```
