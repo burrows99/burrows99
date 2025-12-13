@@ -62,7 +62,32 @@ London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](te
   <img src="https://capsule-render.vercel.app/api?type=waving&text=About%20Me&fontSize=50&color=gradient&animation=fadeIn" />
 </p>
 
-- Full-Stack / AI Software Engineer with **5.5+ years** of experience across US, India, and UK-based teams. Specialized in scalable backend systems, AI/LLM tooling, and HIPAA-compliant infrastructures.
+<img align="left" src="Profile.png" width="279px"/>
+
+```csharp
+My Profile ver. 5.0.1:
+----------------------------------------------------------------------------------------
+Username: Raunak Burrows
+WhoamI: Full-Stack / AI Software Engineer. MSc Artificial Intelligence student.
+Shell: zsh
+Editor: VS Code / Neovim
+Pronouns: He/Him
+Location: United Kingdom
+Languages: Python, JavaScript, TypeScript, Java
+Hobbyes: Backend systems, AI tooling, automation
+Learning: Advanced LLM systems, Mixture-of-Agents, scalable architectures
+Special.Interests:
+LLM tooling · RAG pipelines · Agent systems · Cloud-native backends
+FavouriteSong: Depends on the day — usually jazz, blues, or hip-hop
+FavouriteEquation: Euler’s formula (also respects Schrödinger’s equation)
+Hobbies: Gaming · Chess · Coding with music on · Piano · Guitar · Drums · Sketching
+Open.Source:
+GitHub: burrows99
+Current.Role: Freelance AI Software Engineer @ Aixolotl (Stealth Startup)
+Education: MSc Artificial Intelligence — University of Surrey (UK), Feb 2026
+
+
+```
 
 ---
 
