@@ -122,13 +122,29 @@ Education: MSc Artificial Intelligence — University of Surrey (UK), Feb 2026
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Experience&fontSize=45&color=gradient&animation=fadeIn" />
 </p>
 
+<img align="right" src="Profile1.png" width="279px"/>
 
-| [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Company%20%26%20Role)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Duration)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Contributions)](https://git.io/typing-svg) |
-|---------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Sciometrix](https://sciometrix.com) — Software Engineer FTE ([Relieving Letter](https://drive.google.com/file/d/1WErbs1nSxd4TZe9UdrtndT9MPEUpNMDx/view?usp=sharing))                                           | Jul 2023 – Jun 2025       | ⚙️ Automated workflows, HIPAA-compliant EDI, DocuSign+Salesforce integration, RAG chatbot → $1.4k/month savings, 60% efficiency, 30–40% accuracy boosts.<br>🛡️ Replaced AdvancedMD API with own infrastructure.                         |
-| [Turing](https://www.turing.com) — Data Scientist Fixed Term ([Contract](https://drive.google.com/file/d/1EBKaDMB8TcWLxmiMYF_yCYTSOFIZ9ZHV/view?usp=sharing))                                           | Jun 2024 – Jun 2025       | 🤖 Supervised fine-tuning + RLHF for Grok LLM on X platform, improving response relevance by 25%.                                                                                                                                       |
-| [QuestionPro Pvt. Ltd.](https://www.questionpro.com) — Full Stack Developer FTE ([Relieving Letter](https://drive.google.com/file/d/1ChjryCJHe-3Ys25Nx1F5otmmPbVx6yQ9/view?usp=sharing))                        | Aug 2022 – Jul 2023       | 🐞 Fixed 50+ UI/UX bugs, built analytics dashboard, invented “NPS + Delight” survey type.<br>🔗 Developed reliable APIs, maintained survey core — 20% Lighthouse ↑, 45% fewer tickets, +0.8 NPS, 15% higher response rates.              |
-| [Infosys Ltd.](https://www.infosys.com) — Specialist Programmer FTE ([Relieving Letter](https://drive.google.com/file/d/1zaYFpfwA60RScM3I1pGkZFvuGVs8_klR/view?usp=sharing))                                    | Sep 2021 – Aug 2022       | 🚀 Built eBay Bagging Service (Kotlin + Spring Boot), halving latency.<br>🧑‍🏫 Mentored junior dev: test coverage 65% → 90%.<br>🐳 Managed Docker CI/CD with 99.9% uptime.                                                                   |
+```csharp
+My Experience ver. 5.0.4:
+----------------------------------------------------------------------------------------
+Aixolotl — Freelance AI Software Engineer (Oct 2025 – Present):
+Building generative UI dashboards and integrating third-party MCP servers into scalable AI pipelines for production-grade systems.
+
+Sciometrix (US) — Software Engineer FTE (Jul 2023 – Jun 2025):
+Automated workflows, built HIPAA-compliant EDI and RAG systems, replaced third-party medical APIs → ~$1.4k/month savings, 60% efficiency gain, 30–40% accuracy boost.
+
+Turing — Data Scientist (Fixed Term) (Jun 2024 – Jun 2025):
+Performed supervised fine-tuning and RLHF on Grok LLM for the X platform, improving response relevance by ~25%.
+
+TheKindCitizen — Founding Engineer (Jan 2025 – Present):
+Built Next.js event booking platform (https://thekindcitizen.com), designed backend, orchestrated LLM pipelines, and developed custom agent tooling.
+
+QuestionPro Pvt. Ltd. — Full Stack Developer FTE (Aug 2022 – Jul 2023):
+Shipped analytics dashboards and core APIs, fixed 50+ UI/UX issues, improved Lighthouse scores by 20%, reduced tickets by 45%, and raised NPS by +0.8.
+
+Infosys Ltd. — Specialist Programmer FTE (Sep 2021 – Aug 2022):
+Built Kotlin + Spring Boot microservices for eBay, halved service latency, led Docker CI/CD, and mentored junior devs to 90% test coverage.
+```
 
 ---
 
