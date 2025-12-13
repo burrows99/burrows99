@@ -55,6 +55,20 @@ London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](te
 
 ---
 
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burrows99/burrows99/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burrows99/burrows99/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/burrows99/burrows99/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+
+---
+
 ## 🎓 EDUCATION
 
 | Institution                                                                              | Degree & Duration                                              | Highlights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
