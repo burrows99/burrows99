@@ -119,6 +119,12 @@ London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](te
   </picture>
 </div>
 
+
+- 🤖 **Open-Source MCP Automation** | Built browser automation stack using LibreChat + Playwright-MCP with Node.js bridge (Docker-ready) ([Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7356798113082224642/), [GitHub](https://github.com/burrows99/LibreChat))
+- 🌌 **3D Solar System** using Three.js ([Live Link](https://solar-system-engine.onrender.com/), [Source Code](https://github.com/burrows99/solar_system))  
+- 🎥 **Sentiment Analysis of Movie Reviews**: Backend ([Source Code](https://github.com/burrows99/elastiq-backend), [Live Link](https://elastiq-backend.onrender.com/))  
+- 🦠 **Simulating Bacterial Infections in Python** | Contributed to open-source development by creating a Python-based simulation, shared insights and code via a published article ([LinkedIn Article](https://www.linkedin.com/pulse/simulating-bacterial-infections-python-my-experience-surrey-burrows-xsuwf/?trackingId=Okbck%2FvgRxm0bm6e2Nc6Nw%3D%3D)).
+
 <hr>
 
 ---
@@ -145,14 +151,3 @@ London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](te
 
 - 📊 **Strong STEM foundation** with 85.4% in 12th CBSE ([View Marksheet](https://drive.google.com/file/d/1P5O4wUi1EOmlxBjI9EyUuRhPeSHD_7ZY/view)) — **equivalent to UK A-Levels with grades AAAA** — including Mathematics (88%), Physics (89%), Chemistry (81%), Computer Science (81%), and English (88%).  
 - 🎯 **Secured 8.0 CGPA** in 10th CBSE ([View Marksheet](https://drive.google.com/file/d/1Er4Xx8Kq_pB38X3aZjh5Nc9xO2nprPGs/view)) — **equivalent to UK GCSEs with grades A/A⁺** in core subjects.
-
----
-<!-- Open Source -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Open%20Source%20Contributions&fontSize=45&color=gradient&animation=fadeIn" />
-</p>
-
-- 🤖 **Open-Source MCP Automation** | Built browser automation stack using LibreChat + Playwright-MCP with Node.js bridge (Docker-ready) ([Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7356798113082224642/), [GitHub](https://github.com/burrows99/LibreChat))
-- 🌌 **3D Solar System** using Three.js ([Live Link](https://solar-system-engine.onrender.com/), [Source Code](https://github.com/burrows99/solar_system))  
-- 🎥 **Sentiment Analysis of Movie Reviews**: Backend ([Source Code](https://github.com/burrows99/elastiq-backend), [Live Link](https://elastiq-backend.onrender.com/))  
-- 🦠 **Simulating Bacterial Infections in Python** | Contributed to open-source development by creating a Python-based simulation, shared insights and code via a published article ([LinkedIn Article](https://www.linkedin.com/pulse/simulating-bacterial-infections-python-my-experience-surrey-burrows-xsuwf/?trackingId=Okbck%2FvgRxm0bm6e2Nc6Nw%3D%3D)).
