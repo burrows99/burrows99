@@ -18,11 +18,14 @@ London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](te
 
 </div>
 
+---
+
 ## 👨‍💻 ABOUT ME
 
 - Full-Stack / AI Software Engineer with **5.5+ years** of experience across US, India, and UK-based teams. Specialized in scalable backend systems, AI/LLM tooling, and HIPAA-compliant infrastructures.
 
 ---
+
 ## 🛠️ Languages and Tools
 
 | Systems & Architecture | Platform & Delivery |
@@ -30,7 +33,6 @@ London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](te
 | <p align="center"><strong>Languages</strong><br><img src="https://skillicons.dev/icons?i=java,python,ts,js" /><br>Java · Python · TypeScript · JavaScript</p><br><p align="center"><strong>AI / LLM & Agent Systems</strong><br><img src="https://skillicons.dev/icons?i=python" /><br>Ollama · LangChain · LangFlow · LangGraph · LlamaIndex · FAISS<br>MCP Servers · OpenAI API · Hugging Face · LLM Fine-tuning</p><br><p align="center"><strong>Backend</strong><br><img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,fastapi" /><br>Spring Boot · Node.js · Express · NestJS · FastAPI</p> | <p align="center"><strong>Frontend</strong><br><img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,sass,tailwind" /><br>React · Next.js · Redux · HTML · CSS · Sass · Tailwind</p><br><p align="center"><strong>Databases & ORM</strong><br><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" /><br>PostgreSQL · MySQL · MongoDB · Prisma</p><br><p align="center"><strong>Cloud, DevOps & Tooling</strong><br><img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github,bitbucket,postman,figma" /><br>AWS · Docker · Vercel · Git · GitHub · Bitbucket · Postman · Figma</p> |
 
 ---
-
 
 ## ⚡️ Stats
 
