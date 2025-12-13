@@ -17,8 +17,6 @@ London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](te
 ## 👨‍💻 ABOUT ME
 
 - Full-Stack / AI Software Engineer with **5.5+ years** of experience across US, India, and UK-based teams. Specialized in scalable backend systems, AI/LLM tooling, and HIPAA-compliant infrastructures.
-- Currently on a UK Student Visa (IR5, 20h/week allowed)
-until Feb 2026. Seeking full-time employment post-graduation with visa sponsorship. Eligible to work part-time during studies.
 
 ---
 
