@@ -158,11 +158,35 @@ Built Kotlin + Spring Boot microservices for eBay, halved service latency, led D
 </div>
 
 
-- 🤖 **Open-Source MCP Automation** | Built browser automation stack using LibreChat + Playwright-MCP with Node.js bridge (Docker-ready) ([Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7356798113082224642/), [GitHub](https://github.com/burrows99/LibreChat))
-- 🌌 **3D Solar System** using Three.js ([Live Link](https://solar-system-engine.onrender.com/), [Source Code](https://github.com/burrows99/solar_system))  
-- 🎥 **Sentiment Analysis of Movie Reviews**: Backend ([Source Code](https://github.com/burrows99/elastiq-backend), [Live Link](https://elastiq-backend.onrender.com/))  
-- 🦠 **Simulating Bacterial Infections in Python** | Contributed to open-source development by creating a Python-based simulation, shared insights and code via a published article ([LinkedIn Article](https://www.linkedin.com/pulse/simulating-bacterial-infections-python-my-experience-surrey-burrows-xsuwf/?trackingId=Okbck%2FvgRxm0bm6e2Nc6Nw%3D%3D)).
+```csharp
+// Selected Projects & Open-Source Work
+// ------------------------------------------------------------
 
+- 🤖 Open-Source MCP Automation
+  Built a browser automation stack using LibreChat + Playwright-MCP,
+  with a Node.js bridge and Docker-ready setup.
+  Links:
+    - LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7356798113082224642/
+    - GitHub:   https://github.com/burrows99/LibreChat
+
+- 🌌 3D Solar System (Three.js)
+  Interactive 3D solar system simulation built with Three.js.
+  Links:
+    - Live: https://solar-system-engine.onrender.com/
+    - Code: https://github.com/burrows99/solar_system
+
+- 🎥 Sentiment Analysis of Movie Reviews
+  Backend service for sentiment classification of movie reviews.
+  Links:
+    - Github: https://github.com/burrows99/elastiq-backend
+    - Live: https://elastiq-backend.onrender.com/
+
+- 🦠 Simulating Bacterial Infections in Python
+  Open-source contribution implementing a Python-based infection
+  simulation, accompanied by a published technical article.
+  Link:
+    - Article: https://www.linkedin.com/pulse/simulating-bacterial-infections-python-my-experience-surrey-burrows-xsuwf/
+```
 <hr>
 
 ---
