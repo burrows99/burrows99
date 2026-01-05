@@ -58,7 +58,7 @@ London, UK &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📞 UK: [+44 7442 124987](te
   <img src="https://capsule-render.vercel.app/api?type=waving&text=About%20Me&fontSize=50&color=gradient&animation=fadeIn" />
 </p>
 
-<img align="left" src="Profile.png" width="279px"/>
+<!-- <img align="left" src="Profile.png" width="279px"/> -->
 
 ```csharp
 My Profile ver. 5.0.1:
