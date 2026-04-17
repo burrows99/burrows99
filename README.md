@@ -285,11 +285,11 @@ Architected and launched a highly-concurrent events booking platform with secure
 </a>
 
 **Data Scientist**
-<br><sub>📍 Remote (US) &nbsp;·&nbsp; 🗓️ Jun 2024 – Jun 2025</sub>
+<br><sub>📍 United States (Remote) &nbsp;·&nbsp; 🗓️ Jun 2024 – Jun 2025</sub>
 
-Performed supervised fine-tuning and RLHF on Grok LLM for the X platform, improving response relevance by ~25%.
+Built Eval-Driven Development (EDD) pipelines for Grok LLM on X — leveraged LLM-as-a-Judge and golden datasets for continuous prompt regression testing, improving response relevance by ~25%.
 
-`Python` `RLHF` `LLM Fine-tuning` `Grok`
+`Python` `LlamaIndex` `LLM-as-a-Judge` `RLHF` `AWS`
 
 </td>
 <td width="6%" align="center" valign="top">
