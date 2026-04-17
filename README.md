@@ -11,7 +11,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+%2F+AI+Software+Engineer;MSc+Artificial+Intelligence+%E2%80%94+Surrey+UK;LLM+Tooling+%C2%B7+RAG+Pipelines+%C2%B7+Agent+Systems;Building+scalable+AI-first+products)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+%2F+AI+Software+Engineer;MSc+Artificial+Intelligence+%E2%80%94+Surrey+UK;LLM+Tooling+%C2%B7+RAG+Pipelines+%C2%B7+Agent+Systems;Building+scalable+AI-first+products)](https://git.io/typing-svg) -->
 
 <br>
 
