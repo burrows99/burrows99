@@ -1,6 +1,10 @@
 <div align="center">
 
-![Header](./github-header-banner.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-header-banner.png">
+  <source media="(prefers-color-scheme: light)" srcset="./github-header-banner.png">
+  <img src="./github-header-banner.png" alt="Header">
+</picture>
 
 
 
