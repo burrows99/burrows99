@@ -57,35 +57,27 @@
 <table>
 <tr>
 
-<!-- Left: Animated GIF -->
-<td width="40%" align="center" valign="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" />
+<!-- Left: Profile Image -->
+<td width="30%" align="center" valign="center">
+  <img src="./Profile1.png" width="250" style="border-radius: 12px;" />
 </td>
 
 <!-- Right: Info cards -->
-<td width="60%" valign="top">
+<td width="70%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> &nbsp; Hi, I'm **Raunak** — a Full-Stack / AI Software Engineer based in London.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="22" /> &nbsp; Hi, I'm **Raunak** — a Full-Stack / AI Software Engineer based in London.
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" width="16" /> &nbsp; **Location:** &nbsp; <img src="https://img.shields.io/badge/London,_UK-1a1b27?style=flat-square&logo=googlemaps&logoColor=EA4335" />
 <br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" width="20" /> &nbsp; **Location:** &nbsp; <img src="https://img.shields.io/badge/London,_UK-1a1b27?style=flat-square&logo=googlemaps&logoColor=EA4335" />
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20" /> &nbsp; **Role:** &nbsp; <img src="https://img.shields.io/badge/AI_Software_Engineer-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" /> &nbsp; **Education:** &nbsp; <img src="https://img.shields.io/badge/MSc_AI_—_Surrey_(Distinction)-0EA5E9?style=flat-square&logo=google-scholar&logoColor=white" />
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" /> &nbsp; **Languages:**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" /> &nbsp; **Interests:**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/LLM_Tooling-000?style=flat-square" /> <img src="https://img.shields.io/badge/RAG_Pipelines-000?style=flat-square" /> <img src="https://img.shields.io/badge/Agent_Systems-000?style=flat-square" /> <img src="https://img.shields.io/badge/Cloud--Native_Backends-000?style=flat-square" />
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="20" /> &nbsp; **When AFK:**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/♟_Chess-769656?style=flat-square" /> <img src="https://img.shields.io/badge/🎹_Piano-1a1b27?style=flat-square" /> <img src="https://img.shields.io/badge/🎸_Guitar-E4405F?style=flat-square" /> <img src="https://img.shields.io/badge/🥁_Drums-FF6600?style=flat-square" /> <img src="https://img.shields.io/badge/✏️_Sketching-58A6FF?style=flat-square" /> <img src="https://img.shields.io/badge/🎮_Gaming-8B5CF6?style=flat-square" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="16" /> &nbsp; **Role:** &nbsp; <img src="https://img.shields.io/badge/AI_Software_Engineer-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="16" /> &nbsp; **Education:** &nbsp; <img src="https://img.shields.io/badge/MSc_AI_—_Surrey_(Distinction)-0EA5E9?style=flat-square&logo=google-scholar&logoColor=white" />
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="16" /> &nbsp; **Languages:** &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="16" /> &nbsp; **Interests:** &nbsp; <img src="https://img.shields.io/badge/LLM_Tooling-000?style=flat-square" /> <img src="https://img.shields.io/badge/RAG_Pipelines-000?style=flat-square" /> <img src="https://img.shields.io/badge/Agent_Systems-000?style=flat-square" /> <img src="https://img.shields.io/badge/Cloud--Native_Backends-000?style=flat-square" />
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="16" /> &nbsp; **When AFK:** &nbsp; <img src="https://img.shields.io/badge/♟_Chess-769656?style=flat-square" /> <img src="https://img.shields.io/badge/🎹_Piano-1a1b27?style=flat-square" /> <img src="https://img.shields.io/badge/🎸_Guitar-E4405F?style=flat-square" /> <img src="https://img.shields.io/badge/🥁_Drums-FF6600?style=flat-square" /> <img src="https://img.shields.io/badge/✏️_Sketching-58A6FF?style=flat-square" /> <img src="https://img.shields.io/badge/🎮_Gaming-8B5CF6?style=flat-square" />
 
 </td>
 
