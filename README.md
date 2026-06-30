@@ -56,18 +56,11 @@ I build **AI-first products** — LLM pipelines, RAG systems, and agent tooling 
 <table align="center">
 <tr>
 <td><a href="https://github.com/burrows99/nhs-triage-simulation"><img width=280 src="https://socialify.git.ci/burrows99/nhs-triage-simulation/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/burrows99/trace-cli"><img width=280 src="https://socialify.git.ci/burrows99/trace-cli/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-</tr>
-<tr>
 <td><a href="https://github.com/burrows99/semblekit"><img width=280 src="https://socialify.git.ci/burrows99/semblekit/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+</tr>
+<tr>
 <td><a href="https://github.com/burrows99/LibreChat"><img width=280 src="https://socialify.git.ci/burrows99/LibreChat/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-</tr>
-<tr>
 <td><a href="https://github.com/burrows99/solar_system"><img width=280 src="https://socialify.git.ci/burrows99/solar_system/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/burrows99/elastiq-backend"><img width=280 src="https://socialify.git.ci/burrows99/elastiq-backend/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><a href="https://github.com/burrows99/jarvis-ai"><img width=280 src="https://socialify.git.ci/burrows99/jarvis-ai/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
 </tr>
 </table>
 
