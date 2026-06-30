@@ -4,8 +4,6 @@
 
 </div>
 
-## Hi, I'm Raunak 👋
-
 <table>
 <tr>
 <td width="27%" align="center" valign="top">
