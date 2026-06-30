@@ -77,16 +77,14 @@ I build **AI-first products** — LLM pipelines, RAG systems, and agent tooling 
 
 <table align="center">
 <tr>
-<td><a href="https://github.com/safishamsi/graphify"><img width=280 src="https://socialify.git.ci/safishamsi/graphify/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/microsoft/DebugMCP"><img width=280 src="https://socialify.git.ci/microsoft/DebugMCP/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td><a href="https://github.com/safishamsi/graphify"><img width=250 src="https://socialify.git.ci/safishamsi/graphify/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td><a href="https://github.com/microsoft/DebugMCP"><img width=250 src="https://socialify.git.ci/microsoft/DebugMCP/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td><a href="https://github.com/syntasso/kratix"><img width=250 src="https://socialify.git.ci/syntasso/kratix/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/syntasso/kratix"><img width=280 src="https://socialify.git.ci/syntasso/kratix/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/langchain-ai/retrieval-agent-template"><img width=280 src="https://socialify.git.ci/langchain-ai/retrieval-agent-template/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/StackOneHQ/defender"><img width=280 src="https://socialify.git.ci/StackOneHQ/defender/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/aixolotl/microsoft-planner-mcp"><img width=280 src="https://socialify.git.ci/aixolotl/microsoft-planner-mcp/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td><a href="https://github.com/langchain-ai/retrieval-agent-template"><img width=250 src="https://socialify.git.ci/langchain-ai/retrieval-agent-template/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td><a href="https://github.com/StackOneHQ/defender"><img width=250 src="https://socialify.git.ci/StackOneHQ/defender/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td><a href="https://github.com/aixolotl/microsoft-planner-mcp"><img width=250 src="https://socialify.git.ci/aixolotl/microsoft-planner-mcp/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
 </tr>
 </table>
 
