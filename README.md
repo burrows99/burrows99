@@ -13,7 +13,7 @@
 
 I build **AI-first products** — LLM pipelines, RAG systems, and agent tooling that actually ship to production. I like Go backends, well-typed Python, and making models behave.
 
-- 🔭 &nbsp;Currently **AI Engineer** — building *AIxChat*, multi-step LLM orchestration over MCP with tenant isolation, on Azure.
+- 🔭 &nbsp;Currently **Senior AI Engineer**
 - 🌱 &nbsp;**MSc AI, University of Surrey (Distinction)** — dissertation cut NHS doctor wait times by 58% using a Mixture-of-Agents.
 - 💬 &nbsp;Ask me about **LLM tooling, RAG, MCP servers, or Go microservices**.
 - 🎹 &nbsp;Off-keyboard: chess, piano, guitar, drums, and a sketchbook.
