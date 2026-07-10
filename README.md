@@ -56,7 +56,7 @@ I build **AI-first products** — LLM pipelines, RAG systems, and agent tooling 
 <table align="center">
 <tr>
 <td><a href="https://github.com/burrows99/nhs-triage-simulation"><img width=280 src="https://socialify.git.ci/burrows99/nhs-triage-simulation/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/burrows99/semblekit"><img width=280 src="https://socialify.git.ci/burrows99/semblekit/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td><a href="https://github.com/burrows99/goroutine-lab"><img width=280 src="https://socialify.git.ci/burrows99/goroutine-lab/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/burrows99/LibreChat"><img width=280 src="https://socialify.git.ci/burrows99/LibreChat/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
