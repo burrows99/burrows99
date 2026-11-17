@@ -55,51 +55,106 @@
 I have [**30+ merged pull requests**](https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+repo%3Awindmill-labs%2Fwindmill+repo%3Akubernetes-sigs%2Fkueue+repo%3Ahuggingface%2Ftransformers+repo%3Allm-d%2Fllm-d-inference-sim+repo%3Agoogle%2Fadk-go+repo%3An8n-io%2Fn8n+repo%3Atwentyhq%2Ftwenty+repo%3Agpustack%2Fgpustack+repo%3Aaaif-goose%2Fgoose) across nine projects in agent, workflow and ML infrastructure. Most of them are bug fixes.
 
 <table align="center">
+<tr><th>Project</th><th>Merged</th><th>Highlights</th></tr>
 <tr><td colspan="3" align="center"><b>🆕 Recent: merged in Nov 2026</b></td></tr>
 <tr>
-<td><a href="https://github.com/windmill-labs/windmill"><img width=250 src="https://socialify.git.ci/windmill-labs/windmill/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/kubernetes-sigs/kueue"><img width=250 src="https://socialify.git.ci/kubernetes-sigs/kueue/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/huggingface/transformers"><img width=250 src="https://socialify.git.ci/huggingface/transformers/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/windmill-labs/windmill"><img width=200 src="https://socialify.git.ci/windmill-labs/windmill/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/windmill-labs/windmill/pulls?q=is%3Apr+author%3Aburrows99+is%3Amerged"><b>Windmill</b></a></td>
+<td align="center">14</td>
+<td><a href="https://github.com/windmill-labs/windmill/pull/12450">Folder write-permission prefix bug</a> · <a href="https://github.com/windmill-labs/windmill/pull/12453">UTF-8 webhook GET payloads</a> · <a href="https://github.com/windmill-labs/windmill/pull/12466">Clearing a variable's value</a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/n8n-io/n8n"><img width=250 src="https://socialify.git.ci/n8n-io/n8n/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/google/adk-go"><img width=250 src="https://socialify.git.ci/google/adk-go/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/llm-d/llm-d-inference-sim"><img width=250 src="https://socialify.git.ci/llm-d/llm-d-inference-sim/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/kubernetes-sigs/kueue"><img width=200 src="https://socialify.git.ci/kubernetes-sigs/kueue/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/kubernetes-sigs/kueue/pulls?q=is%3Apr+author%3Aburrows99+is%3Amerged"><b>Kubernetes Kueue</b></a></td>
+<td align="center">5</td>
+<td><a href="https://github.com/kubernetes-sigs/kueue/pull/18977">ResourceFlavor that fits the Pod in the Pod importer</a> · <a href="https://github.com/kubernetes-sigs/kueue/pull/18803">Truncated names ending in a dot</a>, backported to <a href="https://github.com/kubernetes-sigs/kueue/pull/18959">release-0.20</a> and <a href="https://github.com/kubernetes-sigs/kueue/pull/18960">0.19</a> at a maintainer's request</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/huggingface/transformers"><img width=200 src="https://socialify.git.ci/huggingface/transformers/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aburrows99+is%3Amerged"><b>Hugging Face Transformers</b></a></td>
+<td align="center">4</td>
+<td><a href="https://github.com/huggingface/transformers/pull/50816">Multimodal pipelines return the chat as <code>input_text</code></a> · <a href="https://github.com/huggingface/transformers/pull/50817">Docs imports that failed on main</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/llm-d/llm-d-inference-sim"><img width=200 src="https://socialify.git.ci/llm-d/llm-d-inference-sim/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/llm-d/llm-d-inference-sim/pulls?q=is%3Apr+author%3Aburrows99+is%3Amerged"><b>llm-d inference-sim</b></a></td>
+<td align="center">2</td>
+<td><a href="https://github.com/llm-d/llm-d-inference-sim/pull/917">Streamed <code>/v1/responses</code> event numbering</a> · <a href="https://github.com/llm-d/llm-d-inference-sim/pull/918">Empty <code>top_logprobs</code> in chat logprobs</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/google/adk-go"><img width=200 src="https://socialify.git.ci/google/adk-go/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><b>Google ADK (Go)</b></td>
+<td align="center">1</td>
+<td><a href="https://github.com/google/adk-go/pull/2332">Redact and bound code-part labels in agent analytics</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/n8n-io/n8n"><img width=200 src="https://socialify.git.ci/n8n-io/n8n/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><b>n8n</b></td>
+<td align="center">1</td>
+<td><a href="https://github.com/n8n-io/n8n/pull/43943">Discord node keeps the original error</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/twentyhq/twenty"><img width=200 src="https://socialify.git.ci/twentyhq/twenty/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><b>Twenty</b></td>
+<td align="center">1</td>
+<td><a href="https://github.com/twentyhq/twenty/pull/30462">API key expiry label in the last 24 hours</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/gpustack/gpustack"><img width=200 src="https://socialify.git.ci/gpustack/gpustack/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><b>GPUStack</b></td>
+<td align="center">1</td>
+<td><a href="https://github.com/gpustack/gpustack/pull/6795">Reconnected worker keeps its tunnel route</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/aaif-goose/goose"><img width=200 src="https://socialify.git.ci/aaif-goose/goose/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><b>goose</b></td>
+<td align="center">1</td>
+<td><a href="https://github.com/aaif-goose/goose/pull/13563">Ollama XML tool calls keep <code><think></code> tags</a></td>
+</tr>
+<tr><td colspan="3" align="center"><b>🔍 Open and in review</b></td></tr>
+<tr>
+<td align="center"><a href="https://github.com/NVIDIA/warp"><img width=200 src="https://socialify.git.ci/NVIDIA/warp/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/NVIDIA/warp/pull/2339"><b>NVIDIA Warp</b></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/NVIDIA/warp/pull/2339">Hash captured constants at full precision</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/vllm-project/semantic-router"><img width=200 src="https://socialify.git.ci/vllm-project/semantic-router/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/vllm-project/semantic-router/pull/6848"><b>vLLM Semantic Router</b></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/vllm-project/semantic-router/pull/6848">Apply the Operator startup probe's initialDelaySeconds</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/QwenLM/qwen-code"><img width=200 src="https://socialify.git.ci/QwenLM/qwen-code/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/QwenLM/qwen-code/pull/17461"><b>Qwen Code</b></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/QwenLM/qwen-code/pull/17461">Mask secrets nested in a /config parent key value</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/awslabs/stickler"><img width=200 src="https://socialify.git.ci/awslabs/stickler/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/awslabs/stickler/pull/582"><b>AWS Stickler</b></a></td>
+<td align="center">approved</td>
+<td><a href="https://github.com/awslabs/stickler/pull/582">Set a tolerance, not a threshold, in NumericComparator amount examples</a></td>
 </tr>
 <tr><td colspan="3" align="center"><b>🕰️ Earlier</b></td></tr>
 <tr>
-<td><a href="https://github.com/BRL-CAD/brlcad"><img width=250 src="https://socialify.git.ci/BRL-CAD/brlcad/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/StackOneHQ/defender"><img width=250 src="https://socialify.git.ci/StackOneHQ/defender/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/aixolotl/microsoft-planner-mcp"><img width=250 src="https://socialify.git.ci/aixolotl/microsoft-planner-mcp/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/StackOneHQ/defender"><img width=200 src="https://socialify.git.ci/StackOneHQ/defender/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/StackOneHQ/defender/pull/47"><b>StackOne Defender</b></a></td>
+<td align="center">1</td>
+<td><a href="https://github.com/StackOneHQ/defender/pull/47">Prevent prototype pollution during object traversal</a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Graphify-Labs/graphify"><img width=250 src="https://socialify.git.ci/Graphify-Labs/graphify/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/microsoft/DebugMCP"><img width=250 src="https://socialify.git.ci/microsoft/DebugMCP/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/syntasso/kratix"><img width=250 src="https://socialify.git.ci/syntasso/kratix/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/aixolotl/microsoft-planner-mcp"><img width=200 src="https://socialify.git.ci/aixolotl/microsoft-planner-mcp/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/aixolotl/microsoft-planner-mcp/pulls?q=is%3Apr+author%3Aburrows99+is%3Amerged"><b>Microsoft Planner MCP</b></a></td>
+<td align="center">6</td>
+<td>Built the FastMCP server, on-behalf-of auth and the Planner service layer</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/syntasso/kratix"><img width=200 src="https://socialify.git.ci/syntasso/kratix/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/syntasso/kratix/pull/662"><b>Kratix</b></a></td>
+<td align="center">1</td>
+<td><a href="https://github.com/syntasso/kratix/pull/662">Contributor-docs fix</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/Graphify-Labs/graphify"><img width=200 src="https://socialify.git.ci/Graphify-Labs/graphify/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/Graphify-Labs/graphify/pull/1256"><b>graphify</b></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/Graphify-Labs/graphify/pull/1256">Sync Claude references with the full vocab-expansion step</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/microsoft/DebugMCP"><img width=200 src="https://socialify.git.ci/microsoft/DebugMCP/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/microsoft/DebugMCP/issues/91"><b>Microsoft DebugMCP</b></a></td>
+<td align="center">issue</td>
+<td><a href="https://github.com/microsoft/DebugMCP/issues/91">Reported the README/CHANGELOG link to the debug skill</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/langchain-ai/retrieval-agent-template"><img width=200 src="https://socialify.git.ci/langchain-ai/retrieval-agent-template/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/langchain-ai/retrieval-agent-template/pull/12"><b>LangChain retrieval-agent template</b></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/langchain-ai/retrieval-agent-template/pull/12">Ollama and Elasticsearch integration</a></td>
 </tr>
 </table>
-
-| Project | Merged | Highlights |
-|---|:-:|---|
-| [Windmill](https://github.com/windmill-labs/windmill/pulls?q=is%3Apr+author%3Aburrows99+is%3Amerged) | 14 | [Folder write-permission prefix bug](https://github.com/windmill-labs/windmill/pull/12450) · [UTF-8 webhook GET payloads](https://github.com/windmill-labs/windmill/pull/12453) · [Clearing a variable's value](https://github.com/windmill-labs/windmill/pull/12466) |
-| [Kubernetes Kueue](https://github.com/kubernetes-sigs/kueue/pulls?q=is%3Apr+author%3Aburrows99+is%3Amerged) | 5 | [ResourceFlavor that fits the Pod in the Pod importer](https://github.com/kubernetes-sigs/kueue/pull/18977) · [Truncated names ending in a dot](https://github.com/kubernetes-sigs/kueue/pull/18803), backported to [release-0.20](https://github.com/kubernetes-sigs/kueue/pull/18959) and [0.19](https://github.com/kubernetes-sigs/kueue/pull/18960) at a maintainer's request |
-| [Hugging Face Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aburrows99+is%3Amerged) | 4 | [Multimodal pipelines return the chat as `input_text`](https://github.com/huggingface/transformers/pull/50816) · [Docs imports that failed on main](https://github.com/huggingface/transformers/pull/50817) |
-| [llm-d inference-sim](https://github.com/llm-d/llm-d-inference-sim/pulls?q=is%3Apr+author%3Aburrows99+is%3Amerged) | 2 | [Streamed `/v1/responses` event numbering](https://github.com/llm-d/llm-d-inference-sim/pull/917) · [Empty `top_logprobs` in chat logprobs](https://github.com/llm-d/llm-d-inference-sim/pull/918) |
-| Google ADK (Go) | 1 | [Redact and bound code-part labels in agent analytics](https://github.com/google/adk-go/pull/2332) |
-| n8n | 1 | [Discord node keeps the original error](https://github.com/n8n-io/n8n/pull/43943) |
-| Twenty | 1 | [API key expiry label in the last 24 hours](https://github.com/twentyhq/twenty/pull/30462) |
-| GPUStack | 1 | [Reconnected worker keeps its tunnel route](https://github.com/gpustack/gpustack/pull/6795) |
-| goose | 1 | [Ollama XML tool calls keep `<think>` tags](https://github.com/aaif-goose/goose/pull/13563) |
-
-Open and in review: [awslabs/stickler](https://github.com/awslabs/stickler/pull/582) (approved), [NVIDIA Warp](https://github.com/NVIDIA/warp/pull/2339), [vLLM Semantic Router](https://github.com/vllm-project/semantic-router/pull/6848) and [Qwen Code](https://github.com/QwenLM/qwen-code/pull/17461).
-
-#### 🕰️ Earlier open-source work
-
-- **Google Summer of Code 2020, [BRL-CAD](https://github.com/BRL-CAD/brlcad)**: extended its 3D geometry processing and visualisation modules in C/C++, with code merged after community review
-- **[StackOne Defender](https://github.com/StackOneHQ/defender/pull/47)**: a merged fix for prototype pollution during object traversal
-- **[Microsoft Planner MCP](https://github.com/aixolotl/microsoft-planner-mcp/pulls?q=is%3Apr+author%3Aburrows99+is%3Amerged)**: 6 merged PRs building the FastMCP server, on-behalf-of auth and the Planner service layer
-- **[Kratix](https://github.com/syntasso/kratix/pull/662)**: a merged contributor-docs fix
-- Also contributed to [graphify](https://github.com/Graphify-Labs/graphify/pull/1256), [Microsoft DebugMCP](https://github.com/microsoft/DebugMCP/issues/91) and [LangChain's retrieval-agent template](https://github.com/langchain-ai/retrieval-agent-template/pull/12)
 
 ---
 
@@ -144,27 +199,6 @@ Open and in review: [awslabs/stickler](https://github.com/awslabs/stickler/pull/
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
-
----
-
-### 📌 Things I've built
-
-<table align="center">
-<tr>
-<td><a href="https://github.com/macquery-labs/witness"><img width=280 src="https://socialify.git.ci/macquery-labs/witness/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/burrows99/nhs-triage-simulation"><img width=280 src="https://socialify.git.ci/burrows99/nhs-triage-simulation/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/burrows99/goroutine-lab"><img width=280 src="https://socialify.git.ci/burrows99/goroutine-lab/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/burrows99/solar_system"><img width=280 src="https://socialify.git.ci/burrows99/solar_system/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-</tr>
-</table>
-
-- [**witness**](https://github.com/macquery-labs/witness) drives and debugs a running app from one config file, then hands back a video a person can watch and a report an agent can read
-- [**nhs-triage-simulation**](https://github.com/burrows99/nhs-triage-simulation) is my MSc dissertation: a Mixture-of-Agents triage simulation built with SimPy, LangGraph and FHIR synthetic data
-- [**goroutine-lab**](https://github.com/burrows99/goroutine-lab) teaches Go concurrency with 27 real patterns run in slow motion, which you step through like a debugger
-- [**Chat-Playwright**](https://github.com/burrows99/Chat-Playwright) does chat-driven browser automation with LibreChat, Ollama and the Playwright MCP server
-- [**solar_system**](https://github.com/burrows99/solar_system) is an interactive solar-system simulation with realistic orbits and scale
 
 ---
 
