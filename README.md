@@ -68,14 +68,14 @@ I have [**30+ merged pull requests**](https://github.com/search?type=pullrequest
 </tr>
 <tr><td colspan="3" align="center"><b>🕰️ Earlier</b></td></tr>
 <tr>
-<td><a href="https://github.com/BRL-CAD/brlcad"><img width=250 src="https://socialify.git.ci/BRL-CAD/brlcad/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
 <td><a href="https://github.com/StackOneHQ/defender"><img width=250 src="https://socialify.git.ci/StackOneHQ/defender/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
 <td><a href="https://github.com/aixolotl/microsoft-planner-mcp"><img width=250 src="https://socialify.git.ci/aixolotl/microsoft-planner-mcp/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td><a href="https://github.com/syntasso/kratix"><img width=250 src="https://socialify.git.ci/syntasso/kratix/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Graphify-Labs/graphify"><img width=250 src="https://socialify.git.ci/Graphify-Labs/graphify/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
 <td><a href="https://github.com/microsoft/DebugMCP"><img width=250 src="https://socialify.git.ci/microsoft/DebugMCP/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/syntasso/kratix"><img width=250 src="https://socialify.git.ci/syntasso/kratix/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td><a href="https://github.com/langchain-ai/retrieval-agent-template"><img width=250 src="https://socialify.git.ci/langchain-ai/retrieval-agent-template/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
 </tr>
 </table>
 
@@ -90,16 +90,15 @@ I have [**30+ merged pull requests**](https://github.com/search?type=pullrequest
 | Twenty | 1 | [API key expiry label in the last 24 hours](https://github.com/twentyhq/twenty/pull/30462) |
 | GPUStack | 1 | [Reconnected worker keeps its tunnel route](https://github.com/gpustack/gpustack/pull/6795) |
 | goose | 1 | [Ollama XML tool calls keep `<think>` tags](https://github.com/aaif-goose/goose/pull/13563) |
+| **🕰️ Earlier** | | |
+| [StackOne Defender](https://github.com/StackOneHQ/defender/pull/47) | 1 | [Prevent prototype pollution during object traversal](https://github.com/StackOneHQ/defender/pull/47) |
+| [Microsoft Planner MCP](https://github.com/aixolotl/microsoft-planner-mcp/pulls?q=is%3Apr+author%3Aburrows99+is%3Amerged) | 6 | Built the FastMCP server, on-behalf-of auth and the Planner service layer |
+| [Kratix](https://github.com/syntasso/kratix/pull/662) | 1 | [Contributor-docs fix](https://github.com/syntasso/kratix/pull/662) |
+| [graphify](https://github.com/Graphify-Labs/graphify/pull/1256) | open | [Sync Claude references with the full vocab-expansion step](https://github.com/Graphify-Labs/graphify/pull/1256) |
+| [Microsoft DebugMCP](https://github.com/microsoft/DebugMCP/issues/91) | issue | [Reported the README/CHANGELOG link to the debug skill](https://github.com/microsoft/DebugMCP/issues/91) |
+| [LangChain retrieval-agent template](https://github.com/langchain-ai/retrieval-agent-template/pull/12) | open | [Ollama and Elasticsearch integration](https://github.com/langchain-ai/retrieval-agent-template/pull/12) |
 
 Open and in review: [awslabs/stickler](https://github.com/awslabs/stickler/pull/582) (approved), [NVIDIA Warp](https://github.com/NVIDIA/warp/pull/2339), [vLLM Semantic Router](https://github.com/vllm-project/semantic-router/pull/6848) and [Qwen Code](https://github.com/QwenLM/qwen-code/pull/17461).
-
-#### 🕰️ Earlier open-source work
-
-- **Google Summer of Code 2020, [BRL-CAD](https://github.com/BRL-CAD/brlcad)**: extended its 3D geometry processing and visualisation modules in C/C++, with code merged after community review
-- **[StackOne Defender](https://github.com/StackOneHQ/defender/pull/47)**: a merged fix for prototype pollution during object traversal
-- **[Microsoft Planner MCP](https://github.com/aixolotl/microsoft-planner-mcp/pulls?q=is%3Apr+author%3Aburrows99+is%3Amerged)**: 6 merged PRs building the FastMCP server, on-behalf-of auth and the Planner service layer
-- **[Kratix](https://github.com/syntasso/kratix/pull/662)**: a merged contributor-docs fix
-- Also contributed to [graphify](https://github.com/Graphify-Labs/graphify/pull/1256), [Microsoft DebugMCP](https://github.com/microsoft/DebugMCP/issues/91) and [LangChain's retrieval-agent template](https://github.com/langchain-ai/retrieval-agent-template/pull/12)
 
 ---
 
@@ -151,20 +150,26 @@ Open and in review: [awslabs/stickler](https://github.com/awslabs/stickler/pull/
 
 <table align="center">
 <tr>
-<td><a href="https://github.com/macquery-labs/witness"><img width=280 src="https://socialify.git.ci/macquery-labs/witness/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/burrows99/nhs-triage-simulation"><img width=280 src="https://socialify.git.ci/burrows99/nhs-triage-simulation/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td><a href="https://github.com/macquery-labs/witness"><img width=260 src="https://socialify.git.ci/macquery-labs/witness/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td valign="middle"><a href="https://github.com/macquery-labs/witness"><b>witness</b></a><br/>Drives and debugs a running app from one config file, then hands back a video a person can watch and a report an agent can read</td>
 </tr>
 <tr>
-<td><a href="https://github.com/burrows99/goroutine-lab"><img width=280 src="https://socialify.git.ci/burrows99/goroutine-lab/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td><a href="https://github.com/burrows99/solar_system"><img width=280 src="https://socialify.git.ci/burrows99/solar_system/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td><a href="https://github.com/burrows99/nhs-triage-simulation"><img width=260 src="https://socialify.git.ci/burrows99/nhs-triage-simulation/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td valign="middle"><a href="https://github.com/burrows99/nhs-triage-simulation"><b>nhs-triage-simulation</b></a><br/>My MSc dissertation: a Mixture-of-Agents triage simulation built with SimPy, LangGraph and FHIR synthetic data</td>
+</tr>
+<tr>
+<td><a href="https://github.com/burrows99/goroutine-lab"><img width=260 src="https://socialify.git.ci/burrows99/goroutine-lab/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td valign="middle"><a href="https://github.com/burrows99/goroutine-lab"><b>goroutine-lab</b></a><br/>Teaches Go concurrency with 27 real patterns run in slow motion, which you step through like a debugger</td>
+</tr>
+<tr>
+<td><a href="https://github.com/burrows99/Chat-Playwright"><img width=260 src="https://socialify.git.ci/burrows99/Chat-Playwright/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td valign="middle"><a href="https://github.com/burrows99/Chat-Playwright"><b>Chat-Playwright</b></a><br/>Chat-driven browser automation with LibreChat, Ollama and the Playwright MCP server</td>
+</tr>
+<tr>
+<td><a href="https://github.com/burrows99/solar_system"><img width=260 src="https://socialify.git.ci/burrows99/solar_system/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td valign="middle"><a href="https://github.com/burrows99/solar_system"><b>solar_system</b></a><br/>An interactive solar-system simulation with realistic orbits and scale</td>
 </tr>
 </table>
-
-- [**witness**](https://github.com/macquery-labs/witness) drives and debugs a running app from one config file, then hands back a video a person can watch and a report an agent can read
-- [**nhs-triage-simulation**](https://github.com/burrows99/nhs-triage-simulation) is my MSc dissertation: a Mixture-of-Agents triage simulation built with SimPy, LangGraph and FHIR synthetic data
-- [**goroutine-lab**](https://github.com/burrows99/goroutine-lab) teaches Go concurrency with 27 real patterns run in slow motion, which you step through like a debugger
-- [**Chat-Playwright**](https://github.com/burrows99/Chat-Playwright) does chat-driven browser automation with LibreChat, Ollama and the Playwright MCP server
-- [**solar_system**](https://github.com/burrows99/solar_system) is an interactive solar-system simulation with realistic orbits and scale
 
 ---
 
