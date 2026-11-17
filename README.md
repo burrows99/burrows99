@@ -41,12 +41,12 @@
 
 | Role | Highlight |
 |---|---|
-| **Senior Engineer**<br>[Hesta Health](https://hesta.health/) · <sub>2026</sub> | Built the clinical AI orchestration service (Python/FastAPI, LangGraph) for a postnatal care platform: parallel DAG execution, per-run model routing, and PHI de-identified with Microsoft Presidio before any payload reaches a Claude model |
-| **AI Engineer**<br>[Aixolotl](https://aixolotl.com/) · <sub>2025–26</sub> | Architected and shipped **AIxChat** from zero to one: a production AI platform orchestrating multi-step LLM pipelines via MCP, with tenant-boundary enforcement, deployed to Azure |
-| **Data Scientist**<br>[Turing](https://www.turing.com/) · <sub>2024</sub> | Eval-driven pipelines (SFT, RLHF, LLM-as-a-Judge, golden datasets) for the [Grok LLM](https://grok.com/) on X, improving response relevance by **25%** |
-| **Software Engineer**<br>[Sciometrix](https://www.sciometrix.com/) · <sub>2023–25</sub> | An MCP validation agent with 12 tools over HIPAA-regulated claims, cutting validation overhead by **~65%** and raising claim accuracy by **~35%**; a Go X12 EDI engine saving **~$1,400/month** |
-| **Full Stack Developer**<br>[QuestionPro](https://www.questionpro.com/) · <sub>2022–23</sub> | FastAPI LLM microservices shipped as [Genie AI](https://www.questionpro.com/help/genie-overview.html); post-launch NPS rose from **3.8→4.6/5** |
-| **Specialist Programmer**<br>[Infosys](https://www.infosys.com/) · <sub>2021–22</sub> | Go microservices for eBay's retail platform: **2× throughput**, latency cut from **4→2 ms** with pprof profiling |
+| **Senior&nbsp;Engineer**<br>[Hesta&nbsp;Health](https://hesta.health/)&nbsp;·&nbsp;<sub>2026</sub> | Built the clinical AI orchestration service (Python/FastAPI, LangGraph) for a postnatal care platform: parallel DAG execution, per-run model routing, and PHI de-identified with Microsoft Presidio before any payload reaches a Claude model |
+| **AI&nbsp;Engineer**<br>[Aixolotl](https://aixolotl.com/)&nbsp;·&nbsp;<sub>2025–26</sub> | Architected and shipped **AIxChat** from zero to one: a production AI platform orchestrating multi-step LLM pipelines via MCP, with tenant-boundary enforcement, deployed to Azure |
+| **Data&nbsp;Scientist**<br>[Turing](https://www.turing.com/)&nbsp;·&nbsp;<sub>2024</sub> | Eval-driven pipelines (SFT, RLHF, LLM-as-a-Judge, golden datasets) for the [Grok LLM](https://grok.com/) on X, improving response relevance by **25%** |
+| **Software&nbsp;Engineer**<br>[Sciometrix](https://www.sciometrix.com/)&nbsp;·&nbsp;<sub>2023–25</sub> | An MCP validation agent with 12 tools over HIPAA-regulated claims, cutting validation overhead by **~65%** and raising claim accuracy by **~35%**; a Go X12 EDI engine saving **~$1,400/month** |
+| **Full&nbsp;Stack&nbsp;Developer**<br>[QuestionPro](https://www.questionpro.com/)&nbsp;·&nbsp;<sub>2022–23</sub> | FastAPI LLM microservices shipped as [Genie AI](https://www.questionpro.com/help/genie-overview.html); post-launch NPS rose from **3.8→4.6/5** |
+| **Specialist&nbsp;Programmer**<br>[Infosys](https://www.infosys.com/)&nbsp;·&nbsp;<sub>2021–22</sub> | Go microservices for eBay's retail platform: **2× throughput**, latency cut from **4→2 ms** with pprof profiling |
 
 ---
 
@@ -181,7 +181,7 @@ Open and in review: [awslabs/stickler](https://github.com/awslabs/stickler/pull/
 <table align="center">
 <tr>
 <td valign="top"><img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=burrows99&theme=transparent" alt="GitHub Stats" /></td>
-<td valign="top"><img width=390 src="https://streak-stats.demolab.com/?user=burrows99&theme=transparent&hide_border=true" alt="Streak" /></td>
+<td valign="top"><img width=390 src="https://streak-stats.demolab.com/?user=burrows99&theme=transparent&hide_border=true&disable_animations=true" alt="Streak" /></td>
 </tr>
 </table>
 
