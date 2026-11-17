@@ -102,6 +102,27 @@ I have [**30+ merged pull requests**](https://github.com/search?type=pullrequest
 <td align="center">1</td>
 <td><a href="https://github.com/aaif-goose/goose/pull/13563">Ollama XML tool calls keep <code><think></code> tags</a></td>
 </tr>
+<tr><td colspan="3" align="center"><b>🔍 Open and in review</b></td></tr>
+<tr>
+<td align="center"><a href="https://github.com/NVIDIA/warp"><img width=200 src="https://socialify.git.ci/NVIDIA/warp/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/NVIDIA/warp/pull/2339"><b>NVIDIA Warp</b></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/NVIDIA/warp/pull/2339">Hash captured constants at full precision</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/vllm-project/semantic-router"><img width=200 src="https://socialify.git.ci/vllm-project/semantic-router/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/vllm-project/semantic-router/pull/6848"><b>vLLM Semantic Router</b></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/vllm-project/semantic-router/pull/6848">Apply the Operator startup probe's initialDelaySeconds</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/QwenLM/qwen-code"><img width=200 src="https://socialify.git.ci/QwenLM/qwen-code/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/QwenLM/qwen-code/pull/17461"><b>Qwen Code</b></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/QwenLM/qwen-code/pull/17461">Mask secrets nested in a /config parent key value</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/awslabs/stickler"><img width=200 src="https://socialify.git.ci/awslabs/stickler/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/awslabs/stickler/pull/582"><b>AWS Stickler</b></a></td>
+<td align="center">approved</td>
+<td><a href="https://github.com/awslabs/stickler/pull/582">Set a tolerance, not a threshold, in NumericComparator amount examples</a></td>
+</tr>
 <tr><td colspan="3" align="center"><b>🕰️ Earlier</b></td></tr>
 <tr>
 <td align="center"><a href="https://github.com/StackOneHQ/defender"><img width=200 src="https://socialify.git.ci/StackOneHQ/defender/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a><br/><a href="https://github.com/StackOneHQ/defender/pull/47"><b>StackOne Defender</b></a></td>
@@ -134,8 +155,6 @@ I have [**30+ merged pull requests**](https://github.com/search?type=pullrequest
 <td><a href="https://github.com/langchain-ai/retrieval-agent-template/pull/12">Ollama and Elasticsearch integration</a></td>
 </tr>
 </table>
-
-Open and in review: [awslabs/stickler](https://github.com/awslabs/stickler/pull/582) (approved), [NVIDIA Warp](https://github.com/NVIDIA/warp/pull/2339), [vLLM Semantic Router](https://github.com/vllm-project/semantic-router/pull/6848) and [Qwen Code](https://github.com/QwenLM/qwen-code/pull/17461).
 
 ---
 
@@ -180,33 +199,6 @@ Open and in review: [awslabs/stickler](https://github.com/awslabs/stickler/pull/
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
-
----
-
-### 📌 Things I've built
-
-<table align="center">
-<tr>
-<td><a href="https://github.com/macquery-labs/witness"><img width=260 src="https://socialify.git.ci/macquery-labs/witness/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td valign="middle"><a href="https://github.com/macquery-labs/witness"><b>witness</b></a><br/>Drives and debugs a running app from one config file, then hands back a video a person can watch and a report an agent can read</td>
-</tr>
-<tr>
-<td><a href="https://github.com/burrows99/nhs-triage-simulation"><img width=260 src="https://socialify.git.ci/burrows99/nhs-triage-simulation/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td valign="middle"><a href="https://github.com/burrows99/nhs-triage-simulation"><b>nhs-triage-simulation</b></a><br/>My MSc dissertation: a Mixture-of-Agents triage simulation built with SimPy, LangGraph and FHIR synthetic data</td>
-</tr>
-<tr>
-<td><a href="https://github.com/burrows99/goroutine-lab"><img width=260 src="https://socialify.git.ci/burrows99/goroutine-lab/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td valign="middle"><a href="https://github.com/burrows99/goroutine-lab"><b>goroutine-lab</b></a><br/>Teaches Go concurrency with 27 real patterns run in slow motion, which you step through like a debugger</td>
-</tr>
-<tr>
-<td><a href="https://github.com/burrows99/Chat-Playwright"><img width=260 src="https://socialify.git.ci/burrows99/Chat-Playwright/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td valign="middle"><a href="https://github.com/burrows99/Chat-Playwright"><b>Chat-Playwright</b></a><br/>Chat-driven browser automation with LibreChat, Ollama and the Playwright MCP server</td>
-</tr>
-<tr>
-<td><a href="https://github.com/burrows99/solar_system"><img width=260 src="https://socialify.git.ci/burrows99/solar_system/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
-<td valign="middle"><a href="https://github.com/burrows99/solar_system"><b>solar_system</b></a><br/>An interactive solar-system simulation with realistic orbits and scale</td>
-</tr>
-</table>
 
 ---
 
