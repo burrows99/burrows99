@@ -14,7 +14,7 @@
 **AI and agent engineer in London.** I build agentic systems that ship to production: multi-agent orchestration, MCP servers, and the eval pipelines that keep them honest, in Go, Python and TypeScript.
 
 - Currently a tech lead in an **AI Products & Platform** team
-- **MSc AI, University of Surrey**: my dissertation cut NHS doctor wait times by 58% with a Mixture-of-Agents
+- **MSc AI, University of Surrey (Merit)**: my dissertation cut NHS doctor wait times by 58% with a Mixture-of-Agents
 - Off-keyboard: chess, piano, guitar, drums, and a sketchbook
 - Reach me at **raunakburrows@gmail.com**
 
