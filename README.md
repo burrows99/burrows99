@@ -58,99 +58,99 @@ I have [**30+ merged pull requests**](https://github.com/search?type=pullrequest
 <tr><th>Project</th><th>Merged</th><th>Highlights</th></tr>
 <tr><td colspan="3" align="center"><b>🆕 Recent: merged in Nov 2026</b></td></tr>
 <tr>
-<td align="center"><a href="https://github.com/windmill-labs/windmill"><img width=200 src="https://socialify.git.ci/windmill-labs/windmill/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/windmill-labs/windmill"><img width=200 src="https://socialify.git.ci/windmill-labs/windmill/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2Fwindmill-labs.png" /></a></td>
 <td align="center">14</td>
 <td><a href="https://github.com/windmill-labs/windmill/pull/12450">Folder write-permission prefix bug</a> · <a href="https://github.com/windmill-labs/windmill/pull/12453">UTF-8 webhook GET payloads</a> · <a href="https://github.com/windmill-labs/windmill/pull/12466">Clearing a variable's value</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/kubernetes-sigs/kueue"><img width=200 src="https://socialify.git.ci/kubernetes-sigs/kueue/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/kubernetes-sigs/kueue"><img width=200 src="https://socialify.git.ci/kubernetes-sigs/kueue/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2Fkubernetes-sigs.png" /></a></td>
 <td align="center">5</td>
 <td><a href="https://github.com/kubernetes-sigs/kueue/pull/18977">ResourceFlavor that fits the Pod in the Pod importer</a> · <a href="https://github.com/kubernetes-sigs/kueue/pull/18803">Truncated names ending in a dot</a>, backported to <a href="https://github.com/kubernetes-sigs/kueue/pull/18959">release-0.20</a> and <a href="https://github.com/kubernetes-sigs/kueue/pull/18960">0.19</a> at a maintainer's request</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/huggingface/transformers"><img width=200 src="https://socialify.git.ci/huggingface/transformers/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/huggingface/transformers"><img width=200 src="https://socialify.git.ci/huggingface/transformers/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2Fhuggingface.png" /></a></td>
 <td align="center">4</td>
 <td><a href="https://github.com/huggingface/transformers/pull/50816">Multimodal pipelines return the chat as <code>input_text</code></a> · <a href="https://github.com/huggingface/transformers/pull/50817">Docs imports that failed on main</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/llm-d/llm-d-inference-sim"><img width=200 src="https://socialify.git.ci/llm-d/llm-d-inference-sim/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/llm-d/llm-d-inference-sim"><img width=200 src="https://socialify.git.ci/llm-d/llm-d-inference-sim/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2Fllm-d.png" /></a></td>
 <td align="center">2</td>
 <td><a href="https://github.com/llm-d/llm-d-inference-sim/pull/917">Streamed <code>/v1/responses</code> event numbering</a> · <a href="https://github.com/llm-d/llm-d-inference-sim/pull/918">Empty <code>top_logprobs</code> in chat logprobs</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/google/adk-go"><img width=200 src="https://socialify.git.ci/google/adk-go/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/google/adk-go"><img width=200 src="https://socialify.git.ci/google/adk-go/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2Fgoogle.png" /></a></td>
 <td align="center">1</td>
 <td><a href="https://github.com/google/adk-go/pull/2332">Redact and bound code-part labels in agent analytics</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/n8n-io/n8n"><img width=200 src="https://socialify.git.ci/n8n-io/n8n/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/n8n-io/n8n"><img width=200 src="https://socialify.git.ci/n8n-io/n8n/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2Fn8n-io.png" /></a></td>
 <td align="center">1</td>
 <td><a href="https://github.com/n8n-io/n8n/pull/43943">Discord node keeps the original error</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/twentyhq/twenty"><img width=200 src="https://socialify.git.ci/twentyhq/twenty/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/twentyhq/twenty"><img width=200 src="https://socialify.git.ci/twentyhq/twenty/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2Ftwentyhq.png" /></a></td>
 <td align="center">1</td>
 <td><a href="https://github.com/twentyhq/twenty/pull/30462">API key expiry label in the last 24 hours</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/gpustack/gpustack"><img width=200 src="https://socialify.git.ci/gpustack/gpustack/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/gpustack/gpustack"><img width=200 src="https://socialify.git.ci/gpustack/gpustack/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2Fgpustack.png" /></a></td>
 <td align="center">1</td>
 <td><a href="https://github.com/gpustack/gpustack/pull/6795">Reconnected worker keeps its tunnel route</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/aaif-goose/goose"><img width=200 src="https://socialify.git.ci/aaif-goose/goose/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/aaif-goose/goose"><img width=200 src="https://socialify.git.ci/aaif-goose/goose/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2Faaif-goose.png" /></a></td>
 <td align="center">1</td>
 <td><a href="https://github.com/aaif-goose/goose/pull/13563">Ollama XML tool calls keep <code><think></code> tags</a></td>
 </tr>
 <tr><td colspan="3" align="center"><b>🔍 Open and in review</b></td></tr>
 <tr>
-<td align="center"><a href="https://github.com/NVIDIA/warp"><img width=200 src="https://socialify.git.ci/NVIDIA/warp/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/NVIDIA/warp"><img width=200 src="https://socialify.git.ci/NVIDIA/warp/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2FNVIDIA.png" /></a></td>
 <td align="center">open</td>
 <td><a href="https://github.com/NVIDIA/warp/pull/2339">Hash captured constants at full precision</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/vllm-project/semantic-router"><img width=200 src="https://socialify.git.ci/vllm-project/semantic-router/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/vllm-project/semantic-router"><img width=200 src="https://socialify.git.ci/vllm-project/semantic-router/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2Fvllm-project.png" /></a></td>
 <td align="center">open</td>
 <td><a href="https://github.com/vllm-project/semantic-router/pull/6848">Apply the Operator startup probe's initialDelaySeconds</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/QwenLM/qwen-code"><img width=200 src="https://socialify.git.ci/QwenLM/qwen-code/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/QwenLM/qwen-code"><img width=200 src="https://socialify.git.ci/QwenLM/qwen-code/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2FQwenLM.png" /></a></td>
 <td align="center">open</td>
 <td><a href="https://github.com/QwenLM/qwen-code/pull/17461">Mask secrets nested in a /config parent key value</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/awslabs/stickler"><img width=200 src="https://socialify.git.ci/awslabs/stickler/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/awslabs/stickler"><img width=200 src="https://socialify.git.ci/awslabs/stickler/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2Fawslabs.png" /></a></td>
 <td align="center">approved</td>
 <td><a href="https://github.com/awslabs/stickler/pull/582">Set a tolerance, not a threshold, in NumericComparator amount examples</a></td>
 </tr>
 <tr><td colspan="3" align="center"><b>🕰️ Earlier</b></td></tr>
 <tr>
-<td align="center"><a href="https://github.com/StackOneHQ/defender"><img width=200 src="https://socialify.git.ci/StackOneHQ/defender/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/StackOneHQ/defender"><img width=200 src="https://socialify.git.ci/StackOneHQ/defender/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2FStackOneHQ.png" /></a></td>
 <td align="center">1</td>
 <td><a href="https://github.com/StackOneHQ/defender/pull/47">Prevent prototype pollution during object traversal</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/aixolotl/microsoft-planner-mcp"><img width=200 src="https://socialify.git.ci/aixolotl/microsoft-planner-mcp/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/aixolotl/microsoft-planner-mcp"><img width=200 src="https://socialify.git.ci/aixolotl/microsoft-planner-mcp/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2Faixolotl.png" /></a></td>
 <td align="center">6</td>
 <td>Built the FastMCP server, on-behalf-of auth and the Planner service layer</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/syntasso/kratix"><img width=200 src="https://socialify.git.ci/syntasso/kratix/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/syntasso/kratix"><img width=200 src="https://socialify.git.ci/syntasso/kratix/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2Fsyntasso.png" /></a></td>
 <td align="center">1</td>
 <td><a href="https://github.com/syntasso/kratix/pull/662">Contributor-docs fix</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/Graphify-Labs/graphify"><img width=200 src="https://socialify.git.ci/Graphify-Labs/graphify/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/Graphify-Labs/graphify"><img width=200 src="https://socialify.git.ci/Graphify-Labs/graphify/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2FGraphify-Labs.png" /></a></td>
 <td align="center">open</td>
 <td><a href="https://github.com/Graphify-Labs/graphify/pull/1256">Sync Claude references with the full vocab-expansion step</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/microsoft/DebugMCP"><img width=200 src="https://socialify.git.ci/microsoft/DebugMCP/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/microsoft/DebugMCP"><img width=200 src="https://socialify.git.ci/microsoft/DebugMCP/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2Fmicrosoft.png" /></a></td>
 <td align="center">issue</td>
 <td><a href="https://github.com/microsoft/DebugMCP/issues/91">Reported the README/CHANGELOG link to the debug skill</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/langchain-ai/retrieval-agent-template"><img width=200 src="https://socialify.git.ci/langchain-ai/retrieval-agent-template/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" /></a></td>
+<td align="center"><a href="https://github.com/langchain-ai/retrieval-agent-template"><img width=200 src="https://socialify.git.ci/langchain-ai/retrieval-agent-template/image?description=0&font=Inter&forks=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Auto&logo=https%3A%2F%2Fgithub.com%2Flangchain-ai.png" /></a></td>
 <td align="center">open</td>
 <td><a href="https://github.com/langchain-ai/retrieval-agent-template/pull/12">Ollama and Elasticsearch integration</a></td>
 </tr>
