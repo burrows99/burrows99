@@ -2,7 +2,7 @@
 
 <img src="./github-header-banner.png" alt="Header" />
 
-<a href="https://github.com/burrows99"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+and+agent+engineer+in+London;Multi-agent+orchestration+%C2%B7+MCP+servers+%C2%B7+evals;30%2B+merged+open-source+PRs+across+9+projects;Go+%C2%B7+Python+%C2%B7+TypeScript" alt="AI and agent engineer in London: multi-agent orchestration, MCP servers, evals" /></a>
+<a href="https://github.com/burrows99"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+and+agent+engineer+in+London;Multi-agent+orchestration+%C2%B7+MCP+servers+%C2%B7+evals;45+merged+open-source+PRs+across+12+projects;Go+%C2%B7+Python+%C2%B7+TypeScript" alt="AI and agent engineer in London: multi-agent orchestration, MCP servers, evals" /></a>
 
 </div>
 
@@ -16,7 +16,7 @@
 **AI and agent engineer in London.** I build agentic systems that ship to production: multi-agent orchestration, MCP servers, and the eval pipelines that keep them honest, in Go, Python and TypeScript.
 
 - 🔭 &nbsp;Currently a tech lead in an **AI Products & Platform** team
-- 🌍 &nbsp;**30+ merged open-source PRs** across Windmill, Kubernetes Kueue, Hugging Face Transformers, n8n, Google ADK and more
+- 🌍 &nbsp;**45 merged open-source PRs** across Windmill, Kubernetes Kueue, Hugging Face Transformers, n8n, Google ADK and more
 - 🧭 &nbsp;**5+ years in production**: clinical AI orchestration, LLM evals for Grok, MCP agents over HIPAA claims, Go microservices for eBay
 - 🌱 &nbsp;**MSc AI, University of Surrey (Merit)**: my dissertation cut NHS doctor wait times by 58% with a Mixture-of-Agents
 - 💬 &nbsp;Ask me about **agents, MCP servers, evals or Go microservices**
@@ -52,14 +52,14 @@
 
 ### 🌍 Open source
 
-I have [**30+ merged pull requests**](https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+repo%3Awindmill-labs%2Fwindmill+repo%3Akubernetes-sigs%2Fkueue+repo%3Ahuggingface%2Ftransformers+repo%3Allm-d%2Fllm-d-inference-sim+repo%3Agoogle%2Fadk-go+repo%3An8n-io%2Fn8n+repo%3Atwentyhq%2Ftwenty+repo%3Agpustack%2Fgpustack+repo%3Aaaif-goose%2Fgoose) across nine projects in agent, workflow and ML infrastructure. Most of them are bug fixes.
+I have [**45 merged pull requests**](https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+repo%3Awindmill-labs%2Fwindmill+repo%3Akubernetes-sigs%2Fkueue+repo%3Ahuggingface%2Ftransformers+repo%3Allm-d%2Fllm-d-inference-sim+repo%3Agoogle%2Fadk-go+repo%3An8n-io%2Fn8n+repo%3Atwentyhq%2Ftwenty+repo%3Agpustack%2Fgpustack+repo%3Aaaif-goose%2Fgoose+repo%3Amarimo-team%2Fmarimo+repo%3Acontextforge-org%2Fcontextforge-web-ui+repo%3Aawslabs%2Fstickler) across 12 projects in agent, workflow and ML infrastructure. Most of them are bug fixes; on 18 Nov Windmill's founder merged 10 of them in one review pass.
 
 <table align="center">
 <tr><th>Project</th><th>Merged</th><th>Highlights</th></tr>
 <tr><td colspan="3" align="center"><b>🆕 Recent: merged in Nov 2026</b></td></tr>
 <tr>
 <td align="center"><a href="https://github.com/windmill-labs/windmill"><img width=260 src="./cards/windmill-labs-windmill.svg" /></a></td>
-<td align="center">14</td>
+<td align="center">24</td>
 <td><a href="https://github.com/windmill-labs/windmill/pull/12450">Folder write-permission prefix bug</a> · <a href="https://github.com/windmill-labs/windmill/pull/12453">UTF-8 webhook GET payloads</a> · <a href="https://github.com/windmill-labs/windmill/pull/12466">Clearing a variable's value</a></td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ I have [**30+ merged pull requests**](https://github.com/search?type=pullrequest
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/llm-d/llm-d-inference-sim"><img width=260 src="./cards/llm-d-llm-d-inference-sim.svg" /></a></td>
-<td align="center">2</td>
+<td align="center">4</td>
 <td><a href="https://github.com/llm-d/llm-d-inference-sim/pull/917">Streamed <code>/v1/responses</code> event numbering</a> · <a href="https://github.com/llm-d/llm-d-inference-sim/pull/918">Empty <code>top_logprobs</code> in chat logprobs</a></td>
 </tr>
 <tr>
@@ -102,6 +102,21 @@ I have [**30+ merged pull requests**](https://github.com/search?type=pullrequest
 <td align="center">1</td>
 <td><a href="https://github.com/aaif-goose/goose/pull/13563">Ollama XML tool calls keep <code>&lt;think&gt;</code> tags</a></td>
 </tr>
+<tr>
+<td align="center"><a href="https://github.com/marimo-team/marimo"><img width=260 src="./cards/marimo-team-marimo.svg" /></a></td>
+<td align="center">1</td>
+<td><a href="https://github.com/marimo-team/marimo/pull/11895">Variables search stops matching internal cell IDs</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/contextforge-org/contextforge-web-ui"><img width=260 src="./cards/contextforge-org-contextforge-web-ui.svg" /></a></td>
+<td align="center">1</td>
+<td><a href="https://github.com/contextforge-org/contextforge-web-ui/pull/253">Translated role labels in the manage-members picker</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/awslabs/stickler"><img width=260 src="./cards/awslabs-stickler.svg" /></a></td>
+<td align="center">1</td>
+<td><a href="https://github.com/awslabs/stickler/pull/582">Set a tolerance, not a threshold, in NumericComparator amount examples</a></td>
+</tr>
 <tr><td colspan="3" align="center"><b>🔍 Open and in review</b></td></tr>
 <tr>
 <td align="center"><a href="https://github.com/NVIDIA/warp"><img width=260 src="./cards/NVIDIA-warp.svg" /></a></td>
@@ -117,11 +132,6 @@ I have [**30+ merged pull requests**](https://github.com/search?type=pullrequest
 <td align="center"><a href="https://github.com/QwenLM/qwen-code"><img width=260 src="./cards/QwenLM-qwen-code.svg" /></a></td>
 <td align="center">open</td>
 <td><a href="https://github.com/QwenLM/qwen-code/pull/17461">Mask secrets nested in a /config parent key value</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/awslabs/stickler"><img width=260 src="./cards/awslabs-stickler.svg" /></a></td>
-<td align="center">approved</td>
-<td><a href="https://github.com/awslabs/stickler/pull/582">Set a tolerance, not a threshold, in NumericComparator amount examples</a></td>
 </tr>
 <tr><td colspan="3" align="center"><b>🕰️ Earlier</b></td></tr>
 <tr>
