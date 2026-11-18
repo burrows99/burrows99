@@ -119,9 +119,39 @@ I have [**45 merged pull requests**](https://github.com/search?type=pullrequests
 </tr>
 <tr><td colspan="3" align="center"><b>🔍 Open and in review</b></td></tr>
 <tr>
-<td align="center"><a href="https://github.com/NVIDIA/warp"><img width=260 src="./cards/NVIDIA-warp.svg" /></a></td>
+<td align="center"><a href="https://github.com/windmill-labs/windmill"><img width=260 src="./cards/windmill-labs-windmill.svg" /></a></td>
+<td align="center">6 open</td>
+<td><a href="https://github.com/windmill-labs/windmill/pull/12515">Argument descriptions from JSDoc and Python docstrings</a> · <a href="https://github.com/windmill-labs/windmill/pull/12513">Python client retries on 429 and 502–504</a> · <a href="https://github.com/windmill-labs/windmill/pull/12512">Resource usage count per resource type</a> · <a href="https://github.com/windmill-labs/windmill/pull/12507">Download a large file result as its file</a> · <a href="https://github.com/windmill-labs/windmill/pull/12493">Running jobs in an older version's inputs history</a> · <a href="https://github.com/windmill-labs/windmill/pull/12483">Restore a saved input's name when a rename is cancelled</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/kedacore/keda"><img width=260 src="./cards/kedacore-keda.svg" /></a></td>
 <td align="center">open</td>
-<td><a href="https://github.com/NVIDIA/warp/pull/2339">Hash captured constants at full precision</a></td>
+<td><a href="https://github.com/kedacore/keda/pull/8385">Metrics API scaler honours <code>!=</code>, <code>=~</code> and <code>!~</code> label matchers</a>, after a maintainer assigned the issue</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/marimo-team/marimo"><img width=260 src="./cards/marimo-team-marimo.svg" /></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/marimo-team/marimo/pull/11897">Data sources search ignores surrounding whitespace</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/aaif-goose/goose"><img width=260 src="./cards/aaif-goose-goose.svg" /></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/aaif-goose/goose/pull/13607">Desktop rejects non-image attachments on an external backend</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mlflow/mlflow"><img width=260 src="./cards/mlflow-mlflow.svg" /></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/mlflow/mlflow/pull/27792">Run-root <code>runs:/&lt;run_id&gt;</code> URIs in artifact download and list</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/PostHog/posthog"><img width=260 src="./cards/PostHog-posthog.svg" /></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/PostHog/posthog/pull/136134">Picking 12 in the morning selects midnight</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/supabase/supabase"><img width=260 src="./cards/supabase-supabase.svg" /></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/supabase/supabase/pull/53417">Case-insensitive database list search in Studio</a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/vllm-project/semantic-router"><img width=260 src="./cards/vllm-project-semantic-router.svg" /></a></td>
@@ -130,8 +160,18 @@ I have [**45 merged pull requests**](https://github.com/search?type=pullrequests
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/QwenLM/qwen-code"><img width=260 src="./cards/QwenLM-qwen-code.svg" /></a></td>
+<td align="center">2 open</td>
+<td><a href="https://github.com/QwenLM/qwen-code/pull/17461">Mask secrets nested in a /config parent key value</a> · <a href="https://github.com/QwenLM/qwen-code/pull/17385">Skip tool-call-only turns when counting <code>/copy N</code></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/NVIDIA/warp"><img width=260 src="./cards/NVIDIA-warp.svg" /></a></td>
 <td align="center">open</td>
-<td><a href="https://github.com/QwenLM/qwen-code/pull/17461">Mask secrets nested in a /config parent key value</a></td>
+<td><a href="https://github.com/NVIDIA/warp/pull/2339">Hash captured constants at full precision</a></td>
+</tr>
+<tr>
+<td align="center"><b>31 more projects</b></td>
+<td align="center">42 open</td>
+<td>n8n <a href="https://github.com/n8n-io/n8n/pull/43941">#43941</a>, <a href="https://github.com/n8n-io/n8n/pull/43942">#43942</a>, <a href="https://github.com/n8n-io/n8n/pull/43944">#43944</a>, <a href="https://github.com/n8n-io/n8n/pull/43948">#43948</a> · Mattermost <a href="https://github.com/mattermost/mattermost/pull/40050">#40050</a>, <a href="https://github.com/mattermost/mattermost/pull/40051">#40051</a>, <a href="https://github.com/mattermost/mattermost/pull/40052">#40052</a> · NocoDB <a href="https://github.com/nocodb/nocodb/pull/15046">#15046</a>, <a href="https://github.com/nocodb/nocodb/pull/15047">#15047</a>, <a href="https://github.com/nocodb/nocodb/pull/15048">#15048</a> · DeerFlow <a href="https://github.com/bytedance/deer-flow/pull/8282">#8282</a>, <a href="https://github.com/bytedance/deer-flow/pull/8288">#8288</a> · greplica <a href="https://github.com/Autoloops/greplica/pull/108">#108</a>, <a href="https://github.com/Autoloops/greplica/pull/109">#109</a> · HF Chat UI <a href="https://github.com/huggingface/chat-ui/pull/2770">#2770</a>, <a href="https://github.com/huggingface/chat-ui/pull/2771">#2771</a> · Jupyter Chat <a href="https://github.com/jupyterlab/jupyter-chat/pull/587">#587</a>, <a href="https://github.com/jupyterlab/jupyter-chat/pull/589">#589</a> · ADK Web <a href="https://github.com/google/adk-web/pull/566">#566</a> · AgentScope <a href="https://github.com/agentscope-ai/agentscope/pull/4074">#4074</a> · AI Elements <a href="https://github.com/vercel/ai-elements/pull/517">#517</a> · AWS Labs social messaging toolkit <a href="https://github.com/awslabs/social-messaging-agent-runtime-toolkit/pull/199">#199</a> · CopilotKit <a href="https://github.com/CopilotKit/CopilotKit/pull/8403">#8403</a> · deepagentsjs <a href="https://github.com/langchain-ai/deepagentsjs/pull/951">#951</a> · Excalidraw <a href="https://github.com/excalidraw/excalidraw/pull/12628">#12628</a> · GPUStack <a href="https://github.com/gpustack/gpustack/pull/6796">#6796</a> · Grafana <a href="https://github.com/grafana/grafana/pull/137891">#137891</a> · Hoppscotch <a href="https://github.com/hoppscotch/hoppscotch/pull/6796">#6796</a> · Karmada <a href="https://github.com/karmada-io/karmada/pull/8065">#8065</a> · Langflow <a href="https://github.com/langflow-ai/langflow/pull/16430">#16430</a> · LiteLLM <a href="https://github.com/BerriAI/litellm/pull/51951">#51951</a> · LiveKit Agents Playground <a href="https://github.com/livekit/agents-playground/pull/224">#224</a> · llm-d router <a href="https://github.com/llm-d/llm-d-router/pull/4271">#4271</a> · MCP C# SDK <a href="https://github.com/modelcontextprotocol/csharp-sdk/pull/1922">#1922</a> · Ollama <a href="https://github.com/ollama/ollama/pull/19707">#19707</a> · OpenHands <a href="https://github.com/OpenHands/OpenHands/pull/19757">#19757</a> · Payload <a href="https://github.com/payloadcms/payload/pull/19603">#19603</a> · Phoenix <a href="https://github.com/Arize-ai/phoenix/pull/17971">#17971</a> · Plane <a href="https://github.com/makeplane/plane/pull/10287">#10287</a> · Qdrant Web UI <a href="https://github.com/qdrant/qdrant-web-ui/pull/487">#487</a> · Temporal TS SDK <a href="https://github.com/temporalio/sdk-typescript/pull/2695">#2695</a> · WeKnora <a href="https://github.com/Tencent/WeKnora/pull/5531">#5531</a></td>
 </tr>
 <tr><td colspan="3" align="center"><b>🕰️ Earlier</b></td></tr>
 <tr>
@@ -157,7 +197,7 @@ I have [**45 merged pull requests**](https://github.com/search?type=pullrequests
 <tr>
 <td align="center"><a href="https://github.com/microsoft/DebugMCP"><img width=260 src="./cards/microsoft-DebugMCP.svg" /></a></td>
 <td align="center">issue</td>
-<td><a href="https://github.com/microsoft/DebugMCP/issues/91">Reported the README/CHANGELOG link to the debug skill</a></td>
+<td><a href="https://github.com/microsoft/DebugMCP/issues/91">Reported the README/CHANGELOG link to the debug skill</a>, since fixed</td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/langchain-ai/retrieval-agent-template"><img width=260 src="./cards/langchain-ai-retrieval-agent-template.svg" /></a></td>
