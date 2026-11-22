@@ -47,8 +47,11 @@ def badge(p):
 
 
 def link(p):
-    if "link" in p:
-        return p["link"]
+    # a card always opens that repo's list of my PRs (or issues), never a single PR
+    if p.get("badge") == "issue":
+        return f"https://github.com/{p['repo']}/issues?q=is%3Aissue+author%3Aburrows99"
+    if p["status"] == "earlier":
+        return f"https://github.com/{p['repo']}/pulls?q=is%3Apr+author%3Aburrows99"
     return PRS.format(p["repo"], "open" if p["status"] == "open" else "merged")
 
 
