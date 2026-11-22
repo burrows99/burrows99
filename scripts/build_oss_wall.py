@@ -19,6 +19,7 @@ DATA = json.loads((ROOT / "scripts/oss_wall.json").read_text())
 FONT = "-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
 BADGE = {"merged": "#1F883D", "open": "#BF8700", "earlier": "#6E7781"}
 PRS = "https://github.com/{}/pulls?q=is%3Apr+author%3Aburrows99+is%3A{}"
+TURN_PENALTY = 8  # px of font size a sideways treemap label must win by
 
 
 def avatar(owner_id, cache={}):
@@ -52,7 +53,11 @@ def link(p):
 
 
 def title(p):
-    what = f"{p['count']} merged" if p["status"] == "merged" else {"open": "in review", "earlier": "earlier"}[p["status"]]
+    what = (
+        f"{p['count']} merged"
+        if p["status"] == "merged"
+        else {"open": "in review", "earlier": "earlier"}[p["status"]]
+    )
     return f"{p['name']} — {what}: {p['highlight']}"
 
 
@@ -116,7 +121,7 @@ def ink(hex_):
     return "#1f2328" if 0.2126 * r + 0.7152 * g + 0.0722 * b > 0.6 else "#fff"
 
 
-def treemap(merged, W=800, H=170):
+def treemap(merged, W=800, H=200):
     total = sum(p["count"] for p in merged)
     rects = squarify(
         [
@@ -128,23 +133,77 @@ def treemap(merged, W=800, H=170):
         W,
         H,
     )
-    body = []
-    for x, y, w, h, p in rects:
-        name, c = p["name"], ink(p["color"])
-        turn = h > 1.3 * w  # tall thin block: run the label up the side
+
+    def label_fit(name, w, h):
+        turn = h > 1.3 * w  # tall thin area: run the label up the side
         bw, bh = (h, w) if turn else (w, h)
         # one line, or two split at a space/hyphen/camelCase boundary, whichever fits bigger
-        cuts = [i for i in range(1, len(name)) if name[i - 1] in " -" or (name[i - 1].islower() and name[i].isupper())]
-        layouts = [[name]] + [[name[:i].strip(" -") if name[i - 1] == " " else name[:i], name[i:]] for i in cuts]
-        fit = lambda ls: min(26, (bw - 10) / (0.58 * max(map(len, ls))), bh / (1.4 + 1.15 * len(ls)))
+        cuts = [
+            i
+            for i in range(1, len(name))
+            if name[i - 1] in " -" or (name[i - 1].islower() and name[i].isupper())
+        ]
+        layouts = [[name]] + [
+            [name[:i].strip(" -") if name[i - 1] == " " else name[:i], name[i:]]
+            for i in cuts
+        ]
+        fit = lambda ls: min(
+            26, (bw - 10) / (0.58 * max(map(len, ls))), bh / (1.4 + 1.15 * len(ls))
+        )
         lines = max(layouts, key=fit)
-        fs = max(8, fit(lines))
+        return (
+            fit(lines) - (TURN_PENALTY if turn else 0),
+            lines,
+            turn,
+            bw,
+            bh,
+        )  # a sideways label only wins when upright text would be much smaller
+
+    body = []
+    for i, (bx, by, bw0, bh0, p) in enumerate(rects):
+        # the org logo sits in the block, on top or on the left — whichever leaves the label bigger
+        s, pad = min(56, 0.5 * min(bw0, bh0)), 6
+        top_place = (
+            bx + (bw0 - s) / 2,
+            by + pad + 2,
+            bx,
+            by + pad + 2 + s,
+            bw0,
+            bh0 - s - pad - 2,
+        )
+        left_place = (
+            bx + pad + 2,
+            by + (bh0 - s) / 2,
+            bx + pad + 2 + s,
+            by,
+            bw0 - s - pad - 2,
+            bh0,
+        )
+        lx, ly, x, y, w, h = max(
+            (top_place, left_place),
+            key=lambda pl: label_fit(p["name"], pl[4], pl[5])[0],
+        )
+        body.append(
+            f'<rect x="{bx + 1.5:.1f}" y="{by + 1.5:.1f}" width="{bw0 - 3:.1f}" height="{bh0 - 3:.1f}" rx="8" fill="{p["color"]}"/>'
+            f'<clipPath id="c{i}"><rect x="{lx + 2:.1f}" y="{ly + 2:.1f}" width="{s - 4:.1f}" height="{s - 4:.1f}" rx="{s / 6:.1f}"/></clipPath>'
+            f'<rect x="{lx:.1f}" y="{ly:.1f}" width="{s:.1f}" height="{s:.1f}" rx="{s / 5:.1f}" fill="#fff"/>'
+            f'<image x="{lx + 2:.1f}" y="{ly + 2:.1f}" width="{s - 4:.1f}" height="{s - 4:.1f}" clip-path="url(#c{i})" href="{avatar(p["id"])}"/>'
+        )
+        c = ink(p["color"])
+        fs, lines, turn, bw, bh = label_fit(p["name"], w, h)
+        fs += TURN_PENALTY if turn else 0
+        if (
+            fs < 9
+        ):  # too small for a legible name next to the logo: count only (name is in the alt text)
+            lines, fs = [], min(18, bh * 0.55, (bw - 4) / (0.62 * len(str(p["count"]))))
         cx, cy = x + w / 2, y + h / 2
         top = cy - (len(lines) * 1.1 + 1) * fs / 2 + fs * 0.85
         rot = f' transform="rotate(-90 {cx:.1f} {cy:.1f})"' if turn else ""
-        spans = "".join(f'<tspan x="{cx:.1f}" y="{top + i * fs * 1.1:.1f}">{escape(s)}</tspan>' for i, s in enumerate(lines))
+        spans = "".join(
+            f'<tspan x="{cx:.1f}" y="{top + i * fs * 1.1:.1f}">{escape(s)}</tspan>'
+            for i, s in enumerate(lines)
+        )
         body.append(
-            f'<rect x="{x + 1.5:.1f}" y="{y + 1.5:.1f}" width="{w - 3:.1f}" height="{h - 3:.1f}" rx="8" fill="{p["color"]}"/>'
             f'<g{rot} text-anchor="middle" fill="{c}"><text font-size="{fs:.1f}" font-weight="600">{spans}</text>'
             f'<text x="{cx:.1f}" y="{top + len(lines) * fs * 1.1:.1f}" font-size="{fs * 0.95:.1f}" opacity="0.85">{p["count"]}</text></g>'
         )
@@ -161,6 +220,9 @@ def main():
     rows = {"merged": [], "open": [], "earlier": []}
     for p in DATA["projects"]:
         name = f"{p['repo'].replace('/', '-')}-{p['status']}.svg"
+        if p["status"] == "merged":  # merged projects live in the treemap, not as tiles
+            (TILES / name).unlink(missing_ok=True)
+            continue
         (TILES / name).write_text(tile(p))
         t = escape(title(p))
         rows[p["status"]].append(
@@ -177,10 +239,8 @@ def main():
     snippet = "\n".join(
         [
             "<!-- oss-wall:start (generated by scripts/build_oss_wall.py) -->",
-            f'<p align="center"><a href="{DATA["merged_search"]}"><img src="./tiles/oss-treemap.svg" width="800" alt="Merged PRs by project: {", ".join(f"{p["name"]} {p["count"]}" for p in merged)}" /></a></p>',
-            f'<p align="center">{label(f"✅ {sum(p["count"] for p in merged)} merged · {len(merged)} projects")}\n'
-            + "\n".join(rows["merged"])
-            + "</p>",
+            f'<p align="center">{label(f"✅ {sum(p["count"] for p in merged)} merged · {len(merged)} projects")}'
+            f'<a href="{DATA["merged_search"]}"><img src="./tiles/oss-treemap.svg" width="800" alt="Merged PRs by project: {", ".join(f"{p["name"]} {p["count"]}" for p in merged)}" /></a></p>',
             f'<p align="center">{label(f"🟡 {n_open} in review · {len(rows["open"])} projects")}\n'
             + "\n".join(rows["open"])
             + f'<br>\n<a href="{m["link"]}" title="{m["projects"]} more projects, {m["open"]} open PRs"><img src="./tiles/more.svg" width="208" alt="+{m["projects"]} more projects, {m["open"]} open PRs" /></a></p>',
