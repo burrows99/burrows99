@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="80" viewBox="0 0 64 80">
+<title>DebugMCP — earlier: reported the debug-skill link, since fixed</title>
+<clipPath id="c"><rect x="6" y="6" width="52" height="52" rx="10"/></clipPath>
+<rect x="1" y="1" width="62" height="62" rx="14" fill="#fff" stroke="#d0d7de"/>
+<image x="6" y="6" width="52" height="52" clip-path="url(#c)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABn0lEQVR42u3dsUpCARTH4b+XhggJeoVw8hXCtdYeIOhRolcJH6C15miPGsXJ3WgQh6iGWyB2BaeC4/eNB5dz/d1Bl5MAALBzel3Dt/Pj/SSDwntPD2+ni9XB1X2aJMPCO8+uT/O6Ptzb8OFBkufCD+MkyePa7CDJU5Km6M6XSW7Wh03YaQIQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAiAP7DpbNw07Wm1ql46Zosko8I7T+QOAPzoPB6d8bxJe0u3qkUujj5WB593SZJ+4Z2XvbO8b/srYJj2kHJVo/w+Ht1PMk/t49HjbQPY1f8ImsJ7N75kBIAAEAACQAAIQAAegQAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACIB/sulq2CztmbGqug4pL793rvpSPMgdAIAkyRcufSIBK1Zv+wAAAABJRU5ErkJggg=="/>
+<rect x="20" y="45" width="43" height="18" rx="9" fill="#6E7781" stroke="#fff" stroke-width="1.5"/>
+<text x="41.5" y="58" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff">issue</text>
+<text x="32" y="76" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">DebugMCP</text>
+</svg>
