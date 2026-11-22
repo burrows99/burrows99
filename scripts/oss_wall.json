@@ -130,7 +130,8 @@
       "status": "open",
       "count": 1,
       "link": "https://github.com/kedacore/keda/pull/8385",
-      "highlight": "Metrics API scaler label matchers (approved)"
+      "highlight": "Metrics API scaler label matchers (approved)",
+      "color": "#3264C8"
     },
     {
       "name": "Grafana",
@@ -139,7 +140,8 @@
       "status": "open",
       "count": 1,
       "link": "https://github.com/grafana/grafana/pull/137891",
-      "highlight": "unescaped playlist names on delete (approved)"
+      "highlight": "unescaped playlist names on delete (approved)",
+      "color": "#F46800"
     },
     {
       "name": "CUDA-Q",
@@ -148,7 +150,8 @@
       "status": "open",
       "count": 1,
       "link": "https://github.com/NVIDIA/cuda-quantum/pull/5935",
-      "highlight": "cudaq.logical.measure traces in a logical program (approved)"
+      "highlight": "cudaq.logical.measure traces in a logical program (approved)",
+      "color": "#5E9400"
     },
     {
       "name": "marimo",
@@ -157,7 +160,8 @@
       "status": "open",
       "count": 1,
       "link": "https://github.com/marimo-team/marimo/pull/11897",
-      "highlight": "data sources search ignores whitespace"
+      "highlight": "data sources search ignores whitespace",
+      "color": "#0E7F5F"
     },
     {
       "name": "goose",
@@ -166,7 +170,8 @@
       "status": "open",
       "count": 1,
       "link": "https://github.com/aaif-goose/goose/pull/13607",
-      "highlight": "desktop rejects non-image attachments on external backends"
+      "highlight": "desktop rejects non-image attachments on external backends",
+      "color": "#2B2B2B"
     },
     {
       "name": "MLflow",
@@ -175,7 +180,8 @@
       "status": "open",
       "count": 1,
       "link": "https://github.com/mlflow/mlflow/pull/27792",
-      "highlight": "run-root runs:/ URIs in artifact download and list"
+      "highlight": "run-root runs:/ URIs in artifact download and list",
+      "color": "#0194E2"
     },
     {
       "name": "PostHog",
@@ -184,7 +190,8 @@
       "status": "open",
       "count": 1,
       "link": "https://github.com/PostHog/posthog/pull/136134",
-      "highlight": "12 in the morning selects midnight"
+      "highlight": "12 in the morning selects midnight",
+      "color": "#F54E00"
     },
     {
       "name": "Supabase",
@@ -193,7 +200,8 @@
       "status": "open",
       "count": 1,
       "link": "https://github.com/supabase/supabase/pull/53417",
-      "highlight": "case-insensitive database search in Studio"
+      "highlight": "case-insensitive database search in Studio",
+      "color": "#249361"
     },
     {
       "name": "Sem. Router",
@@ -202,7 +210,8 @@
       "status": "open",
       "count": 1,
       "link": "https://github.com/vllm-project/semantic-router/pull/6848",
-      "highlight": "Operator startup probe initialDelaySeconds"
+      "highlight": "Operator startup probe initialDelaySeconds",
+      "color": "#2F6FD8"
     },
     {
       "name": "Qwen Code",
@@ -210,7 +219,8 @@
       "id": 141221163,
       "status": "open",
       "count": 2,
-      "highlight": "mask nested /config secrets, /copy N skips tool-call turns"
+      "highlight": "mask nested /config secrets, /copy N skips tool-call turns",
+      "color": "#615CED"
     },
     {
       "name": "Warp",
@@ -219,7 +229,8 @@
       "status": "open",
       "count": 1,
       "link": "https://github.com/NVIDIA/warp/pull/2339",
-      "highlight": "hash captured constants at full precision"
+      "highlight": "hash captured constants at full precision",
+      "color": "#4E7A00"
     },
     {
       "name": "ADK Python",
@@ -227,7 +238,8 @@
       "id": 1342004,
       "status": "open",
       "count": 2,
-      "highlight": "failed task delegation answers with the error; same-turn delegations kept apart"
+      "highlight": "failed task delegation answers with the error; same-turn delegations kept apart",
+      "color": "#4285F4"
     },
     {
       "name": "kafka-ui",
@@ -236,7 +248,8 @@
       "status": "open",
       "count": 1,
       "link": "https://github.com/kafbat/kafka-ui/pull/2101",
-      "highlight": "bad preview JSON path no longer crashes Messages"
+      "highlight": "bad preview JSON path no longer crashes Messages",
+      "color": "#2B2D42"
     },
     {
       "name": "Karapace",
@@ -245,7 +258,8 @@
       "status": "open",
       "count": 1,
       "link": "https://github.com/Aiven-Open/karapace/pull/1412",
-      "highlight": "protobuf references for format=serialized"
+      "highlight": "protobuf references for format=serialized",
+      "color": "#E0491B"
     },
     {
       "name": "Defender",
@@ -253,7 +267,8 @@
       "id": 114806982,
       "status": "earlier",
       "count": 1,
-      "highlight": "prevent prototype pollution in object traversal"
+      "highlight": "prevent prototype pollution in object traversal",
+      "color": "#0F9D6E"
     },
     {
       "name": "Planner MCP",
@@ -261,7 +276,8 @@
       "id": 217708080,
       "status": "earlier",
       "count": 6,
-      "highlight": "built the FastMCP server, OBO auth and Planner service layer"
+      "highlight": "built the FastMCP server, OBO auth and Planner service layer",
+      "color": "#0078D4"
     },
     {
       "name": "Kratix",
@@ -269,7 +285,8 @@
       "id": 77631775,
       "status": "earlier",
       "count": 1,
-      "highlight": "contributor-docs fix"
+      "highlight": "contributor-docs fix",
+      "color": "#7C3AED"
     },
     {
       "name": "graphify",
@@ -278,7 +295,8 @@
       "status": "earlier",
       "badge": "PR",
       "link": "https://github.com/Graphify-Labs/graphify/pull/1256",
-      "highlight": "sync Claude references with vocab expansion"
+      "highlight": "sync Claude references with vocab expansion",
+      "color": "#2E7D32"
     },
     {
       "name": "DebugMCP",
@@ -287,7 +305,8 @@
       "status": "earlier",
       "badge": "issue",
       "link": "https://github.com/microsoft/DebugMCP/issues/91",
-      "highlight": "reported the debug-skill link, since fixed"
+      "highlight": "reported the debug-skill link, since fixed",
+      "color": "#0078D4"
     },
     {
       "name": "Retrieval",
@@ -296,7 +315,8 @@
       "status": "earlier",
       "badge": "PR",
       "link": "https://github.com/langchain-ai/retrieval-agent-template/pull/12",
-      "highlight": "Ollama and Elasticsearch integration"
+      "highlight": "Ollama and Elasticsearch integration",
+      "color": "#1C3C3C"
     }
   ]
 }

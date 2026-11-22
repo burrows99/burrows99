@@ -61,28 +61,35 @@ def title(p):
     return f"{p['name']} — {what}: {p['highlight']}"
 
 
+TILE_W, TILE_H = 104, 96  # brand-coloured block, same look as a treemap block
+
+
 def tile(p):
     b = badge(p)
-    bw = 8 + 7 * len(
-        b
-    )  # ponytail: ~7px per bold 11px glyph, good enough for short badges
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="64" height="80" viewBox="0 0 64 80">
+    if p["status"] == "earlier" and b.isdigit():
+        b = f"{b} merged"
+    c = ink(p["color"])
+    fs = min(14, (TILE_W - 10) / (0.6 * len(p["name"])))  # ponytail: ~0.6em per glyph
+    pw = 10 + 6.5 * len(b)  # ~6.5px per bold 10px glyph, fine for short pills
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{TILE_W}" height="{TILE_H}" viewBox="0 0 {TILE_W} {TILE_H}">
 <title>{escape(title(p))}</title>
-<clipPath id="c"><rect x="6" y="6" width="52" height="52" rx="10"/></clipPath>
-<rect x="1" y="1" width="62" height="62" rx="14" fill="#fff" stroke="#d0d7de"/>
-<image x="6" y="6" width="52" height="52" clip-path="url(#c)" href="{avatar(p["id"])}"/>
-<rect x="{63 - bw}" y="45" width="{bw}" height="18" rx="9" fill="{BADGE[p["status"]]}" stroke="#fff" stroke-width="1.5"/>
-<text x="{63 - bw / 2}" y="58" text-anchor="middle" font-family="{FONT}" font-size="11" font-weight="700" fill="#fff">{escape(b)}</text>
-<text x="32" y="76" text-anchor="middle" font-family="{FONT}" font-size="10" fill="#8b949e">{escape(p["name"])}</text>
+<rect x="1" y="1" width="{TILE_W - 2}" height="{TILE_H - 2}" rx="10" fill="{p["color"]}"/>
+<clipPath id="c"><rect x="32" y="10" width="40" height="40" rx="8"/></clipPath>
+<rect x="30" y="8" width="44" height="44" rx="10" fill="#fff"/>
+<image x="32" y="10" width="40" height="40" clip-path="url(#c)" href="{avatar(p["id"])}"/>
+<text x="{TILE_W / 2}" y="69" text-anchor="middle" font-family="{FONT}" font-size="{fs:.1f}" font-weight="600" fill="{c}">{escape(p["name"])}</text>
+<rect x="{(TILE_W - pw) / 2:.1f}" y="76" width="{pw:.1f}" height="14" rx="7" fill="{BADGE[p["status"]]}" stroke="#fff" stroke-width="1"/>
+<text x="{TILE_W / 2}" y="86.5" text-anchor="middle" font-family="{FONT}" font-size="10" font-weight="700" fill="#fff">{escape(b)}</text>
 </svg>"""
 
 
 def more_tile(m):
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="208" height="64" viewBox="0 0 208 64">
+    w = 2 * TILE_W + 8
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{TILE_H}" viewBox="0 0 {w} {TILE_H}">
 <title>{m["projects"]} more projects, {m["open"]} open PRs</title>
-<rect x="1" y="1" width="206" height="62" rx="14" fill="#9A6700"/>
-<text x="104" y="28" text-anchor="middle" font-family="{FONT}" font-size="16" font-weight="700" fill="#fff">+{m["projects"]} more projects</text>
-<text x="104" y="48" text-anchor="middle" font-family="{FONT}" font-size="12" fill="#fff">{m["open"]} PRs in review · browse all →</text>
+<rect x="1" y="1" width="{w - 2}" height="{TILE_H - 2}" rx="10" fill="{BADGE["open"]}"/>
+<text x="{w / 2}" y="44" text-anchor="middle" font-family="{FONT}" font-size="20" font-weight="700" fill="#fff">+{m["projects"]} more projects</text>
+<text x="{w / 2}" y="68" text-anchor="middle" font-family="{FONT}" font-size="12" fill="#fff">{m["open"]} PRs in review · browse all →</text>
 </svg>"""
 
 
@@ -226,7 +233,7 @@ def main():
         (TILES / name).write_text(tile(p))
         t = escape(title(p))
         rows[p["status"]].append(
-            f'<a href="{link(p)}" title="{t}"><img src="./tiles/{name}" width="56" alt="{t}" /></a>'
+            f'<a href="{link(p)}" title="{t}"><img src="./tiles/{name}" width="{TILE_W}" alt="{t}" /></a>'
         )
     (TILES / "more.svg").write_text(more_tile(DATA["more"]))
     merged = [p for p in DATA["projects"] if p["status"] == "merged"]
@@ -243,7 +250,7 @@ def main():
             f'<a href="{DATA["merged_search"]}"><img src="./tiles/oss-treemap.svg" width="800" alt="Merged PRs by project: {", ".join(f"{p["name"]} {p["count"]}" for p in merged)}" /></a></p>',
             f'<p align="center">{label(f"🟡 {n_open} in review · {len(rows["open"])} projects")}\n'
             + "\n".join(rows["open"])
-            + f'<br>\n<a href="{m["link"]}" title="{m["projects"]} more projects, {m["open"]} open PRs"><img src="./tiles/more.svg" width="208" alt="+{m["projects"]} more projects, {m["open"]} open PRs" /></a></p>',
+            + f'<br>\n<a href="{m["link"]}" title="{m["projects"]} more projects, {m["open"]} open PRs"><img src="./tiles/more.svg" width="{2 * TILE_W + 8}" alt="+{m["projects"]} more projects, {m["open"]} open PRs" /></a></p>',
             f'<p align="center">{label("🕰️ earlier")}\n'
             + "\n".join(rows["earlier"])
             + "</p>",
