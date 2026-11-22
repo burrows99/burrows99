@@ -2,7 +2,7 @@
 
 <img src="./github-header-banner.png" alt="Header" />
 
-<a href="https://github.com/burrows99"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+and+agent+engineer+in+London;Multi-agent+orchestration+%C2%B7+MCP+servers+%C2%B7+evals;45+merged+open-source+PRs+across+12+projects;Go+%C2%B7+Python+%C2%B7+TypeScript" alt="AI and agent engineer in London: multi-agent orchestration, MCP servers, evals" /></a>
+<a href="https://github.com/burrows99"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+and+agent+engineer+in+London;Multi-agent+orchestration+%C2%B7+MCP+servers+%C2%B7+evals;52+merged+open-source+PRs+across+13+projects;Go+%C2%B7+Python+%C2%B7+TypeScript" alt="AI and agent engineer in London: multi-agent orchestration, MCP servers, evals" /></a>
 
 </div>
 
@@ -16,7 +16,7 @@
 **AI and agent engineer in London.** I build agentic systems that ship to production: multi-agent orchestration, MCP servers, and the eval pipelines that keep them honest, in Go, Python and TypeScript.
 
 - 🔭 &nbsp;Currently a tech lead in an **AI Products & Platform** team
-- 🌍 &nbsp;**45 merged open-source PRs** across Windmill, Kubernetes Kueue, Hugging Face Transformers, n8n, Google ADK and more
+- 🌍 &nbsp;**52 merged open-source PRs** across Windmill, Kubernetes Kueue, Hugging Face Transformers, n8n, Google ADK and more
 - 🧭 &nbsp;**5+ years in production**: clinical AI orchestration, LLM evals for Grok, MCP agents over HIPAA claims, Go microservices for eBay
 - 🌱 &nbsp;**MSc AI, University of Surrey (Merit)**: my dissertation cut NHS doctor wait times by 58% with a Mixture-of-Agents
 - 💬 &nbsp;Ask me about **agents, MCP servers, evals or Go microservices**
@@ -52,15 +52,15 @@
 
 ### 🌍 Open source
 
-I have [**45 merged pull requests**](https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+repo%3Awindmill-labs%2Fwindmill+repo%3Akubernetes-sigs%2Fkueue+repo%3Ahuggingface%2Ftransformers+repo%3Allm-d%2Fllm-d-inference-sim+repo%3Agoogle%2Fadk-go+repo%3An8n-io%2Fn8n+repo%3Atwentyhq%2Ftwenty+repo%3Agpustack%2Fgpustack+repo%3Aaaif-goose%2Fgoose+repo%3Amarimo-team%2Fmarimo+repo%3Acontextforge-org%2Fcontextforge-web-ui+repo%3Aawslabs%2Fstickler) across 12 projects in agent, workflow and ML infrastructure. Most of them are bug fixes; on 18 Nov Windmill's founder merged 10 of them in one review pass.
+I have [**52 merged pull requests**](https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+repo%3Awindmill-labs%2Fwindmill+repo%3Akubernetes-sigs%2Fkueue+repo%3Ahuggingface%2Ftransformers+repo%3Allm-d%2Fllm-d-inference-sim+repo%3Allm-d%2Fllm-d-router+repo%3Agoogle%2Fadk-go+repo%3An8n-io%2Fn8n+repo%3Atwentyhq%2Ftwenty+repo%3Agpustack%2Fgpustack+repo%3Aaaif-goose%2Fgoose+repo%3Amarimo-team%2Fmarimo+repo%3Acontextforge-org%2Fcontextforge-web-ui+repo%3Aawslabs%2Fstickler) across 13 projects in agent, workflow and ML infrastructure. Most of them are bug fixes; Windmill's founder merged 27 of my 30 Windmill PRs, four of them features.
 
 <table align="center">
 <tr><th>Project</th><th>Merged</th><th>Highlights</th></tr>
 <tr><td colspan="3" align="center"><b>🆕 Recent: merged in Nov 2026</b></td></tr>
 <tr>
 <td align="center"><a href="https://github.com/windmill-labs/windmill"><img width=260 src="./cards/windmill-labs-windmill.svg" /></a></td>
-<td align="center">24</td>
-<td><a href="https://github.com/windmill-labs/windmill/pull/12450">Folder write-permission prefix bug</a> · <a href="https://github.com/windmill-labs/windmill/pull/12453">UTF-8 webhook GET payloads</a> · <a href="https://github.com/windmill-labs/windmill/pull/12466">Clearing a variable's value</a></td>
+<td align="center">30</td>
+<td><a href="https://github.com/windmill-labs/windmill/pull/12450">Folder write-permission prefix bug</a> · <a href="https://github.com/windmill-labs/windmill/pull/12453">UTF-8 webhook GET payloads</a> · <a href="https://github.com/windmill-labs/windmill/pull/12466">Clearing a variable's value</a> · features: <a href="https://github.com/windmill-labs/windmill/pull/12515">argument descriptions from JSDoc and Python docstrings</a>, <a href="https://github.com/windmill-labs/windmill/pull/12513">Python client retries on 429 and 502–504</a>, <a href="https://github.com/windmill-labs/windmill/pull/12512">resource usage count per resource type</a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/kubernetes-sigs/kueue"><img width=260 src="./cards/kubernetes-sigs-kueue.svg" /></a></td>
@@ -76,6 +76,11 @@ I have [**45 merged pull requests**](https://github.com/search?type=pullrequests
 <td align="center"><a href="https://github.com/llm-d/llm-d-inference-sim"><img width=260 src="./cards/llm-d-llm-d-inference-sim.svg" /></a></td>
 <td align="center">4</td>
 <td><a href="https://github.com/llm-d/llm-d-inference-sim/pull/917">Streamed <code>/v1/responses</code> event numbering</a> · <a href="https://github.com/llm-d/llm-d-inference-sim/pull/918">Empty <code>top_logprobs</code> in chat logprobs</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/llm-d/llm-d-router"><img width=260 src="./cards/llm-d-llm-d-router.svg" /></a></td>
+<td align="center">1</td>
+<td><a href="https://github.com/llm-d/llm-d-router/pull/4271">EPP accepts <code>prompt_embeds</code> completions requests</a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/google/adk-go"><img width=260 src="./cards/google-adk-go.svg" /></a></td>
@@ -119,9 +124,44 @@ I have [**45 merged pull requests**](https://github.com/search?type=pullrequests
 </tr>
 <tr><td colspan="3" align="center"><b>🔍 Open and in review</b></td></tr>
 <tr>
-<td align="center"><a href="https://github.com/NVIDIA/warp"><img width=260 src="./cards/NVIDIA-warp.svg" /></a></td>
+<td align="center"><a href="https://github.com/kedacore/keda"><img width=260 src="./cards/kedacore-keda.svg" /></a></td>
 <td align="center">open</td>
-<td><a href="https://github.com/NVIDIA/warp/pull/2339">Hash captured constants at full precision</a></td>
+<td><a href="https://github.com/kedacore/keda/pull/8385">Metrics API scaler honours <code>!=</code>, <code>=~</code> and <code>!~</code> label matchers</a>, after a maintainer assigned the issue · approved</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/grafana/grafana"><img width=260 src="./cards/grafana-grafana.svg" /></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/grafana/grafana/pull/137891">Stop escaping playlist names in the delete confirmation and button labels</a> · approved</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/NVIDIA/cuda-quantum"><img width=260 src="./cards/NVIDIA-cuda-quantum.svg" /></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/NVIDIA/cuda-quantum/pull/5935">Let <code>cudaq.logical.measure</code> trace in a logical program</a> · approved</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/marimo-team/marimo"><img width=260 src="./cards/marimo-team-marimo.svg" /></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/marimo-team/marimo/pull/11897">Data sources search ignores surrounding whitespace</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/aaif-goose/goose"><img width=260 src="./cards/aaif-goose-goose.svg" /></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/aaif-goose/goose/pull/13607">Desktop rejects non-image attachments on an external backend</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mlflow/mlflow"><img width=260 src="./cards/mlflow-mlflow.svg" /></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/mlflow/mlflow/pull/27792">Run-root <code>runs:/&lt;run_id&gt;</code> URIs in artifact download and list</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/PostHog/posthog"><img width=260 src="./cards/PostHog-posthog.svg" /></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/PostHog/posthog/pull/136134">Picking 12 in the morning selects midnight</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/supabase/supabase"><img width=260 src="./cards/supabase-supabase.svg" /></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/supabase/supabase/pull/53417">Case-insensitive database list search in Studio</a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/vllm-project/semantic-router"><img width=260 src="./cards/vllm-project-semantic-router.svg" /></a></td>
@@ -130,8 +170,33 @@ I have [**45 merged pull requests**](https://github.com/search?type=pullrequests
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/QwenLM/qwen-code"><img width=260 src="./cards/QwenLM-qwen-code.svg" /></a></td>
+<td align="center">2 open</td>
+<td><a href="https://github.com/QwenLM/qwen-code/pull/17461">Mask secrets nested in a /config parent key value</a> · <a href="https://github.com/QwenLM/qwen-code/pull/17385">Skip tool-call-only turns when counting <code>/copy N</code></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/NVIDIA/warp"><img width=260 src="./cards/NVIDIA-warp.svg" /></a></td>
 <td align="center">open</td>
-<td><a href="https://github.com/QwenLM/qwen-code/pull/17461">Mask secrets nested in a /config parent key value</a></td>
+<td><a href="https://github.com/NVIDIA/warp/pull/2339">Hash captured constants at full precision</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/google/adk-python"><img width=260 src="./cards/google-adk-python.svg" /></a></td>
+<td align="center">2 open</td>
+<td><a href="https://github.com/google/adk-python/pull/8245">Answer a failed task delegation with the error</a> · <a href="https://github.com/google/adk-python/pull/8246">Keep same-turn task delegations to one remote agent apart</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/kafbat/kafka-ui"><img width=260 src="./cards/kafbat-kafka-ui.svg" /></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/kafbat/kafka-ui/pull/2101">A failing preview JSON path no longer crashes the Messages page</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/Aiven-Open/karapace"><img width=260 src="./cards/Aiven-Open-karapace.svg" /></a></td>
+<td align="center">open</td>
+<td><a href="https://github.com/Aiven-Open/karapace/pull/1412">Resolve protobuf references for <code>GET /schemas/ids/{id}?format=serialized</code></a></td>
+</tr>
+<tr>
+<td align="center"><b>29 more projects</b></td>
+<td align="center">39 open</td>
+<td>n8n <a href="https://github.com/n8n-io/n8n/pull/43942">#43942</a>, <a href="https://github.com/n8n-io/n8n/pull/43944">#43944</a>, <a href="https://github.com/n8n-io/n8n/pull/43948">#43948</a> · Mattermost <a href="https://github.com/mattermost/mattermost/pull/40050">#40050</a>, <a href="https://github.com/mattermost/mattermost/pull/40051">#40051</a>, <a href="https://github.com/mattermost/mattermost/pull/40052">#40052</a> · NocoDB <a href="https://github.com/nocodb/nocodb/pull/15046">#15046</a>, <a href="https://github.com/nocodb/nocodb/pull/15047">#15047</a>, <a href="https://github.com/nocodb/nocodb/pull/15048">#15048</a> · DeerFlow <a href="https://github.com/bytedance/deer-flow/pull/8282">#8282</a>, <a href="https://github.com/bytedance/deer-flow/pull/8288">#8288</a> · greplica <a href="https://github.com/Autoloops/greplica/pull/108">#108</a>, <a href="https://github.com/Autoloops/greplica/pull/109">#109</a> · HF Chat UI <a href="https://github.com/huggingface/chat-ui/pull/2770">#2770</a>, <a href="https://github.com/huggingface/chat-ui/pull/2771">#2771</a> · Jupyter Chat <a href="https://github.com/jupyterlab/jupyter-chat/pull/587">#587</a>, <a href="https://github.com/jupyterlab/jupyter-chat/pull/589">#589</a> · ADK Web <a href="https://github.com/google/adk-web/pull/566">#566</a> · AgentScope <a href="https://github.com/agentscope-ai/agentscope/pull/4074">#4074</a> · AI Elements <a href="https://github.com/vercel/ai-elements/pull/517">#517</a> · AWS Labs social messaging toolkit <a href="https://github.com/awslabs/social-messaging-agent-runtime-toolkit/pull/199">#199</a> · CopilotKit <a href="https://github.com/CopilotKit/CopilotKit/pull/8403">#8403</a> · deepagentsjs <a href="https://github.com/langchain-ai/deepagentsjs/pull/951">#951</a> · Excalidraw <a href="https://github.com/excalidraw/excalidraw/pull/12628">#12628</a> · GPUStack <a href="https://github.com/gpustack/gpustack/pull/6796">#6796</a> · Hoppscotch <a href="https://github.com/hoppscotch/hoppscotch/pull/6796">#6796</a> · Karmada <a href="https://github.com/karmada-io/karmada/pull/8065">#8065</a> · Langflow <a href="https://github.com/langflow-ai/langflow/pull/16430">#16430</a> · LiteLLM <a href="https://github.com/BerriAI/litellm/pull/51951">#51951</a> · LiveKit Agents Playground <a href="https://github.com/livekit/agents-playground/pull/224">#224</a> · MCP C# SDK <a href="https://github.com/modelcontextprotocol/csharp-sdk/pull/1922">#1922</a> · Ollama <a href="https://github.com/ollama/ollama/pull/19707">#19707</a> · OpenHands <a href="https://github.com/OpenHands/OpenHands/pull/19757">#19757</a> · Payload <a href="https://github.com/payloadcms/payload/pull/19603">#19603</a> · Phoenix <a href="https://github.com/Arize-ai/phoenix/pull/17971">#17971</a> · Plane <a href="https://github.com/makeplane/plane/pull/10287">#10287</a> · Qdrant Web UI <a href="https://github.com/qdrant/qdrant-web-ui/pull/487">#487</a> · Temporal TS SDK <a href="https://github.com/temporalio/sdk-typescript/pull/2695">#2695</a> · WeKnora <a href="https://github.com/Tencent/WeKnora/pull/5531">#5531</a></td>
 </tr>
 <tr><td colspan="3" align="center"><b>🕰️ Earlier</b></td></tr>
 <tr>
@@ -157,7 +222,7 @@ I have [**45 merged pull requests**](https://github.com/search?type=pullrequests
 <tr>
 <td align="center"><a href="https://github.com/microsoft/DebugMCP"><img width=260 src="./cards/microsoft-DebugMCP.svg" /></a></td>
 <td align="center">issue</td>
-<td><a href="https://github.com/microsoft/DebugMCP/issues/91">Reported the README/CHANGELOG link to the debug skill</a></td>
+<td><a href="https://github.com/microsoft/DebugMCP/issues/91">Reported the README/CHANGELOG link to the debug skill</a>, since fixed</td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/langchain-ai/retrieval-agent-template"><img width=260 src="./cards/langchain-ai-retrieval-agent-template.svg" /></a></td>
