@@ -84,12 +84,16 @@ def tile(p):
 
 
 def more_tile(m):
-    w = 2 * TILE_W + 8
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{TILE_H}" viewBox="0 0 {w} {TILE_H}">
+    # one more tile in the grid, same size and layout as the project blocks
+    b = f"{m['open']} PR"
+    pw = 10 + 6.5 * len(b)
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{TILE_W}" height="{TILE_H}" viewBox="0 0 {TILE_W} {TILE_H}">
 <title>{m["projects"]} more projects, {m["open"]} open PRs</title>
-<rect x="1" y="1" width="{w - 2}" height="{TILE_H - 2}" rx="10" fill="{BADGE["open"]}"/>
-<text x="{w / 2}" y="44" text-anchor="middle" font-family="{FONT}" font-size="20" font-weight="700" fill="#fff">+{m["projects"]} more projects</text>
-<text x="{w / 2}" y="68" text-anchor="middle" font-family="{FONT}" font-size="12" fill="#fff">{m["open"]} PRs in review · browse all →</text>
+<rect x="1.5" y="1.5" width="{TILE_W - 3}" height="{TILE_H - 3}" rx="10" fill="#30363d" stroke="#8b949e" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="{TILE_W / 2}" y="44" text-anchor="middle" font-family="{FONT}" font-size="26" font-weight="700" fill="#fff">+{m["projects"]}</text>
+<text x="{TILE_W / 2}" y="66" text-anchor="middle" font-family="{FONT}" font-size="12" font-weight="600" fill="#fff">more projects</text>
+<rect x="{(TILE_W - pw) / 2:.1f}" y="76" width="{pw:.1f}" height="14" rx="7" fill="{BADGE["open"]}" stroke="#fff" stroke-width="1"/>
+<text x="{TILE_W / 2}" y="86.5" text-anchor="middle" font-family="{FONT}" font-size="10" font-weight="700" fill="#fff">{escape(b)}</text>
 </svg>"""
 
 
@@ -250,7 +254,7 @@ def main():
             f'<a href="{DATA["merged_search"]}"><img src="./tiles/oss-treemap.svg" width="800" alt="Merged PRs by project: {", ".join(f"{p["name"]} {p["count"]}" for p in merged)}" /></a></p>',
             f'<p align="center">{label(f"🟡 {n_open} in review · {len(rows["open"])} projects")}\n'
             + "\n".join(rows["open"])
-            + f'<br>\n<a href="{m["link"]}" title="{m["projects"]} more projects, {m["open"]} open PRs"><img src="./tiles/more.svg" width="{2 * TILE_W + 8}" alt="+{m["projects"]} more projects, {m["open"]} open PRs" /></a></p>',
+            + f'\n<a href="{m["link"]}" title="{m["projects"]} more projects, {m["open"]} open PRs"><img src="./tiles/more.svg" width="{TILE_W}" alt="+{m["projects"]} more projects, {m["open"]} open PRs" /></a></p>',
             f'<p align="center">{label("🕰️ earlier")}\n'
             + "\n".join(rows["earlier"])
             + "</p>",
