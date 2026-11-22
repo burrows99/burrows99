@@ -130,12 +130,23 @@ def treemap(merged, W=800, H=170):
     )
     body = []
     for x, y, w, h, p in rects:
-        fs = max(8, min(26, (w - 10) / (0.58 * len(p["name"])), h / 3.2))
-        cx, cy, c = x + w / 2, y + h / 2, ink(p["color"])
+        name, c = p["name"], ink(p["color"])
+        turn = h > 1.3 * w  # tall thin block: run the label up the side
+        bw, bh = (h, w) if turn else (w, h)
+        # one line, or two split at a space/hyphen/camelCase boundary, whichever fits bigger
+        cuts = [i for i in range(1, len(name)) if name[i - 1] in " -" or (name[i - 1].islower() and name[i].isupper())]
+        layouts = [[name]] + [[name[:i].strip(" -") if name[i - 1] == " " else name[:i], name[i:]] for i in cuts]
+        fit = lambda ls: min(26, (bw - 10) / (0.58 * max(map(len, ls))), bh / (1.4 + 1.15 * len(ls)))
+        lines = max(layouts, key=fit)
+        fs = max(8, fit(lines))
+        cx, cy = x + w / 2, y + h / 2
+        top = cy - (len(lines) * 1.1 + 1) * fs / 2 + fs * 0.85
+        rot = f' transform="rotate(-90 {cx:.1f} {cy:.1f})"' if turn else ""
+        spans = "".join(f'<tspan x="{cx:.1f}" y="{top + i * fs * 1.1:.1f}">{escape(s)}</tspan>' for i, s in enumerate(lines))
         body.append(
             f'<rect x="{x + 1.5:.1f}" y="{y + 1.5:.1f}" width="{w - 3:.1f}" height="{h - 3:.1f}" rx="8" fill="{p["color"]}"/>'
-            f'<text x="{cx:.1f}" y="{cy - fs * 0.15:.1f}" text-anchor="middle" font-size="{fs:.1f}" font-weight="600" fill="{c}">{escape(p["name"])}</text>'
-            f'<text x="{cx:.1f}" y="{cy + fs * 1.05:.1f}" text-anchor="middle" font-size="{fs * 0.95:.1f}" fill="{c}" opacity="0.85">{p["count"]}</text>'
+            f'<g{rot} text-anchor="middle" fill="{c}"><text font-size="{fs:.1f}" font-weight="600">{spans}</text>'
+            f'<text x="{cx:.1f}" y="{top + len(lines) * fs * 1.1:.1f}" font-size="{fs * 0.95:.1f}" opacity="0.85">{p["count"]}</text></g>'
         )
     return (
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" font-family="{FONT}">'
