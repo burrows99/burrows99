@@ -1,0 +1,322 @@
+{
+  "merged_search": "https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+repo%3Awindmill-labs%2Fwindmill+repo%3Akubernetes-sigs%2Fkueue+repo%3Ahuggingface%2Ftransformers+repo%3Allm-d%2Fllm-d-inference-sim+repo%3Allm-d%2Fllm-d-router+repo%3Agoogle%2Fadk-go+repo%3An8n-io%2Fn8n+repo%3Atwentyhq%2Ftwenty+repo%3Agpustack%2Fgpustack+repo%3Aaaif-goose%2Fgoose+repo%3Amarimo-team%2Fmarimo+repo%3Acontextforge-org%2Fcontextforge-web-ui+repo%3Aawslabs%2Fstickler",
+  "more": {
+    "projects": 31,
+    "open": 41,
+    "link": "https://github.com/pulls?q=is%3Apr+author%3Aburrows99+is%3Aopen+-user%3Aburrows99+-user%3Ahestahealth"
+  },
+  "projects": [
+    {
+      "name": "Windmill",
+      "repo": "windmill-labs/windmill",
+      "id": 98025271,
+      "status": "merged",
+      "count": 30,
+      "color": "#3B82F6",
+      "highlight": "folder-permission prefix, UTF-8 webhooks; features: JSDoc/docstring arg descriptions, client retries"
+    },
+    {
+      "name": "Kueue",
+      "repo": "kubernetes-sigs/kueue",
+      "id": 36015203,
+      "status": "merged",
+      "count": 5,
+      "color": "#326CE5",
+      "highlight": "Pod importer flavor fit, truncated names; backported to 0.19 and 0.20"
+    },
+    {
+      "name": "Transformers",
+      "repo": "huggingface/transformers",
+      "id": 25720743,
+      "status": "merged",
+      "count": 4,
+      "color": "#FFB000",
+      "highlight": "multimodal pipelines return the chat as input_text"
+    },
+    {
+      "name": "inference-sim",
+      "repo": "llm-d/llm-d-inference-sim",
+      "id": 211385051,
+      "status": "merged",
+      "count": 4,
+      "color": "#6D28D9",
+      "highlight": "streamed /v1/responses event numbering, empty top_logprobs"
+    },
+    {
+      "name": "llm-d router",
+      "repo": "llm-d/llm-d-router",
+      "id": 211385051,
+      "status": "merged",
+      "count": 1,
+      "color": "#8B5CF6",
+      "highlight": "EPP accepts prompt_embeds completions"
+    },
+    {
+      "name": "ADK Go",
+      "repo": "google/adk-go",
+      "id": 1342004,
+      "status": "merged",
+      "count": 1,
+      "color": "#007D9C",
+      "highlight": "redact and bound code-part labels in agent analytics"
+    },
+    {
+      "name": "n8n",
+      "repo": "n8n-io/n8n",
+      "id": 45487711,
+      "status": "merged",
+      "count": 1,
+      "color": "#EA4B71",
+      "highlight": "Discord node keeps the original error"
+    },
+    {
+      "name": "Twenty",
+      "repo": "twentyhq/twenty",
+      "id": 119600397,
+      "status": "merged",
+      "count": 1,
+      "color": "#4A4A4A",
+      "highlight": "API key expiry label in the last 24 hours"
+    },
+    {
+      "name": "GPUStack",
+      "repo": "gpustack/gpustack",
+      "id": 169020824,
+      "status": "merged",
+      "count": 1,
+      "color": "#1E66F5",
+      "highlight": "reconnected worker keeps its tunnel route"
+    },
+    {
+      "name": "goose",
+      "repo": "aaif-goose/goose",
+      "id": 271095942,
+      "status": "merged",
+      "count": 1,
+      "color": "#2B2B2B",
+      "highlight": "Ollama XML tool calls keep think tags"
+    },
+    {
+      "name": "marimo",
+      "repo": "marimo-team/marimo",
+      "id": 98563464,
+      "status": "merged",
+      "count": 1,
+      "color": "#0E7F5F",
+      "highlight": "variables search stops matching cell IDs"
+    },
+    {
+      "name": "ContextForge",
+      "repo": "contextforge-org/contextforge-web-ui",
+      "id": 240153964,
+      "status": "merged",
+      "count": 1,
+      "color": "#C2410C",
+      "highlight": "translated role labels in the members picker"
+    },
+    {
+      "name": "Stickler",
+      "repo": "awslabs/stickler",
+      "id": 3299148,
+      "status": "merged",
+      "count": 1,
+      "color": "#B45309",
+      "highlight": "NumericComparator tolerance examples"
+    },
+    {
+      "name": "KEDA",
+      "repo": "kedacore/keda",
+      "id": 49917779,
+      "status": "open",
+      "count": 1,
+      "link": "https://github.com/kedacore/keda/pull/8385",
+      "highlight": "Metrics API scaler label matchers (approved)",
+      "color": "#3264C8"
+    },
+    {
+      "name": "Grafana",
+      "repo": "grafana/grafana",
+      "id": 7195757,
+      "status": "open",
+      "count": 1,
+      "link": "https://github.com/grafana/grafana/pull/137891",
+      "highlight": "unescaped playlist names on delete (approved)",
+      "color": "#F46800"
+    },
+    {
+      "name": "CUDA-Q",
+      "repo": "NVIDIA/cuda-quantum",
+      "id": 1728152,
+      "status": "open",
+      "count": 1,
+      "link": "https://github.com/NVIDIA/cuda-quantum/pull/5935",
+      "highlight": "cudaq.logical.measure traces in a logical program (approved)",
+      "color": "#5E9400"
+    },
+    {
+      "name": "marimo",
+      "repo": "marimo-team/marimo",
+      "id": 98563464,
+      "status": "open",
+      "count": 1,
+      "link": "https://github.com/marimo-team/marimo/pull/11897",
+      "highlight": "data sources search ignores whitespace",
+      "color": "#0E7F5F"
+    },
+    {
+      "name": "goose",
+      "repo": "aaif-goose/goose",
+      "id": 271095942,
+      "status": "open",
+      "count": 1,
+      "link": "https://github.com/aaif-goose/goose/pull/13607",
+      "highlight": "desktop rejects non-image attachments on external backends",
+      "color": "#2B2B2B"
+    },
+    {
+      "name": "MLflow",
+      "repo": "mlflow/mlflow",
+      "id": 39938107,
+      "status": "open",
+      "count": 1,
+      "link": "https://github.com/mlflow/mlflow/pull/27792",
+      "highlight": "run-root runs:/ URIs in artifact download and list",
+      "color": "#0194E2"
+    },
+    {
+      "name": "PostHog",
+      "repo": "PostHog/posthog",
+      "id": 60330232,
+      "status": "open",
+      "count": 1,
+      "link": "https://github.com/PostHog/posthog/pull/136134",
+      "highlight": "12 in the morning selects midnight",
+      "color": "#F54E00"
+    },
+    {
+      "name": "Supabase",
+      "repo": "supabase/supabase",
+      "id": 54469796,
+      "status": "open",
+      "count": 1,
+      "link": "https://github.com/supabase/supabase/pull/53417",
+      "highlight": "case-insensitive database search in Studio",
+      "color": "#249361"
+    },
+    {
+      "name": "Sem. Router",
+      "repo": "vllm-project/semantic-router",
+      "id": 136984999,
+      "status": "open",
+      "count": 1,
+      "link": "https://github.com/vllm-project/semantic-router/pull/6848",
+      "highlight": "Operator startup probe initialDelaySeconds",
+      "color": "#2F6FD8"
+    },
+    {
+      "name": "Qwen Code",
+      "repo": "QwenLM/qwen-code",
+      "id": 141221163,
+      "status": "open",
+      "count": 2,
+      "highlight": "mask nested /config secrets, /copy N skips tool-call turns",
+      "color": "#615CED"
+    },
+    {
+      "name": "Warp",
+      "repo": "NVIDIA/warp",
+      "id": 1728152,
+      "status": "open",
+      "count": 1,
+      "link": "https://github.com/NVIDIA/warp/pull/2339",
+      "highlight": "hash captured constants at full precision",
+      "color": "#4E7A00"
+    },
+    {
+      "name": "ADK Python",
+      "repo": "google/adk-python",
+      "id": 1342004,
+      "status": "open",
+      "count": 2,
+      "highlight": "failed task delegation answers with the error; same-turn delegations kept apart",
+      "color": "#4285F4"
+    },
+    {
+      "name": "kafka-ui",
+      "repo": "kafbat/kafka-ui",
+      "id": 98461227,
+      "status": "open",
+      "count": 1,
+      "link": "https://github.com/kafbat/kafka-ui/pull/2101",
+      "highlight": "bad preview JSON path no longer crashes Messages",
+      "color": "#2B2D42"
+    },
+    {
+      "name": "Karapace",
+      "repo": "Aiven-Open/karapace",
+      "id": 137087830,
+      "status": "open",
+      "count": 1,
+      "link": "https://github.com/Aiven-Open/karapace/pull/1412",
+      "highlight": "protobuf references for format=serialized",
+      "color": "#E0491B"
+    },
+    {
+      "name": "Defender",
+      "repo": "StackOneHQ/defender",
+      "id": 114806982,
+      "status": "earlier",
+      "count": 1,
+      "highlight": "prevent prototype pollution in object traversal",
+      "color": "#0F9D6E"
+    },
+    {
+      "name": "Planner MCP",
+      "repo": "aixolotl/microsoft-planner-mcp",
+      "id": 217708080,
+      "status": "earlier",
+      "count": 6,
+      "highlight": "built the FastMCP server, OBO auth and Planner service layer",
+      "color": "#0078D4"
+    },
+    {
+      "name": "Kratix",
+      "repo": "syntasso/kratix",
+      "id": 77631775,
+      "status": "earlier",
+      "count": 1,
+      "highlight": "contributor-docs fix",
+      "color": "#7C3AED"
+    },
+    {
+      "name": "graphify",
+      "repo": "Graphify-Labs/graphify",
+      "id": 297659074,
+      "status": "earlier",
+      "badge": "PR",
+      "link": "https://github.com/Graphify-Labs/graphify/pull/1256",
+      "highlight": "sync Claude references with vocab expansion",
+      "color": "#2E7D32"
+    },
+    {
+      "name": "DebugMCP",
+      "repo": "microsoft/DebugMCP",
+      "id": 6154722,
+      "status": "earlier",
+      "badge": "issue",
+      "link": "https://github.com/microsoft/DebugMCP/issues/91",
+      "highlight": "reported the debug-skill link, since fixed",
+      "color": "#0078D4"
+    },
+    {
+      "name": "Retrieval",
+      "repo": "langchain-ai/retrieval-agent-template",
+      "id": 126733545,
+      "status": "earlier",
+      "badge": "PR",
+      "link": "https://github.com/langchain-ai/retrieval-agent-template/pull/12",
+      "highlight": "Ollama and Elasticsearch integration",
+      "color": "#1C3C3C"
+    }
+  ]
+}
