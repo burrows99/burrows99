@@ -1,8 +1,8 @@
 {
-  "merged_search": "https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+repo%3Awindmill-labs%2Fwindmill+repo%3Akubernetes-sigs%2Fkueue+repo%3Ahuggingface%2Ftransformers+repo%3Allm-d%2Fllm-d-inference-sim+repo%3Allm-d%2Fllm-d-router+repo%3Agoogle%2Fadk-go+repo%3An8n-io%2Fn8n+repo%3Atwentyhq%2Ftwenty+repo%3Agpustack%2Fgpustack+repo%3Aaaif-goose%2Fgoose+repo%3Amarimo-team%2Fmarimo+repo%3Acontextforge-org%2Fcontextforge-web-ui+repo%3Aawslabs%2Fstickler",
+  "merged_search": "https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+repo%3Awindmill-labs%2Fwindmill+repo%3Akubernetes-sigs%2Fkueue+repo%3Ahuggingface%2Ftransformers+repo%3Allm-d%2Fllm-d-inference-sim+repo%3Allm-d%2Fllm-d-router+repo%3Agoogle%2Fadk-go+repo%3An8n-io%2Fn8n+repo%3Atwentyhq%2Ftwenty+repo%3Agpustack%2Fgpustack+repo%3Aaaif-goose%2Fgoose+repo%3Amarimo-team%2Fmarimo+repo%3Acontextforge-org%2Fcontextforge-web-ui+repo%3Aawslabs%2Fstickler+repo%3Atrpc%2Ftrpc+repo%3Areact%2Fmetro+repo%3APrefectHQ%2Fprefect",
   "more": {
     "projects": 35,
-    "open": 48,
+    "open": 47,
     "link": "https://github.com/pulls?q=is%3Apr+author%3Aburrows99+is%3Aopen+-user%3Aburrows99+-user%3Ahestahealth"
   },
   "projects": [
@@ -65,9 +65,9 @@
       "repo": "n8n-io/n8n",
       "id": 45487711,
       "status": "merged",
-      "count": 1,
+      "count": 2,
       "color": "#EA4B71",
-      "highlight": "Discord node keeps the original error"
+      "highlight": "Discord node keeps the original error; singular stop-executions toast"
     },
     {
       "name": "Twenty",
@@ -92,18 +92,18 @@
       "repo": "aaif-goose/goose",
       "id": 271095942,
       "status": "merged",
-      "count": 1,
+      "count": 2,
       "color": "#2B2B2B",
-      "highlight": "Ollama XML tool calls keep think tags"
+      "highlight": "Ollama XML tool calls keep think tags; desktop rejects non-image attachments on external backends"
     },
     {
       "name": "marimo",
       "repo": "marimo-team/marimo",
       "id": 98563464,
       "status": "merged",
-      "count": 1,
+      "count": 2,
       "color": "#0E7F5F",
-      "highlight": "variables search stops matching cell IDs"
+      "highlight": "variables search stops matching cell IDs; data sources search ignores whitespace"
     },
     {
       "name": "ContextForge",
@@ -122,6 +122,96 @@
       "count": 1,
       "color": "#B45309",
       "highlight": "NumericComparator tolerance examples"
+    },
+    {
+      "name": "tRPC",
+      "repo": "trpc/trpc",
+      "id": 78011399,
+      "status": "merged",
+      "count": 2,
+      "color": "#398CCB",
+      "highlight": "OpenAPI: null in nullable literal-union enums, redundant union members dropped"
+    },
+    {
+      "name": "Metro",
+      "repo": "react/metro",
+      "id": 102812,
+      "status": "merged",
+      "count": 1,
+      "color": "#087EA4",
+      "highlight": "Meta's React Native bundler: constant folding keeps side effects in sequence operands"
+    },
+    {
+      "name": "Prefect",
+      "repo": "PrefectHQ/prefect",
+      "id": 39270919,
+      "status": "merged",
+      "count": 1,
+      "color": "#2D6DF6",
+      "highlight": "Escape no longer opens the flow run graph in fullscreen"
+    },
+    {
+      "name": "Lexical",
+      "repo": "meta/lexical",
+      "id": 69631,
+      "status": "open",
+      "count": 4,
+      "color": "#0866FF",
+      "highlight": "Meta: font-size input, roving-toolbar keys, floating toolbar after a block drag"
+    },
+    {
+      "name": "Metro",
+      "repo": "react/metro",
+      "id": 102812,
+      "status": "open",
+      "count": 3,
+      "color": "#087EA4",
+      "highlight": "Meta: inline-requires branches, hoisted vars when folding, export * __esModule"
+    },
+    {
+      "name": "Faiss",
+      "repo": "facebookresearch/faiss",
+      "id": 16943930,
+      "status": "open",
+      "count": 1,
+      "color": "#1877F2",
+      "highlight": "Meta: keep the ids array alive in add_preassigned"
+    },
+    {
+      "name": "Next.js",
+      "repo": "vercel/next.js",
+      "id": 14985020,
+      "status": "open",
+      "count": 1,
+      "color": "#000000",
+      "highlight": "preload the Node.js proxy with the other entries on start"
+    },
+    {
+      "name": "ADK Python",
+      "repo": "google/adk-python",
+      "id": 1342004,
+      "status": "open",
+      "count": 2,
+      "highlight": "failed task delegation answers with the error; same-turn delegations kept apart",
+      "color": "#4285F4"
+    },
+    {
+      "name": "React Router",
+      "repo": "remix-run/react-router",
+      "id": 64235328,
+      "status": "open",
+      "count": 1,
+      "color": "#D83B3B",
+      "highlight": "let the browser handle clicks on <Link download>"
+    },
+    {
+      "name": "HF Chat UI",
+      "repo": "huggingface/chat-ui",
+      "id": 25720743,
+      "status": "open",
+      "count": 2,
+      "color": "#FFB000",
+      "highlight": "MCP header rows, sidebar conversations kept loaded"
     },
     {
       "name": "KEDA",
@@ -151,22 +241,85 @@
       "color": "#5E9400"
     },
     {
-      "name": "marimo",
-      "repo": "marimo-team/marimo",
-      "id": 98563464,
-      "status": "open",
-      "count": 3,
-      "highlight": "data sources search ignores whitespace",
-      "color": "#0E7F5F"
-    },
-    {
-      "name": "goose",
-      "repo": "aaif-goose/goose",
-      "id": 271095942,
+      "name": "Warp",
+      "repo": "NVIDIA/warp",
+      "id": 1728152,
       "status": "open",
       "count": 1,
-      "highlight": "desktop rejects non-image attachments on external backends",
-      "color": "#2B2B2B"
+      "highlight": "hash captured constants at full precision",
+      "color": "#4E7A00"
+    },
+    {
+      "name": "Supabase",
+      "repo": "supabase/supabase",
+      "id": 54469796,
+      "status": "open",
+      "count": 2,
+      "highlight": "case-insensitive database search; In-list filter trims spaces",
+      "color": "#249361"
+    },
+    {
+      "name": "AWS MCP",
+      "repo": "awslabs/mcp",
+      "id": 3299148,
+      "status": "open",
+      "count": 1,
+      "color": "#FF9900",
+      "highlight": "documentation server searches every section a title names"
+    },
+    {
+      "name": "deepagentsjs",
+      "repo": "langchain-ai/deepagentsjs",
+      "id": 126733545,
+      "status": "open",
+      "count": 2,
+      "color": "#1C3C3C",
+      "highlight": "media blocks kept out of eviction; non-UTF-8 uploads byte-for-byte"
+    },
+    {
+      "name": "Mantine",
+      "repo": "mantinedev/mantine",
+      "id": 79146003,
+      "status": "open",
+      "count": 2,
+      "color": "#339AF0",
+      "highlight": "TagsInput splitChars literal; MultiSelect keeps disabled values on Backspace"
+    },
+    {
+      "name": "Recharts",
+      "repo": "recharts/recharts",
+      "id": 13690587,
+      "status": "open",
+      "count": 2,
+      "color": "#8884D8",
+      "highlight": "Brush travellers move correctly with the keyboard"
+    },
+    {
+      "name": "next-intl",
+      "repo": "amannn/next-intl",
+      "id": 4038316,
+      "status": "open",
+      "count": 1,
+      "color": "#1E293B",
+      "highlight": "localeCookie flags set to false stay out of the cookie"
+    },
+    {
+      "name": "LiteSVM",
+      "repo": "LiteSVM/litesvm",
+      "id": 154502493,
+      "status": "open",
+      "count": 2,
+      "color": "#9945FF",
+      "highlight": "failed durable-nonce transactions advance the nonce; drained fee payers removed"
+    },
+    {
+      "name": "Anchor",
+      "repo": "otter-sec/anchor",
+      "id": 99055801,
+      "status": "open",
+      "count": 1,
+      "color": "#5850EC",
+      "highlight": "TS client uses the accounts a custom resolver returns"
     },
     {
       "name": "MLflow",
@@ -185,69 +338,6 @@
       "count": 1,
       "highlight": "12 in the morning selects midnight",
       "color": "#F54E00"
-    },
-    {
-      "name": "Supabase",
-      "repo": "supabase/supabase",
-      "id": 54469796,
-      "status": "open",
-      "count": 1,
-      "highlight": "case-insensitive database search in Studio",
-      "color": "#249361"
-    },
-    {
-      "name": "Sem. Router",
-      "repo": "vllm-project/semantic-router",
-      "id": 136984999,
-      "status": "open",
-      "count": 1,
-      "highlight": "Operator startup probe initialDelaySeconds",
-      "color": "#2F6FD8"
-    },
-    {
-      "name": "Qwen Code",
-      "repo": "QwenLM/qwen-code",
-      "id": 141221163,
-      "status": "open",
-      "count": 2,
-      "highlight": "mask nested /config secrets, /copy N skips tool-call turns",
-      "color": "#615CED"
-    },
-    {
-      "name": "Warp",
-      "repo": "NVIDIA/warp",
-      "id": 1728152,
-      "status": "open",
-      "count": 1,
-      "highlight": "hash captured constants at full precision",
-      "color": "#4E7A00"
-    },
-    {
-      "name": "ADK Python",
-      "repo": "google/adk-python",
-      "id": 1342004,
-      "status": "open",
-      "count": 2,
-      "highlight": "failed task delegation answers with the error; same-turn delegations kept apart",
-      "color": "#4285F4"
-    },
-    {
-      "name": "kafka-ui",
-      "repo": "kafbat/kafka-ui",
-      "id": 98461227,
-      "status": "open",
-      "count": 1,
-      "highlight": "bad preview JSON path no longer crashes Messages",
-      "color": "#2B2D42"
-    },
-    {
-      "name": "Karapace",
-      "repo": "Aiven-Open/karapace",
-      "id": 137087830,
-      "status": "open",
-      "count": 1,
-      "highlight": "protobuf references for format=serialized",
-      "color": "#E0491B"
     },
     {
       "name": "Defender",
