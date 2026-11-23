@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="96" viewBox="0 0 104 96">
+<title>Next.js — in review: preload the Node.js proxy with the other entries on start</title>
+<rect x="1" y="1" width="102" height="94" rx="10" fill="#000000"/>
+<clipPath id="c"><rect x="32" y="10" width="40" height="40" rx="8"/></clipPath>
+<rect x="30" y="8" width="44" height="44" rx="10" fill="#fff"/>
+<image x="32" y="10" width="40" height="40" clip-path="url(#c)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAIAAABMXPacAAADPklEQVR4nOzaO07jahiH8VEguEcgUlgIUVDSAJILaOwG9uJqaGADNNCAREvjyhU00FgswiAovAMaLK6i4DIS8BcDhCR2/Dme8fO4SkgcnfenSDnfvI1fNNAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYDAAlmWNjIzoEQClA/x+TY+o3Fqt1tXV1fX19djYmJ6jEtvb23t5bWNjQ89RWS0sLDw+Pr68dnNzMzk5qb9QKUVR9PJX+/v7+guZz3VdTf4j13X1dzJZo9GI41hj/yiO46GhIb2KjLW6uqqZf42fpMZ/ktq2fXd3p4F/7fb2ttVq6bVkoCAINO32bW5u6rVUdLOzs8/Pzxo1X4LSvwRHR0eac6fCMNQ7qLhWVlY04e4tLy/rfVREzWbz7OxM4+3e+fn58PCw3k195/u+Zttrvu/r3dRftm1fXl5qsL2WpunExITuQX0UhqGmmq3t7W3dg/I2Pz/f9afnT9f9/b1t27oT5erg4EDzzFMQBLoTZc/zPE0yf57n6X6UpWazmSSJxpi/JEn+9X+4r9ypZ9aLU9LMp6Tj4+NpmmqA/Zam6ejoqO7NqWcRp55Z29ra0r2pW47jaG6F9fDwMDU1pU+gjh0eHmpuRcYpaU+npEtLS5pY8S0uLupzqF2WZZ2cnGhcxXd6espP0k4/SdfX1zUrU62trenT6HNvu54alKmqtktaoUWanZ0dx3H0yFSWZT09PR0fH+sJdj2/7XqavtglbbNL+mXX0/TFLumnXdK2u56mL3ZJ33dJf9r1NB27pO+7pAWeenJKmvmUtPOup+mqsEY34O/g7u7u3NycHpXd2/8VR1GkJ9j1/LbrWYcvQdV3PU1X01PSTLuepq/a7ZJm3fU0Xe12SXPsepq+arRLmm/X03SD2iUdwPduZmammlub09PTFxcXekT1qPE//EcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANQE4M8AbfU5JORH9c0AAAAASUVORK5CYII="/>
+<text x="52.0" y="69" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.0" font-weight="600" fill="#fff">Next.js</text>
+<rect x="40.5" y="76" width="23.0" height="14" rx="7" fill="#BF8700" stroke="#fff" stroke-width="1"/>
+<text x="52.0" y="86.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" font-weight="700" fill="#fff">PR</text>
+</svg>
