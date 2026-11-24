@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="104" height="96" viewBox="0 0 104 96">
-<title>Mantine — in review: TagsInput splitChars literal; MultiSelect keeps disabled values on Backspace</title>
+<title>Mantine — in review: TagsInput splitChars literal; MultiSelect keeps disabled values on Backspace (both verified)</title>
 <rect x="1" y="1" width="102" height="94" rx="10" fill="#339AF0"/>
 <clipPath id="c"><rect x="32" y="10" width="40" height="40" rx="8"/></clipPath>
 <rect x="30" y="8" width="44" height="44" rx="10" fill="#fff"/>

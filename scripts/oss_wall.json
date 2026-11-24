@@ -184,7 +184,7 @@
       "status": "open",
       "count": 4,
       "color": "#0866FF",
-      "highlight": "Meta: font-size input, roving-toolbar keys, floating toolbar after a block drag"
+      "highlight": "Meta: font-size input, roving-toolbar keys, floating toolbar after a block drag (all 4 approved)"
     },
     {
       "name": "Metro",
@@ -283,7 +283,7 @@
       "status": "open",
       "count": 2,
       "color": "#1C3C3C",
-      "highlight": "media blocks kept out of eviction; non-UTF-8 uploads byte-for-byte"
+      "highlight": "audio and video blocks kept out of eviction; non-UTF-8 uploads byte-for-byte"
     },
     {
       "name": "Mantine",
@@ -292,7 +292,7 @@
       "status": "open",
       "count": 2,
       "color": "#339AF0",
-      "highlight": "TagsInput splitChars literal; MultiSelect keeps disabled values on Backspace"
+      "highlight": "TagsInput splitChars literal; MultiSelect keeps disabled values on Backspace (both verified)"
     },
     {
       "name": "Recharts",
