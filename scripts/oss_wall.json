@@ -1,8 +1,8 @@
 {
   "merged_search": "https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+-user%3Aburrows99+-org%3Ahestahealth+-org%3Amacquery-labs+-repo%3Akarammm%2Fmacquery+-repo%3Apesto-students%2Fp11-mohammad-burrows99",
   "more": {
-    "projects": 29,
-    "open": 33,
+    "projects": 30,
+    "open": 34,
     "link": "https://github.com/pulls?q=is%3Apr+author%3Aburrows99+is%3Aopen+archived%3Afalse+-user%3Aburrows99+-org%3Ahestahealth+-org%3Amacquery-labs+-org%3Apesto-students"
   },
   "projects": [
@@ -214,6 +214,15 @@
       "highlight": "localeCookie flags set to false (and undefined/null) stay out of the client cookie"
     },
     {
+      "name": "GitHub MCP",
+      "repo": "github/github-mcp-server",
+      "id": 9919,
+      "status": "merged",
+      "count": 1,
+      "color": "#24292F",
+      "highlight": "Swift advisories listable: ecosystem enum matched the REST API"
+    },
+    {
       "name": "Lexical",
       "repo": "meta/lexical",
       "id": 69631,
@@ -416,9 +425,9 @@
       "repo": "github/github-mcp-server",
       "id": 9919,
       "status": "open",
-      "count": 2,
+      "count": 1,
       "color": "#24292F",
-      "highlight": "annotated tags resolve in get_file_contents; swift ecosystem in security advisories"
+      "highlight": "annotated tags resolve to their commit in get_file_contents"
     },
     {
       "name": "MCP Toolbox",
