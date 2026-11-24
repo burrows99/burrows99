@@ -2,7 +2,7 @@
   "merged_search": "https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+-user%3Aburrows99+-org%3Ahestahealth+-org%3Amacquery-labs+-repo%3Akarammm%2Fmacquery+-repo%3Apesto-students%2Fp11-mohammad-burrows99",
   "more": {
     "projects": 30,
-    "open": 40,
+    "open": 34,
     "link": "https://github.com/pulls?q=is%3Apr+author%3Aburrows99+is%3Aopen+archived%3Afalse+-user%3Aburrows99+-org%3Ahestahealth+-org%3Amacquery-labs+-org%3Apesto-students"
   },
   "projects": [
@@ -11,7 +11,7 @@
       "repo": "windmill-labs/windmill",
       "id": 98025271,
       "status": "merged",
-      "count": 30,
+      "count": 32,
       "color": "#3B82F6",
       "highlight": "folder-permission prefix, UTF-8 webhooks; features: JSDoc/docstring arg descriptions, client retries"
     },
@@ -367,15 +367,6 @@
       "color": "#F54E00"
     },
     {
-      "name": "Windmill",
-      "repo": "windmill-labs/windmill",
-      "id": 98025271,
-      "status": "open",
-      "count": 3,
-      "color": "#3B82F6",
-      "highlight": "Date & Time inputs, filter suggestions by label, Time/Date Select defaults"
-    },
-    {
       "name": "marimo",
       "repo": "marimo-team/marimo",
       "id": 98563464,
@@ -437,6 +428,15 @@
       "count": 2,
       "color": "#4285F4",
       "highlight": "SQLite keeps JSON-like text as a string; omitted optional prompt arguments render empty"
+    },
+    {
+      "name": "Planner MCP",
+      "repo": "aixolotl/microsoft-planner-mcp",
+      "id": 217708080,
+      "status": "open",
+      "count": 7,
+      "color": "#0078D4",
+      "highlight": "per-user rate limits, task filters on unknown fields, request headers on every page"
     },
     {
       "name": "DebugMCP",
