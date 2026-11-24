@@ -1,8 +1,8 @@
 {
-  "merged_search": "https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+repo%3Awindmill-labs%2Fwindmill+repo%3Akubernetes-sigs%2Fkueue+repo%3Ahuggingface%2Ftransformers+repo%3Allm-d%2Fllm-d-inference-sim+repo%3Allm-d%2Fllm-d-router+repo%3Agoogle%2Fadk-go+repo%3An8n-io%2Fn8n+repo%3Atwentyhq%2Ftwenty+repo%3Agpustack%2Fgpustack+repo%3Aaaif-goose%2Fgoose+repo%3Amarimo-team%2Fmarimo+repo%3Acontextforge-org%2Fcontextforge-web-ui+repo%3Aawslabs%2Fstickler+repo%3Atrpc%2Ftrpc+repo%3Areact%2Fmetro+repo%3APrefectHQ%2Fprefect",
+  "merged_search": "https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+repo%3Awindmill-labs%2Fwindmill+repo%3Akubernetes-sigs%2Fkueue+repo%3Ahuggingface%2Ftransformers+repo%3Allm-d%2Fllm-d-inference-sim+repo%3Allm-d%2Fllm-d-router+repo%3Agoogle%2Fadk-go+repo%3An8n-io%2Fn8n+repo%3Atwentyhq%2Ftwenty+repo%3Agpustack%2Fgpustack+repo%3Aaaif-goose%2Fgoose+repo%3Amarimo-team%2Fmarimo+repo%3Acontextforge-org%2Fcontextforge-web-ui+repo%3Aawslabs%2Fstickler+repo%3Atrpc%2Ftrpc+repo%3Areact%2Fmetro+repo%3APrefectHQ%2Fprefect+repo%3ANVIDIA%2Fcuda-quantum+repo%3Aremix-run%2Freact-router+repo%3AArize-ai%2Fphoenix",
   "more": {
-    "projects": 35,
-    "open": 47,
+    "projects": 32,
+    "open": 41,
     "link": "https://github.com/pulls?q=is%3Apr+author%3Aburrows99+is%3Aopen+-user%3Aburrows99+-user%3Ahestahealth"
   },
   "projects": [
@@ -151,6 +151,33 @@
       "highlight": "Escape no longer opens the flow run graph in fullscreen"
     },
     {
+      "name": "CUDA-Q",
+      "repo": "NVIDIA/cuda-quantum",
+      "id": 1728152,
+      "status": "merged",
+      "count": 1,
+      "color": "#5E9400",
+      "highlight": "NVIDIA: cudaq.logical.measure traces in a logical program"
+    },
+    {
+      "name": "React Router",
+      "repo": "remix-run/react-router",
+      "id": 64235328,
+      "status": "merged",
+      "count": 1,
+      "color": "#D83B3B",
+      "highlight": "let the browser handle clicks on <Link download>"
+    },
+    {
+      "name": "Phoenix",
+      "repo": "Arize-ai/phoenix",
+      "id": 59858760,
+      "status": "merged",
+      "count": 1,
+      "color": "#E5532D",
+      "highlight": "costs from $100 up to $10,000 round to cents"
+    },
+    {
       "name": "Lexical",
       "repo": "meta/lexical",
       "id": 69631,
@@ -196,15 +223,6 @@
       "color": "#4285F4"
     },
     {
-      "name": "React Router",
-      "repo": "remix-run/react-router",
-      "id": 64235328,
-      "status": "open",
-      "count": 1,
-      "color": "#D83B3B",
-      "highlight": "let the browser handle clicks on <Link download>"
-    },
-    {
       "name": "HF Chat UI",
       "repo": "huggingface/chat-ui",
       "id": 25720743,
@@ -230,15 +248,6 @@
       "count": 1,
       "highlight": "unescaped playlist names on delete (approved)",
       "color": "#F46800"
-    },
-    {
-      "name": "CUDA-Q",
-      "repo": "NVIDIA/cuda-quantum",
-      "id": 1728152,
-      "status": "open",
-      "count": 1,
-      "highlight": "cudaq.logical.measure traces in a logical program (approved)",
-      "color": "#5E9400"
     },
     {
       "name": "Warp",
@@ -338,6 +347,24 @@
       "count": 1,
       "highlight": "12 in the morning selects midnight",
       "color": "#F54E00"
+    },
+    {
+      "name": "Windmill",
+      "repo": "windmill-labs/windmill",
+      "id": 98025271,
+      "status": "open",
+      "count": 3,
+      "color": "#3B82F6",
+      "highlight": "Date & Time inputs, filter suggestions by label, Time/Date Select defaults"
+    },
+    {
+      "name": "marimo",
+      "repo": "marimo-team/marimo",
+      "id": 98563464,
+      "status": "open",
+      "count": 2,
+      "color": "#0E7F5F",
+      "highlight": "max_length counter while typing; invalid email/url with the default debounce"
     },
     {
       "name": "Defender",
