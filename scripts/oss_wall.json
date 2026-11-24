@@ -1,8 +1,8 @@
 {
   "merged_search": "https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+-user%3Aburrows99+-org%3Ahestahealth+-org%3Amacquery-labs+-repo%3Akarammm%2Fmacquery+-repo%3Apesto-students%2Fp11-mohammad-burrows99",
   "more": {
-    "projects": 30,
-    "open": 34,
+    "projects": 29,
+    "open": 33,
     "link": "https://github.com/pulls?q=is%3Apr+author%3Aburrows99+is%3Aopen+archived%3Afalse+-user%3Aburrows99+-org%3Ahestahealth+-org%3Amacquery-labs+-org%3Apesto-students"
   },
   "projects": [
@@ -11,7 +11,7 @@
       "repo": "windmill-labs/windmill",
       "id": 98025271,
       "status": "merged",
-      "count": 32,
+      "count": 33,
       "color": "#3B82F6",
       "highlight": "folder-permission prefix, UTF-8 webhooks; features: JSDoc/docstring arg descriptions, client retries"
     },
