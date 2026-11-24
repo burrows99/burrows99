@@ -1,9 +1,9 @@
 {
-  "merged_search": "https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+repo%3Awindmill-labs%2Fwindmill+repo%3Akubernetes-sigs%2Fkueue+repo%3Ahuggingface%2Ftransformers+repo%3Allm-d%2Fllm-d-inference-sim+repo%3Allm-d%2Fllm-d-router+repo%3Agoogle%2Fadk-go+repo%3An8n-io%2Fn8n+repo%3Atwentyhq%2Ftwenty+repo%3Agpustack%2Fgpustack+repo%3Aaaif-goose%2Fgoose+repo%3Amarimo-team%2Fmarimo+repo%3Acontextforge-org%2Fcontextforge-web-ui+repo%3Aawslabs%2Fstickler+repo%3Atrpc%2Ftrpc+repo%3Areact%2Fmetro+repo%3APrefectHQ%2Fprefect+repo%3ANVIDIA%2Fcuda-quantum+repo%3Aremix-run%2Freact-router+repo%3AArize-ai%2Fphoenix+repo%3AStackOneHQ%2Fdefender+repo%3Aaixolotl%2Fmicrosoft-planner-mcp+repo%3Asyntasso%2Fkratix",
+  "merged_search": "https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+-user%3Aburrows99+-org%3Ahestahealth+-org%3Amacquery-labs+-repo%3Akarammm%2Fmacquery+-repo%3Apesto-students%2Fp11-mohammad-burrows99",
   "more": {
     "projects": 28,
     "open": 32,
-    "link": "https://github.com/pulls?q=is%3Apr+author%3Aburrows99+is%3Aopen+-user%3Aburrows99+-user%3Ahestahealth"
+    "link": "https://github.com/pulls?q=is%3Apr+author%3Aburrows99+is%3Aopen+archived%3Afalse+-user%3Aburrows99+-org%3Ahestahealth+-org%3Amacquery-labs+-org%3Apesto-students"
   },
   "projects": [
     {
