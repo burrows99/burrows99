@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="104" height="96" viewBox="0 0 104 96">
-<title>30 more projects, 34 open PRs</title>
+<title>29 more projects, 33 open PRs</title>
 <rect x="1.5" y="1.5" width="101" height="93" rx="10" fill="#30363d" stroke="#8b949e" stroke-width="1.5" stroke-dasharray="5 4"/>
-<text x="52.0" y="44" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#fff">+30</text>
+<text x="52.0" y="44" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#fff">+29</text>
 <text x="52.0" y="66" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff">more projects</text>
 <rect x="30.8" y="76" width="42.5" height="14" rx="7" fill="#BF8700" stroke="#fff" stroke-width="1"/>
-<text x="52.0" y="86.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" font-weight="700" fill="#fff">34 PR</text>
+<text x="52.0" y="86.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" font-weight="700" fill="#fff">33 PR</text>
 </svg>
