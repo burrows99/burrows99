@@ -1,8 +1,8 @@
 {
   "merged_search": "https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+-user%3Aburrows99+-org%3Ahestahealth+-org%3Amacquery-labs+-repo%3Akarammm%2Fmacquery+-repo%3Apesto-students%2Fp11-mohammad-burrows99",
   "more": {
-    "projects": 28,
-    "open": 32,
+    "projects": 30,
+    "open": 40,
     "link": "https://github.com/pulls?q=is%3Apr+author%3Aburrows99+is%3Aopen+archived%3Afalse+-user%3Aburrows99+-org%3Ahestahealth+-org%3Amacquery-labs+-org%3Apesto-students"
   },
   "projects": [
@@ -205,6 +205,15 @@
       "color": "#7C3AED"
     },
     {
+      "name": "next-intl",
+      "repo": "amannn/next-intl",
+      "id": 4038316,
+      "status": "merged",
+      "count": 1,
+      "color": "#1E293B",
+      "highlight": "localeCookie flags set to false (and undefined/null) stay out of the client cookie"
+    },
+    {
       "name": "Lexical",
       "repo": "meta/lexical",
       "id": 69631,
@@ -331,15 +340,6 @@
       "highlight": "Brush travellers move correctly with the keyboard"
     },
     {
-      "name": "next-intl",
-      "repo": "amannn/next-intl",
-      "id": 4038316,
-      "status": "open",
-      "count": 1,
-      "color": "#1E293B",
-      "highlight": "localeCookie flags set to false stay out of the cookie"
-    },
-    {
       "name": "LiteSVM",
       "repo": "LiteSVM/litesvm",
       "id": 154502493,
@@ -347,15 +347,6 @@
       "count": 2,
       "color": "#9945FF",
       "highlight": "failed durable-nonce transactions advance the nonce; drained fee payers removed"
-    },
-    {
-      "name": "Anchor",
-      "repo": "otter-sec/anchor",
-      "id": 99055801,
-      "status": "open",
-      "count": 1,
-      "color": "#5850EC",
-      "highlight": "TS client uses the accounts a custom resolver returns"
     },
     {
       "name": "MLflow",
@@ -428,6 +419,24 @@
       "count": 2,
       "color": "#F6851B",
       "highlight": "notifications and Card show \"Yesterday\" correctly after a clock change"
+    },
+    {
+      "name": "GitHub MCP",
+      "repo": "github/github-mcp-server",
+      "id": 9919,
+      "status": "open",
+      "count": 2,
+      "color": "#24292F",
+      "highlight": "annotated tags resolve in get_file_contents; swift ecosystem in security advisories"
+    },
+    {
+      "name": "MCP Toolbox",
+      "repo": "googleapis/mcp-toolbox",
+      "id": 16785467,
+      "status": "open",
+      "count": 2,
+      "color": "#4285F4",
+      "highlight": "SQLite keeps JSON-like text as a string; omitted optional prompt arguments render empty"
     },
     {
       "name": "DebugMCP",
