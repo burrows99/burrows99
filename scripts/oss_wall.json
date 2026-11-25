@@ -1,8 +1,8 @@
 {
   "merged_search": "https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+-user%3Aburrows99+-org%3Ahestahealth+-org%3Amacquery-labs+-repo%3Akarammm%2Fmacquery+-repo%3Apesto-students%2Fp11-mohammad-burrows99",
   "more": {
-    "projects": 30,
-    "open": 34,
+    "projects": 29,
+    "open": 35,
     "link": "https://github.com/pulls?q=is%3Apr+author%3Aburrows99+is%3Aopen+archived%3Afalse+-user%3Aburrows99+-org%3Ahestahealth+-org%3Amacquery-labs+-org%3Apesto-students"
   },
   "projects": [
@@ -223,6 +223,24 @@
       "highlight": "Swift advisories listable: ecosystem enum matched the REST API"
     },
     {
+      "name": "Recharts",
+      "repo": "recharts/recharts",
+      "id": 13690587,
+      "status": "merged",
+      "count": 2,
+      "color": "#8884D8",
+      "highlight": "Brush travellers move correctly with the keyboard"
+    },
+    {
+      "name": "WeKnora",
+      "repo": "Tencent/WeKnora",
+      "id": 18461506,
+      "status": "merged",
+      "count": 1,
+      "color": "#0052D9",
+      "highlight": "Tencent: grayscale and palette images reach the VLM as RGB"
+    },
+    {
       "name": "Lexical",
       "repo": "meta/lexical",
       "id": 69631,
@@ -340,15 +358,6 @@
       "highlight": "TagsInput splitChars literal; MultiSelect keeps disabled values on Backspace (both verified)"
     },
     {
-      "name": "Recharts",
-      "repo": "recharts/recharts",
-      "id": 13690587,
-      "status": "open",
-      "count": 2,
-      "color": "#8884D8",
-      "highlight": "Brush travellers move correctly with the keyboard"
-    },
-    {
       "name": "LiteSVM",
       "repo": "LiteSVM/litesvm",
       "id": 154502493,
@@ -446,6 +455,15 @@
       "count": 7,
       "color": "#0078D4",
       "highlight": "per-user rate limits, task filters on unknown fields, request headers on every page"
+    },
+    {
+      "name": "Langflow",
+      "repo": "langflow-ai/langflow",
+      "id": 85702467,
+      "status": "open",
+      "count": 1,
+      "color": "#7528FC",
+      "highlight": "flows list shows the last page after the current page empties"
     },
     {
       "name": "DebugMCP",
