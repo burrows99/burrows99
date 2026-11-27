@@ -1,8 +1,8 @@
 {
   "merged_search": "https://github.com/search?type=pullrequests&q=is%3Apr+author%3Aburrows99+is%3Amerged+-user%3Aburrows99+-org%3Ahestahealth+-org%3Amacquery-labs+-repo%3Akarammm%2Fmacquery+-repo%3Apesto-students%2Fp11-mohammad-burrows99",
   "more": {
-    "projects": 29,
-    "open": 35,
+    "projects": 30,
+    "open": 36,
     "link": "https://github.com/pulls?q=is%3Apr+author%3Aburrows99+is%3Aopen+archived%3Afalse+-user%3Aburrows99+-org%3Ahestahealth+-org%3Amacquery-labs+-org%3Apesto-students"
   },
   "projects": [
@@ -101,9 +101,9 @@
       "repo": "marimo-team/marimo",
       "id": 98563464,
       "status": "merged",
-      "count": 2,
+      "count": 3,
       "color": "#0E7F5F",
-      "highlight": "variables search stops matching cell IDs; data sources search ignores whitespace"
+      "highlight": "variables search stops matching cell IDs; data sources search ignores whitespace; invalid email/url shown with the default debounce"
     },
     {
       "name": "ContextForge",
@@ -137,9 +137,9 @@
       "repo": "react/metro",
       "id": 102812,
       "status": "merged",
-      "count": 1,
+      "count": 4,
       "color": "#087EA4",
-      "highlight": "Meta's React Native bundler: constant folding keeps side effects in sequence operands"
+      "highlight": "Meta's React Native bundler: constant folding keeps side effects and hoisted vars; inline-requires branches; export * __esModule"
     },
     {
       "name": "Prefect",
@@ -241,6 +241,15 @@
       "highlight": "Tencent: grayscale and palette images reach the VLM as RGB"
     },
     {
+      "name": "Mantine",
+      "repo": "mantinedev/mantine",
+      "id": 79146003,
+      "status": "merged",
+      "count": 2,
+      "color": "#339AF0",
+      "highlight": "TagsInput splitChars treated literally; MultiSelect keeps disabled values on Backspace"
+    },
+    {
       "name": "Lexical",
       "repo": "meta/lexical",
       "id": 69631,
@@ -248,15 +257,6 @@
       "count": 4,
       "color": "#0866FF",
       "highlight": "Meta: font-size input, roving-toolbar keys, floating toolbar after a block drag (all 4 approved)"
-    },
-    {
-      "name": "Metro",
-      "repo": "react/metro",
-      "id": 102812,
-      "status": "open",
-      "count": 3,
-      "color": "#087EA4",
-      "highlight": "Meta: inline-requires branches, hoisted vars when folding, export * __esModule"
     },
     {
       "name": "Faiss",
@@ -349,15 +349,6 @@
       "highlight": "audio and video blocks kept out of eviction; non-UTF-8 uploads byte-for-byte"
     },
     {
-      "name": "Mantine",
-      "repo": "mantinedev/mantine",
-      "id": 79146003,
-      "status": "open",
-      "count": 2,
-      "color": "#339AF0",
-      "highlight": "TagsInput splitChars literal; MultiSelect keeps disabled values on Backspace (both verified)"
-    },
-    {
       "name": "LiteSVM",
       "repo": "LiteSVM/litesvm",
       "id": 154502493,
@@ -383,15 +374,6 @@
       "count": 1,
       "highlight": "12 in the morning selects midnight",
       "color": "#F54E00"
-    },
-    {
-      "name": "marimo",
-      "repo": "marimo-team/marimo",
-      "id": 98563464,
-      "status": "open",
-      "count": 2,
-      "color": "#0E7F5F",
-      "highlight": "max_length counter while typing; invalid email/url with the default debounce"
     },
     {
       "name": "Mattermost",
